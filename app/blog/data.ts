@@ -1,0 +1,1409 @@
+export interface BlogPost {
+  slug: string;
+  title: string;
+  description: string;
+  date: string;
+  readTime: string;
+  category: string;
+  content: string;
+}
+
+
+export const blogPosts: BlogPost[] = [
+  {
+    slug: 'awareness-is-not-acceptance',
+    title: 'Awareness Is Not Acceptance — And the Difference Matters More Than You Think',
+    description: 'For years, the autism community has been given awareness. Blue lights. Awareness months. Puzzle pieces. But awareness was never the finish line. Acceptance is.',
+    date: 'April 14, 2024',
+    readTime: '5 min read',
+    category: 'Acceptance',
+    content: `Every April, the world "goes blue" for autism. Billboards change. Corporations tweet. People who have never thought about autism for the other eleven months of the year suddenly have opinions about it.
+
+And yet autistic people and their families will tell you: awareness did not change their lives. Acceptance might.
+
+## What awareness actually does
+
+Awareness campaigns tell people that autism exists. That there are people in the world whose brains work differently. That this is a thing worth knowing about.
+
+That is not nothing. But it is also not much.
+
+Awareness does not ask anything of anyone. You can be fully aware that autism exists and still design every public space, every classroom, every hiring process around the assumption of neurotypicality. You can be aware and still ask autistic children to sit still, make eye contact, suppress their stims, and perform behaviors they find painful — in exchange for being allowed to participate.
+
+Awareness places autism in the category of "things we should know about." Acceptance places autistic people in the category of "people who fully belong."
+
+## The model underneath the language
+
+The difference between awareness and acceptance is not just semantic. It reflects two different underlying models of what autism is.
+
+Awareness is largely built on the medical model — the idea that autism is a disorder, a deviation from normal development that should be identified, treated, and if possible corrected. The awareness framework asks: how do we help people with this condition?
+
+Acceptance is built on the neurodiversity framework — the idea that autism is a natural variation in human neurology, not a disease or defect. The acceptance framework asks: how do we build a world where autistic people can fully participate as they are?
+
+These are not compatible. And which one you start from determines everything that follows — the therapies you support, the language you use, the goals you set, the spaces you build.
+
+## What autistic people are asking for
+
+The autistic self-advocacy community has been clear and consistent: they want acceptance, not a cure. They want accommodations, not normalization. They want to be included in decisions about their own lives and futures — nothing about us without us.
+
+The most prominent autism acceptance organization in the country, the Autistic Self Advocacy Network, is run by autistic people, for autistic people. Their work is grounded in the idea that autistic people are the experts on autistic experience — not researchers, not clinicians, not parents, not awareness campaigns.
+
+That does not mean parents do not matter. It means that parents who love their autistic children are best served by listening to what autistic adults say they needed — and building from there.
+
+## What acceptance looks like in practice
+
+Acceptance looks like a school that teaches neurodivergent kids alongside neurotypical kids without treating the neurodivergent kids as a problem to be solved.
+
+It looks like a birthday party designed for sensory needs — lower lights, quieter music, clear schedules, space to decompress. It looks like an employer who adjusts communication styles rather than demanding eye contact in interviews.
+
+It looks like a community that shows up — not to help an autistic child become less autistic, but to celebrate who that child is.
+
+That is what WeBearish is building. One event, one resource, one family at a time.`,
+  },
+  {
+    slug: 'what-happened-at-bouncy-world',
+    title: 'What Happened at Bouncy World — And Why It Mattered',
+    description: 'On April 7, 2024, WeBearish hosted an Autism Acceptance Week event. Here is what it looked like, and why a party is sometimes the most radical act of acceptance there is.',
+    date: 'April 9, 2024',
+    readTime: '4 min read',
+    category: 'Community',
+    content: `On April 7, 2024, WeBearish hosted an Autism Acceptance Week party at Bouncy World Indoor Mega Playland. Fox 5 News was there. Families were there. Kids were there.
+
+And for a few hours, the space belonged entirely to them.
+
+## Why a party
+
+The instinct when building an autism organization is to reach for programs. Workshops. Resources. Support groups. All of that has value. But WeBearish started with a party — and that choice was deliberate.
+
+Autistic children are often told, implicitly or explicitly, that their presence in certain spaces is conditional. That they can participate if they are quiet enough, still enough, typical enough. That their behavior must be managed before they can fully belong.
+
+A party is the opposite of that. A party says: you are welcome here as you are. Come and play. Come and feel what it is like to be in a space that was built for you today.
+
+That is what Bouncy World looked like on April 7. Kids bouncing. Families talking. No speeches about challenges or deficits. No therapy framing. No tragedy narrative. Just joy — unfiltered, unconditioned, real.
+
+## What Fox 5 covered
+
+Fox 5 News showed up because a parent-driven, community-funded autism acceptance event was a story worth telling. What they found was not what autism coverage usually looks like.
+
+This was not a piece about the difficulties of raising autistic children. It was a piece about a community that decided to celebrate. That distinction matters. The story you tell about autistic children shapes how they see themselves, and how the world sees them.
+
+## What came next
+
+The Bouncy World event was the beginning. A proof of concept for what WeBearish is: a movement that shows up in the real world, not just online. That creates moments of belonging, not just awareness.
+
+Baby steps. Big dreams.
+
+The next event will be bigger. The community will be larger. And every dollar WeBearish earns between now and then goes back into making it happen.`,
+  },
+  {
+    slug: 'language-that-helps-and-hurts',
+    title: 'The Words We Use Around Autism — What Helps and What Hurts',
+    description: 'Language is not just communication. It shapes how we think. And the words most commonly used around autism carry assumptions that deserve a closer look.',
+    date: 'March 3, 2024',
+    readTime: '6 min read',
+    category: 'Resources',
+    content: `Language is not neutral. The words we choose to describe autism — and autistic people — carry embedded assumptions about what autism means, whether it is good or bad, whether autistic people are whole or broken, whether they need to be understood or fixed.
+
+Most people who use harmful language do not intend harm. They are using the words they inherited. But intention does not determine impact. And in a world where autistic children are already navigating enormous pressure to conform, the language that surrounds them matters.
+
+## "Suffers from autism"
+
+The most common harmful construction is "suffers from autism." It defines the autistic person by their suffering — not by their personality, their strengths, their experience, their life.
+
+Most autistic people do not experience their autism as suffering. They experience a world designed for neurotypical people as frustrating, exhausting, and sometimes painful. That is not the same thing.
+
+"Suffers from autism" places the problem inside the person. The neurodiversity framework places the problem in the gap between a person's needs and the world's willingness to accommodate them.
+
+## "High functioning" and "low functioning"
+
+Functioning labels seem helpful — they feel like they give useful information. They do not.
+
+"High functioning" often means: this autistic person's needs are invisible to me. People who are labeled high functioning frequently have intense, unmet support needs that go unaddressed because they appear to be "doing fine."
+
+"Low functioning" often means: I have reduced my expectations of this person's potential. It becomes a ceiling rather than a description.
+
+Autistic experience is not a single spectrum from "a little autistic" to "very autistic." It is a collection of different profiles — a person may have extremely high language fluency and extremely high sensory sensitivity. Functioning labels collapse that complexity into a single number that serves no one, least of all the autistic person.
+
+## Identity-first vs. person-first language
+
+This one is genuinely contested, and the answer is: ask the person.
+
+Person-first language ("person with autism") was developed with good intentions — to emphasize that the person is more than their diagnosis. Many parent and professional communities use it by default.
+
+Identity-first language ("autistic person") is preferred by the majority of autistic self-advocates. The reasoning: autism is not something separate from the person that they happen to carry around. It is integral to how they experience and move through the world.
+
+The short version: follow the lead of the autistic person in front of you.
+
+## What to do
+
+You do not need to be perfect. You need to be willing to listen. When an autistic person or their family tells you that a word hurt, believe them. Update your language. Move on.
+
+That is what acceptance looks like in practice — not getting it right on the first try, but being willing to learn.`,
+  },
+  {
+    slug: 'the-aba-debate-what-parents-need-to-know',
+    title: 'The ABA Debate: What Parents of Autistic Children Need to Know',
+    description: 'Applied Behavior Analysis is the most widely covered autism therapy in the US. It is also one of the most controversial. Here is what the debate is actually about.',
+    date: 'January 20, 2024',
+    readTime: '7 min read',
+    category: 'Advocacy',
+    content: `If your child has been diagnosed as autistic, you have probably encountered Applied Behavior Analysis — ABA therapy. Insurance covers it. School districts recommend it. It is often presented as the gold standard of autism intervention.
+
+It is also one of the most controversial topics in the autism acceptance community. Understanding why requires understanding what ABA actually is — and what autistic adults who received it as children have said about the experience.
+
+## What ABA is
+
+Applied Behavior Analysis is a therapeutic approach based on behaviorism — the idea that behavior can be modified through reinforcement and consequence. In autism contexts, it typically involves intensive, structured sessions aimed at teaching communication, daily living skills, and reducing behaviors considered disruptive or atypical.
+
+ABA is the only autism intervention with strong insurance coverage in most US states. That coverage was won through decades of advocacy by parent organizations, and it reflects a genuine belief that ABA helps autistic children.
+
+## Why autistic adults oppose it
+
+The autistic self-advocacy community is broadly opposed to ABA — particularly the intensive, early-intervention forms that aim to produce "indistinguishable" behavior from neurotypical peers.
+
+The core objection: ABA often targets behaviors that autistic people engage in for legitimate reasons.
+
+Stimming — the repetitive movements, sounds, or actions that autistic people use to self-regulate — is frequently a target of ABA. But stimming serves a function. It reduces anxiety, manages sensory overload, and provides comfort. Teaching an autistic child to suppress their stims does not address the underlying need. It just makes the need invisible to others.
+
+Many autistic adults who received ABA as children describe the experience as traumatic. Not because their therapists were cruel, but because the therapy asked them to perform neurotypicality at a cost to their own wellbeing — and they learned that their natural ways of being were wrong.
+
+## What this means for families
+
+This is a genuinely hard situation. Parents of newly diagnosed autistic children are given limited options, significant pressure, and an insurance system that covers one type of intervention much more generously than others.
+
+The WeBearish position is not to tell families what to do. It is to make sure families have access to the full picture — including what autistic adults say they needed, which was not to become less autistic, but to be understood and accommodated as they are.
+
+That conversation is worth having. And autistic people need to be in the room when it happens.`,
+  },
+  {
+    slug: 'what-is-neurodiversity',
+    title: 'What Is Neurodiversity — And Why It Changes Everything',
+    description: 'Neurodiversity is not a buzzword. It is a framework that shifts autism from a disorder to be fixed into a natural human variation to be understood. Here is what that shift actually means.',
+    date: 'December 18, 2023',
+    readTime: '6 min read',
+    category: 'Acceptance',
+    content: `The word "neurodiversity" was coined in 1998 by Australian sociologist Judy Singer, who is autistic herself. In the two and a half decades since, it has gone from an academic concept to a movement — and it has changed the way millions of families, clinicians, and educators think about autism.
+
+But the word gets used loosely. Here is what it actually means, and why the framework underneath it matters enormously for how we treat autistic children.
+
+## The basic idea
+
+Neurodiversity is the observation that human brains vary. Not just in terms of personality or learning style — but in fundamental neurological architecture. Some brains are neurotypical. Some are autistic. Some are ADHD. Some are dyslexic. Some are a combination of several things at once.
+
+The neurodiversity framework argues that this variation is natural, not pathological. That autism is not a disease or defect, but a different way of processing and experiencing the world. That neurotypical is not the correct way to be human — it is one way.
+
+## Why this framework matters for autistic children
+
+If you start from the deficit model — autism as disorder — the goal of every intervention is to make the autistic child as neurotypical as possible. Sit still. Make eye contact. Suppress the stims. Use the right tone of voice. Stop the meltdowns. The goal, explicitly or implicitly, is to make autism invisible.
+
+This goal has a cost. Autistic people who have spent their childhoods performing neurotypicality describe the experience as exhausting, identity-erasing, and in many cases traumatic. When your natural way of being is treated as a problem to be fixed every day of your life, it does not leave you intact.
+
+If you start from the neurodiversity framework, the goal shifts. The question is no longer "how do we fix this child?" but "how do we build an environment where this child can thrive as they are?" That question leads to different answers — sensory accommodations, communication flexibility, acceptance of stimming, focus on the child's strengths rather than their deficits.
+
+## What neurodiversity is not
+
+Neurodiversity does not mean autism is easy. It does not mean autistic children and adults do not face real challenges. Many autistic people have significant support needs. Many experience pain, difficulty, and barriers that are real and serious.
+
+The neurodiversity framework does not minimize those challenges. It argues that many of them are the result of a world designed around neurotypicality — and that the solution is not to normalize autistic people, but to build more accessible and accommodating systems.
+
+## The practical upshot
+
+A neurodiversity framework in practice means: ask what the autistic person needs, not what behaviors we need to eliminate. Build the environment around the person rather than demanding the person fit the environment. Measure success by the autistic person's wellbeing, not their conformity to neurotypical norms.
+
+That is a different way of building schools, families, workplaces, and communities. It is the way WeBearish is trying to build.`,
+  },
+  {
+    slug: 'sensory-processing-from-the-inside',
+    title: 'Sensory Processing: What It Actually Feels Like From the Inside',
+    description: 'Most people understand that autistic individuals can be sensitive to sensory input. Fewer understand what that actually means for a child trying to get through an ordinary day.',
+    date: 'December 4, 2023',
+    readTime: '6 min read',
+    category: 'Resources',
+    content: `Sensory processing differences are one of the most common — and most misunderstood — aspects of autism. Most people have heard that autistic children can be sensitive to loud noises or certain textures. What most people have not done is try to imagine what that sensitivity actually feels like when it is your daily reality.
+
+Understanding sensory processing from the inside changes how you respond to it.
+
+## What the sensory system does
+
+Every human nervous system filters sensory input. In a typical environment, you receive thousands of pieces of sensory information every second — the feel of your clothes against your skin, the hum of an air conditioner, the smell of the room, the temperature of the air, the fluorescent flicker of a light overhead. Your brain processes most of this automatically and filters out what it has determined is not relevant.
+
+For many autistic people, this filtering works differently. Input that a neurotypical person barely notices may register at full intensity. The seam of a sock. The buzz of a fluorescent light. The smell of a nearby person's perfume. The sound of a refrigerator motor. These things are present, loud, and impossible to background.
+
+## The result
+
+Imagine trying to concentrate on a math problem while someone slowly drags a spoon across a glass plate, continuously, for the entire class period. That is roughly what a classroom's ambient noise can feel like for an autistic child with auditory sensitivity.
+
+Now add the scratchy label in the back of your shirt. The smell of someone's lunch three rows away. The uncomfortable chair. The flicker of the overhead light. The way the sunlight keeps shifting through the window.
+
+Every piece of that input requires processing. There is a finite amount of cognitive and nervous system capacity available. If most of it is being used to manage sensory overwhelm, less of it is available for learning, for social interaction, for self-regulation.
+
+## Sensory seeking vs. sensory avoiding
+
+Sensory differences do not look the same in every autistic person. Some people are hypersensitive — overwhelmed by inputs others barely register. Some are hyposensitive — they seek out intense sensory input because their nervous system is less responsive. Many are both, depending on the type of input and the circumstances.
+
+A child who covers their ears at ordinary noise is hypersensitive to sound. A child who spins, rocks, or seeks out tight spaces is often engaging in sensory seeking — finding input that regulates their nervous system. Both are the nervous system trying to manage its own regulation. Neither is misbehavior.
+
+## What actually helps
+
+Sensory accommodations are among the most effective and least expensive interventions for many autistic people. Noise-canceling headphones. Clothing without tags. Dimmer switches. Scheduled breaks in quiet spaces. Flexible seating. Permission to stim.
+
+None of these require the child to change. They require the environment to flex. That is the difference between accommodation and normalization — and it is a difference that matters enormously for the wellbeing of autistic children who spend their days trying to learn in environments that were not built with them in mind.`,
+  },
+  {
+    slug: 'talking-to-your-childs-school',
+    title: 'How to Talk to Your Child\'s School About Autism Acceptance',
+    description: 'Navigating schools as an autism parent requires strategy, documentation, and knowing your rights. Here is a practical guide to having the conversations that actually move the needle.',
+    date: 'November 19, 2023',
+    readTime: '7 min read',
+    category: 'Advocacy',
+    content: `Schools are where autistic children spend most of their waking hours. They are where the gap between awareness and acceptance plays out in real time, every day. And they are where the conversations you have — or do not have — as a parent can make an enormous difference in your child's experience.
+
+This is a practical guide. Not an idealistic one.
+
+## Know the legal framework first
+
+In the United States, autistic children are protected under two federal laws: the Individuals with Disabilities Education Act (IDEA) and Section 504 of the Rehabilitation Act.
+
+IDEA guarantees children with qualifying disabilities — including autism — the right to a Free Appropriate Public Education (FAPE) in the Least Restrictive Environment (LRE). This means your child has the right to receive appropriate educational support without being unnecessarily segregated from neurotypical peers.
+
+Section 504 provides broader protections: even if your child does not qualify for an IEP, they may qualify for a 504 Plan that requires reasonable accommodations in the general education environment.
+
+Knowing these frameworks before you walk into a meeting changes the dynamic of the meeting.
+
+## The IEP meeting
+
+The Individualized Education Program is the document that governs your child's educational experience if they qualify for special education services. IEP meetings can feel overwhelming — a table full of professionals using jargon, a limited time window, pressure to sign.
+
+A few things to know going in:
+
+You are a member of the IEP team. Your input is not optional — it is legally required. You have the right to request an independent educational evaluation if you disagree with the school's assessment. You do not have to sign the IEP at the meeting. You can take it home, review it, and ask for changes.
+
+The goals in the IEP should be measurable, specific, and tied to your child's actual needs. Generic language like "will improve social skills" is not sufficient. Push for specificity.
+
+## The acceptance conversation
+
+Beyond legal rights, there is a softer but equally important conversation to have: what does acceptance actually look like in this classroom?
+
+This means asking: How does this teacher respond when my child stims? What happens when my child needs to take a sensory break? How are other students taught to understand and include my child? What communication accommodations are in place?
+
+These questions signal to the school that you are paying attention — not just to compliance, but to culture. Schools that know parents are watching tend to build better cultures.
+
+## Document everything
+
+Email after every meeting. Summarize what was agreed. Keep records of everything.
+
+This is not about being adversarial. It is about creating a shared record that protects your child when staff change, when memories differ, when the school year begins again and everyone is starting fresh.
+
+Your child deserves a school experience that was built for them. Advocating for that — firmly, consistently, and with documentation — is one of the most important things you can do.`,
+  },
+  {
+    slug: 'stimming-leave-it-alone',
+    title: 'Stimming: What It Is, Why It Happens, and Why You Should Leave It Alone',
+    description: 'Stimming is one of the most commonly misunderstood autistic behaviors. It is also one of the most important. Here is why suppressing it causes harm — and what to do instead.',
+    date: 'November 5, 2023',
+    readTime: '5 min read',
+    category: 'Resources',
+    content: `Stimming — self-stimulatory behavior — is one of the most visible aspects of autism, and one of the most misunderstood. It is also the behavior most frequently targeted by behavioral interventions. Which means it is worth understanding clearly: what it is, what it does, and what happens when it is suppressed.
+
+## What stimming is
+
+Stimming refers to repetitive sensory or motor behaviors. Rocking. Hand-flapping. Spinning. Humming. Repeating words or phrases. Scratching. Rubbing surfaces. Looking at lights from the corner of the eye.
+
+The list is long and highly individual. Every autistic person's stims are their own — shaped by their specific sensory profile and nervous system.
+
+## What stimming does
+
+Stimming is not purposeless. It serves specific regulatory functions.
+
+It manages sensory input — providing predictable, self-generated input that the nervous system can control, in contrast to the unpredictable sensory environment all around. It manages emotional states — when an autistic person is overwhelmed, excited, anxious, or happy, stimming helps process and express that state. It aids concentration — providing a background rhythm that makes it easier to focus on a task, much like how some people tap their foot or click a pen while thinking.
+
+Stimming is, in short, a coping and regulation mechanism. It is not misbehavior. It is not a symptom that needs to be eliminated. It is the nervous system doing its job.
+
+## What happens when stimming is suppressed
+
+Many autistic people who underwent behavioral therapy that targeted stimming describe the aftermath clearly: they learned to stim internally rather than externally. The stim became invisible, but the need for regulation did not go away. The cost was enormous cognitive and emotional energy diverted to managing external presentation rather than actual regulation.
+
+The suppression of stimming is associated with increased anxiety, exhaustion, and long-term psychological harm. Autistic adults consistently describe suppressing their stims as one of the most draining aspects of trying to navigate a neurotypical world.
+
+## What to do instead
+
+If a stim is not hurting anyone — including the autistic person — it should be left alone. The discomfort of neurotypical observers is not a sufficient reason to suppress a regulation mechanism that someone needs.
+
+If a stim is causing physical harm — head-banging that results in injury, for example — the approach should be to understand what need the stim is meeting and find a safe alternative, not simply to eliminate the behavior without replacement.
+
+The starting point is always: what is this stim doing for this person? Answer that question, and you are much better equipped to support them.`,
+  },
+  {
+    slug: 'meltdowns-vs-tantrums',
+    title: 'Meltdowns vs. Tantrums: They Are Not the Same Thing',
+    description: 'Parents of autistic children know the difference. But the rest of the world often does not — and the misunderstanding causes real harm. Here is what a meltdown actually is.',
+    date: 'October 21, 2023',
+    readTime: '5 min read',
+    category: 'Resources',
+    content: `When an autistic child has a meltdown in public — screaming, crying, dropping to the floor, becoming inconsolable — the reactions from people around them are often judgmental. They assume they are seeing a badly behaved child and a permissive parent.
+
+They are not. They are seeing a neurological crisis. And the distinction matters enormously.
+
+## What a tantrum is
+
+A tantrum is a behavior driven by a goal. A child wants something — candy, a toy, more time at the park — and uses escalating emotional behavior to try to get it. The behavior is goal-directed, and it typically stops when the goal is achieved or when the child concludes that it is not going to be achieved.
+
+Tantrums are normal developmental behavior. They are not pleasant, but they are purposeful and navigable. The child is in control of the behavior, even if that control is being used manipulatively.
+
+## What a meltdown is
+
+A meltdown is not goal-directed. It is the result of the nervous system being overwhelmed past the point of regulation. When sensory input, emotional demands, unpredictability, or fatigue accumulate beyond what the autistic person's nervous system can manage, the system goes into crisis.
+
+During a meltdown, the person is not choosing their behavior. The prefrontal cortex — the part of the brain responsible for regulation, decision-making, and behavioral control — goes effectively offline. What you are seeing is not manipulation. It is dysregulation. The person is not in control.
+
+This is why the standard tantrum responses — ignoring the behavior, applying consequences, demanding the child calm down — do not work during meltdowns and often make them worse. You are trying to reason with a nervous system that is no longer in reasoning mode.
+
+## What actually helps
+
+The primary goal during a meltdown is safety and reduction of additional input. Get to a quieter space if possible. Reduce demands. Lower your voice. Do not try to talk the person through it — words are often processed poorly during meltdown states. Stay present but not intrusive.
+
+After the meltdown, when the nervous system has regulated, there may be room for conversation. Not as a consequence or a lesson, but as a connection — what happened, what was too much, what might help next time.
+
+## The public dimension
+
+The judgment autistic families face during public meltdowns is a form of the same problem WeBearish is trying to address — a world that sees autistic behavior through a neurotypical lens and draws neurotypical conclusions.
+
+Understanding the difference between a meltdown and a tantrum is a small piece of building a more accepting world. It is the difference between a parent receiving a knowing nod or a condemning stare.
+
+The parent already knows what their child is going through. What they need from the world around them is not advice or judgment. It is room.`,
+  },
+  {
+    slug: 'finding-your-community',
+    title: 'Finding Your Community as an Autism Parent',
+    description: 'The isolation of raising an autistic child in a world that does not understand them is real. Finding community — the right community — can change everything.',
+    date: 'October 7, 2023',
+    readTime: '5 min read',
+    category: 'Community',
+    content: `Raising an autistic child can be profoundly isolating. Play dates fall apart. Social events become minefields. Well-meaning family members say the wrong things. Friends who do not have children with similar needs drift away. The particular combination of love, exhaustion, advocacy, and grief that autism parenting involves is hard to explain to people who have not lived it.
+
+Finding community — people who get it without needing it explained — is one of the most important things an autism parent can do. Not just for themselves, but for their child, who needs to see their parents supported and not alone.
+
+## The wrong communities
+
+Not all autism communities are built the same. Some are organized primarily around tragedy — forums and groups where the dominant narrative is grief, burden, and cure. These communities exist, and they serve real emotional needs. But they can also reinforce a way of seeing your child that makes it harder to fully accept them.
+
+Be thoughtful about where you spend your emotional energy. Communities organized around curing or fixing autism tend to be organized around the idea that something is wrong with your child. Communities organized around acceptance tend to be organized around the idea that something is wrong with the world, and the goal is to change the world.
+
+Both communities have their grief. The difference is what they are grieving and what they are working toward.
+
+## Where to look
+
+Local parent groups through your child's school or therapy provider can be a starting point, but they vary enormously in culture. Facebook groups are imperfect but large — you can find both local and interest-specific groups. Organizations like the Autistic Self Advocacy Network have chapters in many cities.
+
+And increasingly, autistic adults are building community spaces that include parents — not as an afterthought, but as part of the same ecosystem. Spending time in those spaces, listening to what autistic adults say they needed as children, is one of the most valuable things an autism parent can do.
+
+## What you are looking for
+
+You are looking for people who see your child as a full human being. People who do not flinch at the hard parts but also do not reduce your child to them. People who can hold both the reality of significant challenges and the reality of complete inherent worth at the same time.
+
+Those people exist. WeBearish is trying to help build the community that connects them. Because the isolation does not have to be permanent. And the journey — as hard as it is — does not have to be walked alone.`,
+  },
+  {
+    slug: 'history-of-autism-pathology-to-pride',
+    title: 'The History of Autism: From Pathology to Pride',
+    description: 'The understanding of autism has changed dramatically over the last 80 years. Understanding that history helps explain where we are now — and where we need to go.',
+    date: 'September 22, 2023',
+    readTime: '7 min read',
+    category: 'Acceptance',
+    content: `Autism as a clinical category is less than 100 years old. In that relatively short time, the understanding of what autism is — and how to respond to it — has shifted dramatically. Understanding that history is important context for the debates happening right now about acceptance, treatment, and identity.
+
+## The early years: Kanner and Asperger
+
+The word "autism" in its clinical sense was introduced in 1943 by Leo Kanner, an Austrian-American psychiatrist at Johns Hopkins. Kanner described a group of children with what he called "autistic disturbances of affective contact" — children who seemed to withdraw into themselves, had unusual relationships with objects, and often had echolalia (repeating words or phrases).
+
+Around the same time, Austrian pediatrician Hans Asperger was describing a similar but distinct group in Vienna. Asperger's work, published in 1944, described children who were highly intelligent but had significant social difficulties — what would later come to be called Asperger syndrome.
+
+Both were working from a deficit model, but both also recognized strengths in the children they were studying. Asperger famously wrote that "a dash of autism" was likely necessary for achievement in certain fields.
+
+## The refrigerator mother era
+
+In the 1950s and 1960s, the dominant theory about the cause of autism was psychogenic — the idea that autism was caused by cold, distant mothering. Bruno Bettelheim, a psychologist at the University of Chicago, was the primary proponent of what came to be called the "refrigerator mother" theory.
+
+This theory was not only wrong — it was devastating. Mothers of autistic children were blamed for causing their children's autism through emotional neglect. Many children were institutionalized on the theory that removing them from their mothers would allow them to recover.
+
+This era is a reminder of how much harm can be done by confident clinical theories that have not been rigorously tested — and by a system that would rather blame parents than ask harder questions about the brain.
+
+## The behavioral era
+
+Beginning in the 1960s, behavioral approaches — particularly those of Ole Ivar Lovaas at UCLA — became dominant. Lovaas developed intensive behavioral therapy for autistic children, using reinforcement to teach desired behaviors. Early versions of this approach used aversive conditioning, including electric shocks, which were eventually abandoned.
+
+The Lovaas approach became the basis for Applied Behavior Analysis (ABA), which remains the most widely covered autism intervention in the United States.
+
+## The rise of the autistic self-advocacy movement
+
+In the 1990s, autistic people began organizing to speak for themselves. Online communities allowed autistic people to connect across geography and recognize shared experiences. In 1996, Jim Sinclair published "Don't Mourn for Us," a landmark essay addressed to autism parents that articulated what autistic people needed from the world — not a cure, but acceptance.
+
+The Autistic Self Advocacy Network was founded in 2006 by Ari Ne'eman. The neurodiversity movement — the framework that autism is a natural human variation rather than a disease — grew out of this community.
+
+## Where we are now
+
+The diagnostic category has expanded significantly. The DSM-5 (2013) consolidated the previous separate diagnoses — autistic disorder, Asperger syndrome, PDD-NOS — into a single "autism spectrum disorder." This has increased the diagnosed population significantly and brought more families into the conversation.
+
+The advocacy landscape is contested. Organizations like Autism Speaks — historically the most funded autism nonprofit in the US — have faced significant criticism from the autistic community for funding cure research without meaningful autistic leadership. Organizations like ASAN represent the acceptance framework.
+
+Understanding this history is not academic. It shapes the choices available to families right now — the therapies being offered, the organizations being funded, the way autism is talked about in schools and media and policy.
+
+WeBearish exists in that history. And it exists because that history shows that the people closest to autism — autistic people and their families — have consistently had to fight to be heard.`,
+  },
+  {
+    slug: 'what-autistic-adults-wish-you-knew',
+    title: 'What Autistic Adults Wish People Knew About Their Childhood',
+    description: 'The most important voices in autism advocacy are often the quietest in the room: autistic adults reflecting on what they needed, what helped, and what hurt. Here is what they say.',
+    date: 'September 8, 2023',
+    readTime: '6 min read',
+    category: 'Acceptance',
+    content: `If you want to understand what autistic children need, talk to autistic adults. They have lived the experience you are trying to support. They know what helped and what did not. They know what it cost to grow up in a world that was not designed for them.
+
+The autism community has, for decades, built its understanding of autism almost exclusively around the perspective of parents, clinicians, and researchers — and not around the perspective of autistic people themselves. The result is a body of research and a set of interventions that reflect what neurotypical observers decided was important, rather than what autistic people themselves report needing.
+
+Here is what autistic adults consistently say.
+
+## They needed to be understood, not fixed
+
+Nearly universally, autistic adults describe the experience of childhood therapies and interventions as being aimed at making them less autistic — not at helping them function better as themselves.
+
+The goal of becoming indistinguishable from neurotypical peers was not just unachievable — it was damaging. It communicated, clearly and repeatedly, that who they were was not acceptable. That they needed to become something different in order to be worthy of belonging.
+
+What they needed — and often did not get — was to be understood. For someone to ask: what is this hard for you? What would make this easier? How can the environment flex to meet you?
+
+## They needed permission to stim
+
+Stimming suppression is one of the most commonly reported harms from childhood behavioral therapy. Autistic adults describe spending enormous cognitive and emotional energy on suppressing stims in public — energy that was unavailable for learning, socializing, and simply being present in the world.
+
+The relief of being in a space where stimming is accepted is described by autistic adults as profound. It sounds like a small thing. It is not a small thing.
+
+## They needed someone to believe them
+
+Autistic sensory experiences are often invisible to neurotypical observers. The sock seam that is genuinely painful. The noise that is genuinely overwhelming. The smell that is genuinely nauseating.
+
+Many autistic adults describe being told that these experiences were exaggerated, manipulative, or attention-seeking. The experience of having a genuine, real sensory experience dismissed — repeatedly, by adults in positions of authority — has lasting effects.
+
+## They needed their interests respected
+
+Special interests — the deep, intense, often highly specific areas of interest that many autistic people develop — are frequently treated as something to be managed or redirected in childhood. Limit screen time. Vary the topics. Broaden the exposure.
+
+Autistic adults describe their special interests as sources of joy, identity, and in many cases vocational direction. Being told your deepest source of joy is a symptom is not a neutral experience.
+
+## What this means for you
+
+If you are raising an autistic child, the most useful thing you can do is find autistic adults to listen to. Read their writing. Watch their videos. Follow their social media accounts. Understand what they needed before you decide what your child needs.
+
+They are telling you. The question is whether the adults around autistic children are willing to hear it.`,
+  },
+  {
+    slug: 'sensory-friendly-spaces',
+    title: 'Sensory-Friendly Spaces: What They Are and How to Create Them',
+    description: 'A sensory-friendly space is not a special room in a building. It is a set of choices about design, noise, lighting, and expectations that make a space genuinely accessible to autistic people.',
+    date: 'August 24, 2023',
+    readTime: '5 min read',
+    category: 'Resources',
+    content: `The phrase "sensory-friendly" gets used a lot. Movie theaters offer sensory-friendly screenings. Stores advertise sensory-friendly hours. Schools build sensory rooms. But the concept is often applied superficially — a reduced-lights event that still has loud music, or a "quiet room" that is actually adjacent to the gym.
+
+A genuinely sensory-friendly space requires understanding what sensory processing differences actually mean, and making design choices accordingly.
+
+## Lighting
+
+Fluorescent lighting is a significant sensory issue for many autistic people. The flicker — invisible to most neurotypical people but registered by autistic nervous systems — creates a constant low-level irritant that consumes processing capacity throughout the day.
+
+Natural light is best. LED lighting with a high color rendering index and no flicker is significantly better than fluorescent. Adjustable lighting — dimmers, options to reduce intensity — allows people with different sensory profiles to find what works for them.
+
+## Sound
+
+Sound management is one of the most impactful elements of a sensory-friendly design. Carpeting and soft furnishings absorb sound. Open floor plans with hard surfaces create noise amplification. Background music — even quiet background music — adds to the sensory load.
+
+Designated quiet spaces — real quiet spaces, not just spaces labeled quiet — give autistic people a place to decompress. Predictable sound environments (no sudden loud announcements, no unexpected noise) are significantly easier to navigate than unpredictable ones.
+
+## Transitions and predictability
+
+Sensory-friendly spaces also consider the non-physical aspects of the environment. Clear visual schedules. Advance notice of changes. Predictable routines. These reduce the cognitive load of navigating an unpredictable environment, which in turn reduces the overall sensory and emotional burden on the autistic person.
+
+## At home
+
+You do not need to renovate your home to create a more sensory-friendly environment. Swap fluorescent bulbs for warm LED. Create a designated calm space — a corner with soft lighting, a weighted blanket, noise-canceling headphones, and familiar comfort objects. Reduce clutter, which can be visually overwhelming. Establish predictable routines, especially for transitions.
+
+The goal is not a sterile, silent environment — many autistic people enjoy significant sensory input. The goal is a predictable environment where the autistic person has some control over their sensory experience.
+
+Control is the key word. A child who can choose to put on headphones, who can request a dimmer light, who has a space to go when overwhelmed — that child is in a fundamentally different position than a child who must simply endure whatever the environment provides.`,
+  },
+  {
+    slug: 'puzzle-piece-symbol',
+    title: 'The Puzzle Piece Symbol: Why the Autism Community Moved On',
+    description: 'The puzzle piece has been the symbol of autism for over 50 years. It is also one of the most contested symbols in disability advocacy. Here is the full story.',
+    date: 'August 10, 2023',
+    readTime: '5 min read',
+    category: 'Acceptance',
+    content: `The puzzle piece has represented autism since 1963, when the National Autistic Society in the United Kingdom adopted it as their logo. The choice was made by a neurotypical board member, reportedly to represent the "puzzling" nature of autism and the "incompleteness" of autistic people.
+
+That origin story tells you everything you need to know about why the symbol has become controversial.
+
+## What the puzzle piece communicates
+
+The puzzle piece, as a symbol, carries specific connotations. Puzzles have missing pieces. Puzzles are incomplete until solved. A puzzle piece that does not fit is a problem.
+
+Applied to autism, this symbolism implies that autistic people are incomplete — that they have something missing, something that needs to be found or supplied or fixed. It frames autism as a mystery to be solved by neurotypical observers, rather than an identity to be understood and respected.
+
+These are not the only possible interpretations. But they are the dominant ones, and they are the ones that many autistic people report feeling when they see the symbol.
+
+## The autistic community's response
+
+The autistic self-advocacy community has largely rejected the puzzle piece in favor of alternative symbols — most notably the rainbow infinity symbol, which represents the diversity and infinite possibilities of neurodivergent minds, without the implication of incompleteness or missing pieces.
+
+The gold or rainbow infinity symbol has become widely used by autistic people and acceptance-focused organizations as an alternative. It does not carry the baggage of the puzzle piece's origins, and it was developed with autistic input.
+
+## Why it matters
+
+Symbols matter because they communicate values. When an organization or event uses the puzzle piece, it signals — often unintentionally — a particular framework for thinking about autism. When it uses the infinity symbol, it signals a different framework.
+
+Parents who are new to the autism world often do not know this history. They use the puzzle piece because it is what they see everywhere. This is not a moral failing — it is a gap in information that is worth filling.
+
+WeBearish uses the infinity symbol. Not because symbols are the most important thing in autism advocacy — they are not. But because the small choices accumulate, and because every choice is an opportunity to communicate clearly: your child is not a puzzle to be solved. They are a whole person, exactly as they are.`,
+  },
+  {
+    slug: 'how-schools-get-autism-wrong',
+    title: 'How Schools Are Getting Autism Wrong — And What Would Actually Help',
+    description: 'Despite decades of inclusion policy, most public schools are still fundamentally designed for neurotypical students. Here is what needs to change.',
+    date: 'July 27, 2023',
+    readTime: '7 min read',
+    category: 'Advocacy',
+    content: `The Individuals with Disabilities Education Act has been law for nearly fifty years. The principle of Least Restrictive Environment — the idea that autistic and disabled students should be educated alongside their neurotypical peers to the maximum extent appropriate — is well established in policy.
+
+And yet the reality of most public school classrooms for autistic students is still significantly short of what the law envisions and what autistic children need.
+
+## The design problem
+
+Public school classrooms are designed for neurotypical students. The physical environment — open floor plans, fluorescent lighting, hard floors, close seating — creates sensory conditions that are genuinely difficult for many autistic students to learn in. The pedagogical approach — extended sitting, eye contact expectations, social group work, unstructured transition times — assumes a neurotypical style of processing and engagement.
+
+These are not minor inconveniences for autistic students with significant sensory differences. They are structural barriers to participation. And because the structures are invisible to neurotypical teachers and administrators, they often get attributed to the student's disability rather than to the environment.
+
+## The inclusion problem
+
+Inclusion, as most schools practice it, is proximity — autistic students are physically present in general education classrooms. It is not the same as belonging, which would mean that the classroom is designed to include them.
+
+An autistic student who is in the general education classroom but cannot access the curriculum because of sensory overwhelm, cannot communicate in the expected mode, and is not understood by their teacher has not been included. They have been placed.
+
+True inclusion requires the environment to flex. Different seating options. Predictable routines. Flexible communication modes. Sensory accommodations. Clear instructions. Reduced ambient noise. These are not extraordinary accommodations — they are reasonable design choices that benefit many students, not just autistic ones.
+
+## What teachers need
+
+Most teachers do not have adequate training in autism. What training they do receive is often deficit-focused — identifying and managing challenging behaviors — rather than strengths-based and accommodating.
+
+Teachers who understand sensory processing, who know what stimming is and why suppressing it causes harm, who can read a communication shutdown as overwhelm rather than defiance — these teachers can make an autistic student's school experience dramatically better. They exist. They need support, training, and administrative backing.
+
+## What families can do
+
+Advocate. Know your rights under IDEA and Section 504. Request the specific accommodations your child needs in writing. Attend IEP meetings prepared. Ask for the data that shows interventions are working.
+
+And build relationships with teachers who get it. They are worth their weight in gold. Support them. Thank them. Let them know what is working so they can build on it.
+
+Schools are not going to change on their own. They change when families and educators — and eventually policy — demand better. That work is happening. WeBearish is part of it.`,
+  },
+  {
+    slug: 'why-your-autistic-child-may-not-look-autistic',
+    title: 'Why Your Autistic Child May Not Look Autistic to You',
+    description: 'Many parents are told their child cannot be autistic because they make eye contact, or have friends, or do not look like what autism looks like on TV. Here is why that is wrong.',
+    date: 'July 13, 2023',
+    readTime: '5 min read',
+    category: 'Resources',
+    content: `One of the most common experiences of autism parents — particularly those whose children were diagnosed later, or who struggled to get a diagnosis at all — is being told that their child does not look autistic.
+
+The child makes eye contact. The child has friends. The child is verbal, funny, seemingly social. How can they be autistic?
+
+The answer is that the cultural image of autism — which comes primarily from clinical descriptions of severely affected males, from television and film representations, and from the most visible end of a very diverse spectrum — does not accurately represent the full range of autistic experience.
+
+## The spectrum is genuinely a spectrum
+
+Autism spectrum disorder is called a spectrum because autistic experience varies dramatically across individuals. Some autistic people have significant communication and support needs. Others are highly verbal, socially motivated, and able to navigate neurotypical environments with varying degrees of difficulty.
+
+The common thread is not a set of visible, stereotypical behaviors. It is a neurological profile — a particular way that sensory information is processed, a particular relationship with social communication, particular patterns of interest and attention — that plays out differently in every person.
+
+## Masking
+
+One of the most significant reasons autistic people do not look autistic to casual observers is masking — the learned suppression of autistic behaviors in order to appear neurotypical.
+
+Masking is exhausting. It involves monitoring every social interaction for rules that neurotypical people absorb intuitively but autistic people often have to learn explicitly. It involves suppressing the stims that provide regulation, making eye contact that feels uncomfortable, performing the facial expressions and vocal tones that signal engagement.
+
+Many autistic people — particularly women, girls, and gender-diverse individuals, who tend to be socialized toward masking from an early age — become so proficient at masking that they appear completely neurotypical in public while being completely depleted in private.
+
+A child who appears fine at school and falls apart at home is often a masking child. The school presentation is performance. The home behavior is what happens when the performance is done.
+
+## The cost of late or missed diagnosis
+
+When autism is not recognized because a child does not fit the stereotype, the child goes without support — often for years. The internal experience of being different without understanding why is isolating and damaging. The lack of appropriate accommodations means the child expends enormous energy compensating for needs that could be addressed directly.
+
+Getting an accurate diagnosis — even late, even after years of being told nothing is wrong — gives a person a framework for understanding themselves. It opens doors to accommodations, support, and community. It allows parents to stop blaming themselves or their child and start addressing actual needs.
+
+If you have a feeling that your child is not getting what they need, trust it. Seek evaluation. The autism spectrum is wide, and the people on it deserve to be recognized.`,
+  },
+  {
+    slug: 'masking-the-hidden-cost',
+    title: 'Masking: The Hidden Cost of Fitting In',
+    description: 'Masking — suppressing autistic traits to appear neurotypical — is one of the most damaging and least discussed aspects of autistic experience. Here is why it matters.',
+    date: 'June 29, 2023',
+    readTime: '6 min read',
+    category: 'Acceptance',
+    content: `There is a phenomenon in the autism community called masking. It refers to the practiced suppression of autistic traits — stimming, social directness, intense focus on specific topics, sensory reactions — in order to appear neurotypical in social and professional contexts.
+
+Masking is not a conscious choice. It is a learned adaptation — a response to repeated messages, starting in childhood, that natural autistic behavior is wrong, disruptive, or unacceptable. And it comes at an enormous cost.
+
+## How masking is learned
+
+Masking begins early. A child who flaps their hands when excited is told to stop. A child who asks direct, blunt questions is taught to soften them. A child who struggles with eye contact is instructed to make more of it. A child who talks at length about a single topic is redirected, repeatedly, to topics the adults around them find more appropriate.
+
+None of these instructions come from malice. They come from a genuine desire to help the child navigate the social world. But cumulatively, they communicate a clear message: the way you naturally are is not acceptable here. You need to perform something different.
+
+And autistic people learn to perform. Many become extremely good at it.
+
+## What masking costs
+
+The energy required to mask — to monitor every social interaction, suppress every natural impulse, perform the expected behaviors of a neurotypical person — is substantial. Autistic people who mask consistently describe it as exhausting in ways that are hard to communicate to people who do not do it.
+
+The result is often a pattern sometimes called autistic burnout: a period of withdrawal, significant loss of function, and exhaustion that comes from sustained masking. Burnout can last weeks, months, or longer. It often follows periods of significant social demand — school transitions, new jobs, major life events — where masking intensity increases.
+
+Beyond burnout, masking is associated with anxiety, depression, and significant mental health difficulties. When the way you naturally exist in the world is continuously treated as wrong, it affects your relationship with yourself. Many autistic people report a profound sense of not knowing who they really are — because so much energy has gone into being someone else.
+
+## The gender dimension
+
+Research suggests that women, girls, and gender-diverse autistic people tend to mask more, and to mask more effectively, than autistic males. This is partly the result of socialization — girls are often taught more explicitly than boys to be socially smooth and accommodating. The result is that autistic women and girls are diagnosed later, diagnosed less, and often diagnosed after years of being told their difficulties are anxiety, depression, or social awkwardness rather than autism.
+
+## The alternative
+
+The alternative to masking is a world that does not require it. A world where stimming is acceptable. Where direct communication is valued rather than pathologized. Where special interests are respected rather than redirected. Where autistic people do not have to perform neurotypicality in order to be welcome.
+
+That world is what WeBearish is trying to build. Not a world that accommodates autism at its edges — but a world that recognizes autistic people as full members who belong, exactly as they are.`,
+  },
+  {
+    slug: 'co-occurring-conditions',
+    title: 'Co-occurring Conditions: Autism and ADHD, Anxiety, and More',
+    description: 'Autism rarely arrives alone. Understanding the conditions that frequently co-occur with autism helps families get more accurate support and avoid misdiagnosis.',
+    date: 'June 15, 2023',
+    readTime: '6 min read',
+    category: 'Resources',
+    content: `Autism does not exist in isolation. The majority of autistic people have at least one co-occurring condition — another neurological, psychiatric, or physical condition that intersects with and complicates their autistic experience.
+
+Understanding what those co-occurring conditions are, and how they interact with autism, is essential for families trying to understand their child and get appropriate support.
+
+## ADHD
+
+ADHD is the most common co-occurring condition in autism. Studies suggest that between 50 and 70 percent of autistic people also meet diagnostic criteria for ADHD. The two conditions share several features — difficulties with sustained attention, impulsivity, executive function challenges — but they are neurologically distinct.
+
+For a long time, the DSM did not allow dual diagnosis of autism and ADHD. This changed with the DSM-5 in 2013. Before that, many children with both conditions were diagnosed with one and missed the other — meaning their treatment and support addressed only part of what they were dealing with.
+
+The interaction of autism and ADHD is complex. ADHD can amplify sensory sensitivity. Autism can affect how ADHD presents. Both conditions affect executive function. Getting an accurate picture of what is happening requires evaluation that looks at both.
+
+## Anxiety
+
+Anxiety is extremely common in autistic people — estimates range from 40 to 80 percent, depending on the study and the diagnostic criteria. And it makes sense: navigating a world designed for neurotypical processing, while masking, managing sensory overwhelm, and dealing with unpredictability, is anxiety-producing.
+
+But anxiety in autistic people can look different than anxiety in neurotypical people, and this can lead to misdiagnosis. An autistic person whose anxiety manifests as insistence on routine and resistance to change may be diagnosed as having a behavior problem rather than an anxiety disorder.
+
+Treating anxiety in autistic people requires approaches that account for the autistic nervous system. Standard cognitive behavioral therapy may need modification. Sensory accommodations that reduce overall load may reduce anxiety significantly. Predictability and routine — which reduce the cognitive cost of navigating the environment — can have a significant anxiolytic effect.
+
+## Sensory Processing Disorder
+
+Sensory processing differences are now considered part of the diagnostic criteria for autism, but some children have sensory processing difficulties that do not meet the full criteria for autism diagnosis. Occupational therapy with a sensory integration focus can be helpful for both.
+
+## Gastrointestinal issues
+
+The gut-brain connection is well established, and autistic people have higher rates of gastrointestinal issues than the general population — constipation, food sensitivities, and other digestive difficulties. These can contribute to behavioral and emotional regulation difficulties in ways that are sometimes misattributed to the autism itself.
+
+## What this means for families
+
+If your child has been diagnosed with autism, it is worth asking the evaluating clinician whether there may be co-occurring conditions that should also be evaluated. An incomplete picture leads to incomplete support. A full picture leads to better interventions, better accommodations, and a better understanding of what your child is actually dealing with every day.`,
+  },
+  {
+    slug: 'building-sensory-friendly-home',
+    title: 'Building a Sensory-Friendly Home Without Breaking the Bank',
+    description: 'You do not need to renovate. Here are the practical, affordable changes that make a real difference for autistic children at home.',
+    date: 'June 1, 2023',
+    readTime: '5 min read',
+    category: 'Resources',
+    content: `The home is where autistic children decompress from the demands of the outside world. It is where the mask comes off. And it is where the right environment can make a profound difference in regulation, wellbeing, and quality of life.
+
+Creating a more sensory-friendly home does not require a renovation budget. It requires understanding what your specific child's sensory profile is — and making targeted, relatively inexpensive changes that address it.
+
+## Lighting
+
+Swap fluorescent bulbs for warm LED bulbs. This is one of the single highest-impact changes you can make for a child with visual processing sensitivity. Fluorescent lights have an invisible flicker that many autistic people perceive and that creates continuous low-level sensory irritation.
+
+Warm LED bulbs (2700-3000K color temperature) are widely available, inexpensive, and a significant improvement. Adding dimmer switches to key rooms — particularly bedrooms — gives the child some control over their visual environment.
+
+## Sound
+
+Sound absorbing materials make a meaningful difference in homes with hard floors and walls. Rugs, curtains, and upholstered furniture all absorb ambient sound and reduce the echo that makes unpredictable noise harder to manage.
+
+A white noise machine or fan in the child's room can create a consistent auditory background that masks unpredictable sounds from elsewhere in the home or neighborhood.
+
+Noise-canceling headphones are one of the highest-ROI investments for an autistic child with auditory sensitivity. They are not a solution to every situation, but they give the child a tool they can deploy when the sound environment is overwhelming.
+
+## Creating a calm space
+
+Designate a specific space — a corner, a closet with the door removed, a canopy bed, a pop-up tent — as a calm-down space. This space should be consistently available, low-stimulation, and associated with regulation rather than punishment.
+
+Stock it with comfort objects specific to your child's regulatory needs: weighted blanket, familiar textures, fidgets, noise-canceling headphones, whatever your child uses to regulate. The goal is a space the child can access proactively — before reaching overwhelm — as well as reactively.
+
+## Predictability
+
+Sensory overwhelm is significantly worse in unpredictable environments. Visual schedules — a simple poster or whiteboard showing the day's sequence of events — reduce the cognitive load of navigating transitions. Advance notice of changes, when possible, is one of the most effective tools available.
+
+The goal is to make your home the safest sensory environment your child experiences. Not silent, not sterile — just predictable, with options for the child to manage their own sensory experience.`,
+  },
+  {
+    slug: 'double-empathy-problem',
+    title: 'The Double Empathy Problem: Rethinking Social Difficulties in Autism',
+    description: 'For decades, autism was defined by its social deficits. A 2012 theory turned that understanding inside out — and the implications are enormous.',
+    date: 'May 18, 2023',
+    readTime: '6 min read',
+    category: 'Acceptance',
+    content: `For most of the history of autism research and clinical practice, social difficulties in autistic people were understood through a single lens: autistic people lack the capacity for social understanding. They have deficits in "theory of mind" — the ability to understand that other people have thoughts, feelings, and perspectives different from their own.
+
+This framework produced a body of therapeutic intervention aimed at teaching autistic people social skills — how to read neurotypical facial expressions, how to make the right amount of eye contact, how to take turns in conversation, how to signal interest in ways that neurotypical people recognize.
+
+And then, in 2012, a researcher named Damian Milton proposed something that changed the picture entirely.
+
+## What the Double Empathy Problem says
+
+Milton, who is autistic himself, proposed that the social difficulties in autism are not a one-way deficit. They are a bidirectional mismatch.
+
+Neurotypical people, it turns out, are just as bad at understanding autistic people as autistic people are at understanding neurotypical people. They misread autistic facial expressions, misinterpret autistic communication styles, and fail to attribute accurate thoughts and feelings to autistic individuals.
+
+Subsequent research has supported this. Studies showing that autistic people and neurotypical people both communicate more effectively with members of their own neurological group — and that the social difficulties emerge specifically in cross-neurological interaction — undermined the simple deficit model significantly.
+
+## What this means
+
+If the social difficulties are not simply an autistic deficit but a bidirectional mismatch, then the burden of adjustment should not fall exclusively on the autistic person.
+
+Decades of social skills training for autistic children has been aimed at teaching autistic children to behave in ways that neurotypical people find socially legible. That training has a cost — it requires significant energy, it often involves suppressing authentic autistic communication, and it may produce compliance without genuine understanding.
+
+The Double Empathy Problem suggests a different approach: teach both groups to understand each other. Develop neurotypical people's capacity to read and respond to autistic communication styles. Build environments where both modes of communication are valued.
+
+## The practical upshot
+
+In a school context, this means: teach neurotypical children about neurodiversity. Build peer understanding alongside individual accommodation. Create cultures where different communication styles are explicitly valued.
+
+In a family context, this means: spend time understanding autistic communication rather than only teaching neurotypical communication. If your child communicates through scripts, through indirect means, through written rather than spoken language — learn to hear that. Meet them where they are.
+
+The Double Empathy Problem is not an excuse to dismiss the real social challenges autistic people face. But it is a significant reframing — one that distributes the burden of adjustment more equitably, and that opens the door to communities built for genuine mutual understanding rather than one-sided performance.`,
+  },
+  {
+    slug: 'why-autistic-girls-diagnosed-later',
+    title: 'Why Autistic Girls Are Diagnosed Later — And Why That Matters',
+    description: 'The diagnostic criteria for autism were developed primarily from studies of autistic boys. The result is a generation of autistic girls who went unrecognized for years.',
+    date: 'May 4, 2023',
+    readTime: '6 min read',
+    category: 'Advocacy',
+    content: `Autism has historically been understood as a predominantly male condition. Early research was conducted almost entirely on male subjects. The clinical descriptions, the diagnostic criteria, and the cultural image of autism were all built from the observation of autistic boys and men.
+
+The consequence of this gender bias in research is that autistic girls and women have been systematically underdiagnosed, misdiagnosed, and left without support for decades. The scale of this problem is only beginning to be understood.
+
+## The numbers
+
+For much of the twentieth century, the ratio of male to female autism diagnoses was estimated at 4:1 or higher. More recent research, using broader diagnostic criteria and more careful attention to female presentation, suggests the true ratio may be closer to 2:1 or even lower — meaning that autistic girls and women are being missed at enormous rates.
+
+Studies of autistic adults who received late diagnoses — in their twenties, thirties, forties, or beyond — find that women are significantly overrepresented in this group. Women who spent their entire childhoods without a diagnosis, without support, wondering why they were different in ways no one seemed to see.
+
+## Why girls are missed
+
+The primary reason autistic girls are missed is masking. Girls are socialized, from early childhood, toward social performance — watching and imitating others, attending carefully to social cues, smoothing over social difficulties rather than confronting them. This socialization gives autistic girls tools for masking their autistic traits that autistic boys often do not develop to the same degree.
+
+An autistic girl who has spent years carefully observing and imitating neurotypical social behavior may appear socially fluent in a way that prevents clinicians from recognizing her autistic profile. The same social difficulties that would flag immediately in an autistic boy — an autistic girl has learned to hide them.
+
+The masking is exhausting. The anxiety underneath it is often significant. And without a framework that explains why social interaction costs so much more for her than it appears to for everyone else, autistic girls often attribute the difficulty to personal failure.
+
+## What late diagnosis looks like
+
+Many women who receive late autism diagnoses describe a profound experience of suddenly understanding themselves — of having a framework that explains a lifetime of feeling fundamentally different and never knowing why.
+
+They describe years of anxiety and depression that were treated without anyone asking why — without the autistic sensory and social experience that was generating the anxiety being addressed. They describe relationships that were difficult in ways they could not articulate. Work environments that depleted them completely. The constant performance of a version of themselves that felt hollow.
+
+Late diagnosis is not nothing. It provides a framework. It opens access to support and accommodation. It connects people to a community. But it cannot undo the years of going without.
+
+## What to do
+
+If you have a daughter who has been diagnosed with anxiety or depression — or who has simply always seemed to find social interaction exhausting in ways she cannot explain — it is worth asking whether autism evaluation has been considered.
+
+The clinical guidelines for autism evaluation are improving in their attention to female presentation. Finding an evaluator with specific experience with autism in girls and women makes a significant difference.
+
+Every autistic girl deserves to understand who she is before she spends decades wondering why she feels like an alien in her own life.`,
+  },
+  {
+    slug: 'special-interests-not-a-symptom',
+    title: 'Special Interests: Not a Symptom, a Superpower',
+    description: 'The intense, specific interests that many autistic people develop are often treated as something to be managed or redirected. The autistic community sees them very differently.',
+    date: 'April 20, 2023',
+    readTime: '5 min read',
+    category: 'Acceptance',
+    content: `In the diagnostic literature, the intense and specific interests of autistic people are typically described as "restricted and repetitive interests" — framed as a symptom, something that limits the autistic person's engagement with the world.
+
+In the autistic community, they are almost universally described as something else entirely: a source of joy, identity, expertise, and in many cases, vocational direction and genuine contribution to the world.
+
+This gap between the clinical view and the autistic view says something important about whose perspective has shaped the way autism is understood — and whose perspective needs more weight.
+
+## What special interests are
+
+Special interests in autism are areas of intense, sustained, often highly specific focus. A child might develop a profound interest in trains — not just the general category but the specific mechanical workings, the history of rail development, the comparison of specific locomotive models. Another child might develop an equally intense focus on maps, or weather patterns, or a specific historical period, or a particular film franchise.
+
+The depth of engagement is typically far beyond what a neurotypical person would describe as a hobby. It is more like a vocation — an organizing principle of cognitive life.
+
+## What special interests do
+
+Special interests serve important regulatory and psychological functions. They provide a reliable source of joy in a world that can be overwhelming and unpredictable. They offer mastery — an area where deep knowledge is achievable and valued, in contrast to social environments where the rules shift constantly and mastery is elusive. They provide a way of connecting with others who share the interest.
+
+Many autistic people describe their special interests as the most genuinely themselves they ever feel. It is the area of life where the performance of neurotypicality is not required — where they can simply be absorbed in something they love.
+
+## What happens when they are redirected
+
+Well-meaning attempts to broaden an autistic child's interests — limiting time with the special interest, redirecting to other activities, requiring engagement with a range of topics — can cause real harm.
+
+They communicate to the child that their deepest source of joy is wrong. That the thing they love most about themselves is a problem to be managed. This communication has cumulative effects on self-esteem, identity, and the child's relationship with their own inner life.
+
+## What to do instead
+
+Engage with the special interest. Learn about it. Ask questions. Find the ways it connects to other areas of learning and life. An intense interest in trains can be an entry point to history, geography, engineering, physics, and economics. An interest in maps connects to mathematics, culture, and language.
+
+And recognize the interest for what it is: your child's deepest expression of who they are. Not a symptom. A self.`,
+  },
+  {
+    slug: 'talking-to-siblings-about-autism',
+    title: 'How to Talk to Other Kids About a Sibling\'s Autism',
+    description: 'Siblings of autistic children have their own set of experiences, questions, and needs. Here is how to have conversations that build understanding without burdening.',
+    date: 'April 6, 2023',
+    readTime: '5 min read',
+    category: 'Community',
+    content: `Having an autistic sibling shapes a child's experience in ways that deserve attention and honest conversation. Siblings of autistic children often have questions they do not know how to ask, feelings they do not know how to name, and a family dynamic that requires them to be flexible and patient in ways their peers are not.
+
+Talking to siblings about autism — early, honestly, and age-appropriately — is one of the most important things a parent can do for the whole family.
+
+## When and how to start
+
+The conversation does not have a single right beginning. It starts when the sibling begins to notice that their brother or sister is different — which typically happens early in childhood, long before any formal explanation is offered.
+
+Starting young, with simple and honest language, is generally better than waiting for the perfect moment. "Your brother's brain works a little differently than most people's. Some things that are easy for you are harder for him. Some things that are hard for you might be easier for him. He experiences the world in his own way, and we are learning how to help him feel good."
+
+This kind of explanation — simple, factual, normalizing, and framed around difference rather than deficit — gives a young sibling a foundation that can grow as they grow.
+
+## What siblings need to understand
+
+Siblings benefit from understanding a few specific things:
+
+Meltdowns are not tantrums. When their brother or sister has a meltdown, it is not because they are badly behaved or trying to get attention. It is their nervous system being overwhelmed. It passes. It is not dangerous. Everyone is going to be okay.
+
+Autism is not contagious. Young children sometimes worry about this. Naming it directly, without embarrassment, resolves the concern.
+
+Their feelings are valid. It is okay to sometimes be frustrated, embarrassed, or sad about having an autistic sibling. Those feelings do not make them a bad person. They are allowed to have complicated feelings about a complicated situation.
+
+## What siblings do not need
+
+They do not need to be made responsible for their autistic sibling's wellbeing. They do not need to be the designated explainer, the behavior manager, or the emotional support person for their sibling at school or with peers. That is too much to ask of a child.
+
+They do not need their experience to be minimized. If a sibling expresses frustration about a family event that was disrupted by their autistic brother or sister, the right response is not to immediately redirect to their sibling's perspective. Their perspective matters too.
+
+## The long view
+
+Siblings of autistic children often grow into adults with remarkable capacity for empathy, flexibility, and advocacy. The experience of growing up alongside an autistic sibling — when handled with honesty and care — is formative in ways that contribute profoundly to character.
+
+But that outcome is not automatic. It requires parents who are paying attention to all of their children, who make space for complicated feelings, and who talk honestly about what is happening in the family.`,
+  },
+  {
+    slug: 'navigating-healthcare-as-autism-family',
+    title: 'Navigating the Healthcare System as an Autism Family',
+    description: 'From diagnosis to ongoing care, the healthcare system is difficult to navigate for autism families. Here is what to know, who to see, and how to advocate effectively.',
+    date: 'March 23, 2023',
+    readTime: '7 min read',
+    category: 'Resources',
+    content: `Getting an autism diagnosis is not the end of navigating the healthcare system — it is often the beginning of a longer, more complicated journey. Insurance coverage, provider availability, diagnostic accuracy, and the coordination of multiple specialists are all challenges that autism families face regularly.
+
+This guide is intended to help families understand the landscape and navigate it more effectively.
+
+## Getting a diagnosis
+
+Autism diagnosis requires comprehensive evaluation by a qualified professional — typically a developmental pediatrician, child psychologist, or neuropsychologist with specific autism training. Primary care physicians can refer, but they typically cannot diagnose.
+
+Waiting lists for diagnostic evaluation can be extremely long — months to over a year in many areas. While waiting, document your child's behaviors, challenges, and patterns. Video is particularly useful. This documentation will be valuable in the evaluation and in any subsequent interactions with schools or service providers.
+
+For families in Nevada, UNLV's Nevada Autism Center offers evaluation services. Contact your pediatrician for local referrals.
+
+## Insurance
+
+Autism diagnosis and treatment coverage varies significantly by state and by insurer. The Autism CARES Act mandates coverage for ABA therapy under most insurance plans, but coverage for other services — occupational therapy, speech therapy, social skills groups — varies.
+
+Keep detailed records of all insurance communications. When coverage is denied, appeal. Many denials are reversed on appeal, particularly when accompanied by documentation of medical necessity from the treating provider.
+
+Nevada has autism insurance mandates that require coverage for diagnostic and treatment services. Knowing the specific requirements of your state's mandate gives you leverage when negotiating with insurers.
+
+## Building your care team
+
+Most autistic children benefit from care that addresses multiple domains:
+
+A developmental pediatrician or neurologist can coordinate medical care and monitor for co-occurring conditions.
+
+An occupational therapist with sensory integration training can address sensory processing difficulties and daily living skills.
+
+A speech-language pathologist can address communication needs — not just verbal communication but also alternative and augmentative communication (AAC) for children who communicate differently.
+
+A psychologist or therapist who specializes in autism can support emotional regulation and mental health, and can help families navigate the behavioral and emotional landscape.
+
+You are the coordinator of this team. No one else is managing the whole picture. Keep records. Communicate between providers. Advocate for integrated care.
+
+## The long view
+
+Healthcare needs change as autistic children grow. Early childhood services transition to school-based services. School-based services transition to adult services — a transition that is notoriously difficult and underfunded.
+
+Planning for these transitions early — understanding what adult services exist in your area, what the qualification criteria are, how long the waiting lists run — gives families more options than waiting until the transition is imminent.
+
+The system is imperfect. Navigating it requires persistence, organization, and the willingness to advocate loudly when your child's needs are not being met. You are not alone in doing this work. WeBearish is building a community of families who share information, experience, and support.`,
+  },
+  {
+    slug: 'what-autism-looks-like-at-different-ages',
+    title: 'What Autism Looks Like at Different Ages',
+    description: 'Autism does not look the same at two as it does at twelve or twenty-five. Understanding how autistic experience changes across development helps families and educators provide better support.',
+    date: 'March 9, 2023',
+    readTime: '6 min read',
+    category: 'Resources',
+    content: `One of the things that makes autism difficult to recognize and understand is that it presents differently across the lifespan. A two-year-old's autistic profile looks different from an eight-year-old's, which looks different from a teenager's, which looks different from an adult's.
+
+This variability leads to confusion — parents who saw one presentation in early childhood sometimes feel like they have a different child at ten, or fifteen, or twenty-two. Understanding how autism typically evolves across development helps everyone involved provide more appropriate support.
+
+## Early childhood (0-5)
+
+In the earliest years, autism may be visible through differences in social development — less eye contact, less pointing to share attention with others, delayed or atypical language development, and less interest in social imitation. Some children lose language they had previously developed, which is often what brings families to evaluation.
+
+Sensory sensitivities may be pronounced — unusual responses to textures, sounds, lights, or tastes. Restricted interests begin to emerge. Play patterns may differ from neurotypical peers.
+
+Early intervention — occupational therapy, speech therapy, and other supports — is most effective when started early, which is why early identification matters.
+
+## Middle childhood (6-12)
+
+School age brings social complexity. The gap between autistic and neurotypical social development can become more visible as peer relationships become more elaborate. This is often when social difficulties — not fitting in, missing social cues, struggling with the unwritten rules of playground dynamics — become more painful.
+
+This is also when masking often begins or intensifies. Many autistic children learn during this period that their natural way of being generates negative responses from peers, and they begin the work of suppression and performance.
+
+Academic demands may also reveal challenges — not in intelligence but in the particular demands of classroom learning: sustained attention, group work, written expression, managing transitions.
+
+## Adolescence (13-18)
+
+Adolescence is often one of the hardest periods for autistic people. The social demands of teenage life — the increased importance of peer relationships, the navigating of romantic relationships, the pressure to conform to group norms — are significantly more demanding than those of childhood.
+
+Autistic burnout is common in adolescence, particularly for those who have been masking heavily. The cumulative cost of years of performance can reach a breaking point.
+
+Mental health difficulties — anxiety, depression — peak in adolescence for many autistic people. This period requires particular attention and support.
+
+## Adulthood
+
+Autistic adults navigate a world that provides significantly fewer explicit accommodations than the educational system. Workplace social dynamics, independent living skills, relationship maintenance, and self-advocacy become central challenges.
+
+But adulthood also often brings greater self-knowledge and the ability to structure environments and relationships more deliberately. Many autistic adults report that adulthood, despite its challenges, is significantly better than adolescence — because they have more control over their circumstances and more understanding of themselves.
+
+The transition to adulthood requires specific planning. Understanding what adult support services exist, what vocational programs are available, and what accommodations are possible in higher education and employment is essential preparation.`,
+  },
+  {
+    slug: 'building-support-network',
+    title: 'Building a Support Network When You Feel Completely Alone',
+    description: 'The isolation of autism parenting is real. Here is how to build a network that actually sustains you — not just in the hard moments, but across the whole journey.',
+    date: 'February 23, 2023',
+    readTime: '5 min read',
+    category: 'Community',
+    content: `There is a particular kind of loneliness that autism parenting can bring. Your social network — the friends and family you relied on before — may not understand what your life looks like now. Gatherings are difficult. Spontaneity has largely disappeared. The things that used to be easy — a dinner out, a vacation, a simple afternoon at someone's house — require levels of planning and risk assessment that most people do not have to consider.
+
+And when it goes wrong — when the meltdown happens in public, when the family event falls apart, when the helpful advice arrives that demonstrates no one actually understands — the loneliness gets sharper.
+
+Building a support network that actually sustains you is not optional. It is essential. Here is how to approach it.
+
+## Start with honesty
+
+The support network you actually need is one where you can be honest. Not performatively positive. Not "doing great, thanks." Actually honest — about the hard days, the grief, the anger, the joy, the complexity.
+
+This requires finding people who can hold complexity. Not everyone can. People who are uncomfortable with difficulty, who need things to be okay, who rush to silver linings — they are not the right people for your inner circle, even if they love you.
+
+The people who can sit with the hard stuff, who can hear the grief without trying to fix it, who can celebrate the victories without minimizing the challenges — those are the people worth building with.
+
+## Find people who get it
+
+Other autism parents are an essential part of any support network. Not because everyone else is useless, but because there are aspects of this experience that are simply not accessible to people who have not lived it.
+
+The knowing nod. The shared shorthand. The ability to say something that would horrify anyone outside the community and be met with immediate recognition and understanding.
+
+These relationships require finding them. Parent groups through schools, therapy providers, or community organizations. Online communities organized around acceptance-focused frameworks. Organizations like WeBearish that are building exactly this kind of community.
+
+## Include autistic adults
+
+If you are raising an autistic child, the most important perspective available to you — beyond your own child's — is that of autistic adults who can tell you what they needed, what helped, and what did not.
+
+These relationships are not always easy to build across the neurotypical-autistic divide. But they are worth building. Autistic adults who are willing to engage with parents are offering something precious — direct access to the lived experience of being autistic in a world that was not designed for them.
+
+## Let people help you
+
+One of the barriers to building support is the reluctance to ask for or accept help. Many autism parents have been burned by offers of help that came with judgment, unsolicited advice, or conditions. The protective walls go up.
+
+But isolation is not sustainable. Being specific about what you need — not "help if you ever have time" but "I need someone to sit with my kid for two hours on Saturday" — makes it easier for people to actually show up.
+
+Let them show up. You do not have to carry this alone.`,
+  },
+  {
+    slug: 'first-year-after-diagnosis',
+    title: 'The First Year After Diagnosis: What No One Tells You',
+    description: 'Getting an autism diagnosis for your child is the beginning of a journey that is nothing like you expected. Here is what the first year is actually like — and what helps.',
+    date: 'February 9, 2023',
+    readTime: '7 min read',
+    category: 'Community',
+    content: `The moment a clinician says the word "autism," something shifts. The world you knew — the one where you understood who your child was going to be, where the path ahead seemed reasonably clear — changes. And what comes next is rarely what you expected.
+
+The first year after an autism diagnosis is a particular kind of year. Here is what it is often like, and what actually helps.
+
+## The initial overwhelm
+
+The first weeks after diagnosis are often characterized by an overwhelming flood of information. Therapies to research. Services to apply for. School meetings to prepare for. Waiting lists to join. Books to read. Facebook groups to join. Acronyms to learn — IEP, ABA, OT, SLP, EIBI, DTT, PRT.
+
+The pressure to act — to get your child into services immediately, because early intervention is so important, because every month matters — collides with the reality that the system is slow, confusing, and often inadequate.
+
+Give yourself permission to go slowly at the beginning. You cannot do everything at once. The diagnosis is not a race.
+
+## The grief
+
+For many parents, there is grief in an autism diagnosis. This grief is real, and it deserves space.
+
+Some of what parents grieve is legitimate: the loss of a particular imagined future, the recognition that the road ahead will be harder than expected, the fear of what the future holds for their child. These are real things to grieve.
+
+Some of what parents grieve is the product of a cultural narrative about autism that does not accurately represent the full range of autistic life — the narrative of tragedy, of missed potential, of a lesser life. This grief is worth examining. It may be grieving something that is not actually true.
+
+Both kinds of grief are real, and both deserve space. And grief does not preclude love, acceptance, or hope. They coexist.
+
+## The information problem
+
+Not all information about autism is created equal. The diagnostic literature focuses heavily on challenges and deficits. The advocacy literature is often divided between cure-focused and acceptance-focused perspectives. Parenting books vary enormously in quality and framework.
+
+The most trustworthy sources are often autistic people themselves — autistic authors, bloggers, speakers, and self-advocates who can describe the experience from the inside. Reading what autistic adults say they needed is one of the best guides available for what to prioritize.
+
+## What actually helps in year one
+
+Find one or two supports — an occupational therapist you trust, a parent group where you can be honest — and go deep rather than wide.
+
+Be honest with your child about their autism, in age-appropriate language, as early as possible. Autistic children who understand their own neurology have better outcomes than those who only discover it later, in more complicated circumstances.
+
+Take care of yourself. This is not a luxury. It is infrastructure. You cannot sustain your child's needs over the long term if you are running on empty.
+
+And find the joy. It is there. Your child is a whole person — not a diagnosis, not a set of challenges, not a tragedy. They are funny and fascinating and fully themselves. Let them show you who they are.
+
+The first year is hard. The second year is usually a little easier. The path is long, and you do not have to see the whole thing to take the next step.`,
+  },
+];
+// ── BATCH 2 — 13 additional posts ──────────────────────
+blogPosts.push(
+  {
+    slug: "aba-therapy-what-parents-need-to-know",
+    title: "ABA Therapy: What Parents Need to Know Before Saying Yes",
+    description: "Applied Behavior Analysis is the most commonly recommended autism therapy — and the most contested. Here is what the research says, what autistic adults say, and what questions every parent should ask.",
+    date: "2024-09-10",
+    readTime: "6 min read",
+    category: "Resources",
+    content: `ABA — Applied Behavior Analysis — is the most-covered intervention in autism research and the most debated in the autistic community. Before your child starts any program, you need to understand both sides.
+
+The research says: ABA can build communication skills, daily living skills, and reduce behaviors that cause harm. Some studies show significant gains.
+
+Autistic adults say: Early intensive ABA, particularly programs focused on eliminating autistic behaviors (stimming, nonverbal communication), has caused lasting harm for many. The goal of making children appear neurotypical is not the same as helping them thrive.
+
+What to ask any ABA provider:
+- Is the goal to reduce autistic traits, or to build the child's own skills and independence?
+- Are natural environment teaching methods used, or primarily discrete trial training?
+- How does the program respond when a child is distressed?
+- Do you hire autistic staff or consultants?
+
+The honest answer: ABA is a broad category. Some programs are deeply child-led and affirming. Others are not. Parent advocacy — knowing your rights, asking hard questions, and trusting your child — is the filter that matters most.`
+  },
+  {
+    slug: "what-is-masking-autism",
+    title: "What Is Masking? The Invisible Work Autistic People Do Every Day",
+    description: "Masking is when autistic people suppress their natural behaviors to appear neurotypical. It works — until it doesn't. Understanding masking is essential for every parent, educator, and ally.",
+    date: "2024-10-03",
+    readTime: "5 min read",
+    category: "Acceptance",
+    content: `Masking is the practice of hiding autistic traits to fit into neurotypical social environments. It looks like: forcing eye contact, suppressing stimming, scripting social responses, mimicking others' expressions, and learning to perform neurotypicality as a second language.
+
+It works, in a narrow sense. Masked autistic people often get through school, jobs, and social situations without being identified. They are frequently described as "high-functioning" — a label that means "their suffering is invisible to us."
+
+The cost is catastrophic. Chronic masking is associated with severe mental health outcomes: depression, anxiety, burnout, and in some studies, significantly elevated rates of suicidal ideation. The effort required is immense. Many autistic people describe it as running a cognitive background process that never shuts off.
+
+Late-diagnosed autistic people — particularly women, trans people, and people of color — often spent decades masking so effectively they didn't receive support until well into adulthood. By that point, the burnout can take years to recover from.
+
+Acceptance is not just a nice value. It is a mental health intervention. When autistic people do not have to mask, they can simply exist.`
+  },
+  {
+    slug: "late-autism-diagnosis-adults",
+    title: "Getting Diagnosed With Autism as an Adult: What Happens Next",
+    description: "Thousands of people are diagnosed with autism as adults — in their 30s, 40s, 50s, and beyond. The relief, the grief, and what to actually do with the information.",
+    date: "2024-10-22",
+    readTime: "5 min read",
+    category: "Community",
+    content: `A growing number of people are receiving autism diagnoses as adults. For some, it comes after a child is diagnosed and the parent recognizes themselves in the description. For others, it comes after a lifetime of feeling fundamentally different without being able to explain why.
+
+The first reaction is often not what people expect. Instead of distress, many report profound relief. Finally, a framework. A word. An explanation.
+
+Then, for many, comes grief — for the child who didn't know, for the years of struggling without support, for the relationships that fractured because of misunderstandings that could have been navigated differently.
+
+Here is what is actually useful after an adult diagnosis:
+
+Find an autistic community. ASAN, Autism Women & Nonbinary Network, local groups. The experience of being in a room (virtual or otherwise) with people who think similarly is unlike anything else.
+
+Disclose strategically. You are not required to tell anyone. Think about what you want from disclosure before doing it. Some employers and relationships will respond well. Others will not.
+
+Seek accommodations where they help. Noise-canceling headphones. Working from home. Written communication over phone calls. You are entitled to reasonable accommodations under the ADA in most employment contexts.
+
+Most importantly: a diagnosis is information, not a sentence. Who you are has not changed. What has changed is your ability to understand it.`
+  },
+  {
+    slug: "sensory-overload-survival-guide",
+    title: "Sensory Overload: A Survival Guide for Parents and Autistic People",
+    description: "Sensory overload is not a tantrum. It is not a behavior problem. It is a neurological event. Here is how to recognize it, prevent it, and support someone through it.",
+    date: "2024-11-08",
+    readTime: "5 min read",
+    category: "Resources",
+    content: `Sensory overload happens when the brain receives more sensory input than it can process. For autistic people, whose sensory systems often process input more intensely, this threshold is lower and the experience more severe.
+
+What it looks like from the outside: a child covering their ears, becoming rigid, refusing to move, crying without apparent reason, becoming aggressive, or going completely silent. What it looks like from the inside: chaos. An inability to filter, prioritize, or manage incoming information. Everything at once, at full volume.
+
+It is not a behavior problem. It is not manipulation. It is a neurological event that deserves the same compassion as a migraine.
+
+Prevention:
+- Learn the specific triggers. For some it is fluorescent lighting. For others, background noise, crowds, specific textures, or transitions.
+- Build in decompression time before and after demanding sensory environments.
+- Create low-stimulation spaces at home — quiet, dim, with access to preferred sensory tools.
+
+In the moment:
+- Reduce stimulation immediately. Lower volume, dim lights, move to a quieter space.
+- Do not add more verbal input. Talking during overload often makes it worse.
+- Stay calm. Your nervous system communicates to theirs.
+- Wait it out. Recovery takes time.
+
+After:
+- What happened is data. Track patterns. Identify what preceded the event.
+- Talk (later, when regulated) about what helped and what did not.`
+  },
+  {
+    slug: "iep-meeting-preparation-parents",
+    title: "How to Walk Into an IEP Meeting and Not Get Steamrolled",
+    description: "The IEP process is designed to advocate for your child — but it only works if you know how it works. A practical guide to preparation, rights, and what to do when the school disagrees.",
+    date: "2024-11-19",
+    readTime: "5 min read",
+    category: "Resources",
+    content: `An Individualized Education Program (IEP) is a legally binding document that outlines the services and accommodations a public school must provide your child. The IEP meeting is where that document is negotiated.
+
+Most parents walk in underprepared. They sit across from a table of educators, therapists, and administrators who have these meetings every week. It is asymmetric. Here is how to close the gap.
+
+Before the meeting:
+- Request all evaluations and reports at least 5 business days ahead.
+- Write down everything you want included. Specific goals, related services, accommodations, placement.
+- Bring someone with you. A spouse, a friend who knows disability rights, or an advocate.
+- Know you can request an independent educational evaluation (IEE) if you disagree with the school's evaluation.
+
+During the meeting:
+- You are an equal member of the IEP team. Not a guest. A member.
+- Do not sign anything that day if you need time to review. You have the right to take it home.
+- If you disagree with a decision, say: "I do not consent to this. I want this noted in the meeting record."
+- Ask what data each goal is based on. Goals should be measurable.
+
+After the meeting:
+- Get everything in writing within 10 school days.
+- If the school is not following the IEP, file a complaint with your state's Department of Education.
+- Know your dispute resolution options: mediation, state complaint, due process hearing.
+
+Wrightslaw.com is your best resource. Read it before you walk in.`
+  },
+  {
+    slug: "autism-girls-women-underdiagnosed",
+    title: "Why Autism in Girls and Women Is Chronically Underdiagnosed",
+    description: "The diagnostic criteria for autism were developed studying white boys. Girls, women, and people assigned female at birth are diagnosed later, less often, and at greater cost to their wellbeing.",
+    date: "2024-12-04",
+    readTime: "5 min read",
+    category: "Advocacy",
+    content: `The original diagnostic criteria for autism were built on studies of mostly white, mostly male children. The tools we still use today reflect that origin.
+
+Girls and women who are autistic often present differently. They mask more extensively, having learned earlier that social performance is expected of them. They develop sophisticated scripts and social camouflage. They are described as "shy," "quirky," "anxious," or "overly sensitive" — but not autistic.
+
+The result: women are diagnosed, on average, years later than men. Many are first diagnosed with anxiety, depression, or borderline personality disorder. The masking that helped them survive costs them their mental health.
+
+Late diagnosis carries a specific kind of grief — for the girl who struggled without language for what was happening, for the years of trying to fix herself rather than understand herself.
+
+The autism community has been working to correct this for decades. Researchers like Sarah Hendrickx, Lorna Wing, and more recently Devon Price have built a substantial body of work on female autism presentation. But the average clinician has not caught up.
+
+If you are a woman who suspects you are autistic — or a parent raising a daughter who doesn't fit the profile the school describes — trust the instinct. Seek an evaluator who has experience with women and masked presentations. You are not wrong for wondering.`
+  },
+  {
+    slug: "ccsd-aba-paraprofessionals-bill",
+    title: "Parents Push for ABA Paraprofessionals at Clark County Schools — What It Means",
+    description: "A parent-driven bill aimed at adding ABA paraprofessionals at CCSD for students on the spectrum is a sign of what organized parent advocacy can accomplish. Here is what happened and why it matters.",
+    date: "2025-02-01",
+    readTime: "5 min read",
+    category: "Advocacy",
+    content: `A parent-driven bill pushing for additional ABA paraprofessionals at Clark County School District for students on the spectrum is the kind of policy movement that starts in living rooms and ends in legislative chambers.
+
+The need is real. Autistic students in public schools are legally entitled to a Free Appropriate Public Education (FAPE) under IDEA. In practice, school districts across the country are chronically understaffed with people trained to support autistic students. Paraprofessionals — the people who work directly with students in classrooms — are the front line.
+
+ABA-trained paraprofessionals specifically bring behavioral support skills that can help students regulate, communicate, and access their education. More of them means more students supported. Fewer students in crisis. Fewer families fighting to get what the law already promises.
+
+This bill represents what parent advocacy looks like when it is organized. Not one parent at one IEP table. Parents collectively, building political will, showing up at legislative hearings, putting the data in front of the people who write the rules.
+
+Covered by 8 News Now. Driven by families who refused to accept the status quo.
+
+The WeBearish movement is built on this same principle: the people closest to autistic children — their parents, their families — are the ones driving change. Not always from the outside. Sometimes from inside the systems that are supposed to serve them.`
+  },
+  {
+    slug: "neurodiversity-movement-history",
+    title: "The Neurodiversity Movement: Where It Came From and Where It Is Going",
+    description: "Neurodiversity is not a buzzword. It is a framework with a history, a community, and a body of research behind it. Here is how we got here.",
+    date: "2025-01-10",
+    readTime: "5 min read",
+    category: "Acceptance",
+    content: `The term "neurodiversity" was coined by sociologist Judy Singer in 1998. She used it to describe the natural variation in human brain function — the idea that autism, ADHD, dyslexia, and other neurological differences are not defects to be fixed, but variations to be accommodated.
+
+The timing was significant. The late 1990s and early 2000s saw the rise of the internet — and with it, the first time autistic people could find each other at scale. Online communities like Wrong Planet gave autistic people spaces to talk to each other without neurotypical mediation. The ideas that emerged from those conversations shaped the modern disability rights movement.
+
+The neurodiversity paradigm challenges the medical model of disability — the view that autism is a disorder to be treated and cured. In its place, it offers the social model: the idea that the environment, not the person, is often what needs to change.
+
+This is not a comfortable idea for everyone. Parents of severely autistic children, who may require 24-hour care, sometimes experience the neurodiversity framework as dismissive of their reality. The movement has had to grapple honestly with this tension — the spectrum is genuinely vast, and the needs at different points on it look nothing alike.
+
+The most honest articulation: neurodiversity does not mean every autistic person does not need support. It means that support should be aimed at the person's own quality of life and self-determination — not at making them appear less autistic.
+
+The movement is young. It is still figuring out how to hold complexity without fracturing. But its core insight — that neurological difference is part of human diversity, not a deficit — is sound.`
+  },
+  {
+    slug: "autism-acceptance-vs-awareness-practical",
+    title: "Acceptance vs. Awareness: What the Difference Actually Looks Like in Practice",
+    description: "Everyone talks about the difference between autism awareness and autism acceptance. Here is what that difference looks like in a school, in a workplace, in a family, in a conversation.",
+    date: "2025-01-28",
+    readTime: "5 min read",
+    category: "Acceptance",
+    content: `Awareness means knowing autism exists. Acceptance means building a world that works for autistic people.
+
+In a school:
+Awareness: A week of blue lights and puzzle pieces in April.
+Acceptance: Sensory rooms available year-round. IEPs built around the student's strengths. Teachers trained in autistic communication. No punishment for stimming.
+
+In a workplace:
+Awareness: A post on LinkedIn for Autism Awareness Month.
+Acceptance: Flexible communication options (async, written). Quiet spaces. Clear expectations in writing. Feedback given directly, not through social performance.
+
+In a family:
+Awareness: "I know my child has autism."
+Acceptance: Structuring the home around your child's sensory needs. Not requiring eye contact or forced hugs. Learning your child's communication style instead of demanding they learn yours.
+
+In a conversation:
+Awareness: "I know some autistic people are really smart."
+Acceptance: "What communication style works best for you?" Assuming competence. Following the lead of the autistic person in front of you.
+
+The difference is not philosophical. It is operational. Every decision — design, policy, curriculum, hiring — is either made with autistic people in mind or not.
+
+WeBearish exists because awareness is where most people stop. We are not interested in stopping there.`
+  },
+  {
+    slug: "stimming-what-it-is-why-it-matters",
+    title: "Stimming: What It Is, Why Autistic People Do It, and Why You Should Leave It Alone",
+    description: "Stimming — repetitive movements and sounds — is a natural self-regulatory behavior. Here is the science, the purpose, and why suppressing it causes harm.",
+    date: "2025-02-05",
+    readTime: "5 min read",
+    category: "Acceptance",
+    content: `Stimming is short for self-stimulatory behavior. It refers to repetitive movements, sounds, or actions: rocking, hand-flapping, spinning, tapping, humming, echoing words.
+
+Autistic people stim. So do non-autistic people — leg bouncing, hair twirling, pen clicking. The difference is that autistic stimming is often more visible and more persistent.
+
+Why autistic people stim:
+- Sensory regulation. The repetitive input is organizing. It helps the nervous system manage incoming information.
+- Emotional expression. Stimming often intensifies during excitement or distress — both high-arousal states.
+- Focus. Many autistic people report that stimming while doing cognitive tasks actually helps concentration, not hurts it.
+- It feels good. This is underrated as a reason. Pleasure is a valid purpose.
+
+Why suppressing it is harmful:
+Early ABA programs specifically targeted stimming for elimination. The reasoning was that it looked "abnormal" and interfered with social integration. The result, as documented by autistic adults who experienced these programs, was that the suppression redirected the underlying regulatory need — and the pressure to suppress built internal distress without release.
+
+Stimming suppression is now widely considered harmful practice. The autistic community has been clear about this for decades.
+
+The right approach: ask whether a stim causes harm (to the person or others). If not, leave it alone. If it does, work with the person to find alternative regulation strategies — not to perform normalcy, but to address actual harm.`
+  },
+  {
+    slug: "finding-autism-community-as-parent",
+    title: "How to Find Your People: Building Community as a Parent of an Autistic Child",
+    description: "Parenting an autistic child can be isolating. The right community changes everything. Here is where to find it — online and in person.",
+    date: "2025-02-14",
+    readTime: "5 min read",
+    category: "Community",
+    content: `Parenting an autistic child can be one of the loneliest experiences in the world. The parenting advice you find does not apply. The other parents at school do not always understand. The professionals often speak past you.
+
+The right community does not fix all of that. But it changes the texture of it.
+
+Where to find other autism parents:
+
+Online:
+- Facebook groups for parents of autistic children — search your state or city.
+- Reddit: r/autism and r/parentsofmultiples have parent-specific threads.
+- The Autism Society of America has a community locator at autismsociety.org.
+
+In person:
+- Contact your local school district's special education department. They often know about parent support groups.
+- Children's hospitals with autism programs frequently host parent support groups.
+- Your local PACER center (pacer.org) can connect you to advocacy and community.
+
+A note on who you look for:
+Seek out parents who see their children as whole people. Communities organized around grief and cure are real — and sometimes serve people in acute crisis. But communities organized around acceptance, advocacy, and raising children who know they are valued are different in quality and feel.
+
+WeBearish events — like the Bouncy World Autism Acceptance Week party — exist specifically to create that second kind of space. A room where autistic kids and their families show up not for therapy or intervention, but to have a party.
+
+That is also community.`
+  },
+  {
+    slug: "autism-black-families-disparities",
+    title: "Autism in Black Families: The Diagnosis Gap No One Talks About Enough",
+    description: "Black children are diagnosed with autism later, less often, and with more misdiagnoses than white children. The gap is documented and the consequences are severe.",
+    date: "2025-02-20",
+    readTime: "5 min read",
+    category: "Advocacy",
+    content: `The research on racial disparities in autism diagnosis is consistent and damning. Black children are diagnosed with autism later than white children — by years, in some studies. They are more likely to be misdiagnosed with behavior disorders, ADHD, or conduct problems first. They receive less access to early intervention, which is the period where support has the largest impact.
+
+The reasons are multiple:
+- Diagnostic bias. Clinicians bring implicit assumptions about which children are autistic. The white, male profile remains the default.
+- Access barriers. Autism evaluations are expensive and often not fully covered by insurance. Specialists are concentrated in wealthier zip codes.
+- Cultural barriers. Mistrust of medical systems — historically justified — can delay seeking diagnosis. Stigma around mental health and disability in some communities adds additional barriers.
+- Misdiagnosis. Behaviors that in white children prompt evaluation often prompt discipline in Black children.
+
+The consequences are severe. Years without appropriate support, mismatched educational placements, behavioral interventions that make the problem worse, and adults who spend decades without a framework for understanding themselves.
+
+The autism community — including WeBearish — has an obligation to make sure this movement is not only for families who already have access.
+
+Resources specifically for Black autistic people and families:
+- The Autism Community in Action (TACA): taca.org
+- Black Autism Moms: blackautismmoms.com
+- Autism Society of America diversity initiatives: autismsociety.org`
+  },
+  {
+    slug: "building-autism-inclusive-home",
+    title: "Designing an Autism-Friendly Home: Small Changes, Real Difference",
+    description: "You do not need to renovate. You need to pay attention. Here are practical, affordable changes that make home environments genuinely work better for autistic children and adults.",
+    date: "2025-02-22",
+    readTime: "5 min read",
+    category: "Resources",
+    content: `The home is where an autistic person should be able to exist without performance. Where they do not have to mask, regulate to external standards, or suppress their needs.
+
+Making that possible does not require an architect. It requires attention.
+
+Sensory considerations:
+
+Lighting: Fluorescent lighting is one of the most commonly reported sensory triggers. Replace overhead fluorescents with warm LED bulbs or lamps where possible. Dimmers are inexpensive and transformative.
+
+Sound: Hard floors and bare walls create echo. Rugs, curtains, and upholstered furniture absorb sound and reduce the sensory load of the home's acoustic environment.
+
+Texture: Know what your child can and cannot tolerate in clothing and bedding. Seams, tags, and synthetic fabrics are common issues. The investment in seamless socks and tagless clothing is worth it.
+
+Space design:
+
+Create a designated regulation space — a quiet corner, a tent, a bean bag behind a shelf. The function is decompression. It should be calm, low-stimulus, and accessible whenever needed without asking.
+
+Predictability is sensory too. Visual schedules, consistent furniture placement, and warning before transitions reduce the cognitive load of moving through the day.
+
+Social design:
+
+Autistic family members need genuine choice about social participation. A dinner table where leaving is accepted. A family gathering where a quiet room is available and using it is not a family discussion.
+
+The home is the base. The better it works, the more capacity your child has for everything outside it.`
+  }
+);
