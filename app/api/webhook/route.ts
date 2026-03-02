@@ -1,11 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import Stripe from "stripe";
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, { apiVersion: "2026-02-25.clover" });
 const PRINTFUL_KEY = process.env.PRINTFUL_WEBEARISH_API_KEY!;
 const STORE_ID = "17793307";
 
 export async function POST(req: NextRequest) {
+  const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, { apiVersion: "2026-02-25.clover" });
   const body = await req.text();
   const sig = req.headers.get("stripe-signature")!;
   let event: Stripe.Event;
