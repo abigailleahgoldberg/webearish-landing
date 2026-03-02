@@ -1,11 +1,11 @@
 export interface BlogPost {
-  slug: string;
-  title: string;
-  description: string;
-  date: string;
-  readTime: string;
-  category: string;
-  content: string;
+    slug: string;
+    title: string;
+    description: string;
+    date: string;
+    readTime: string;
+    category: string;
+    content: string;
 }
 
 
@@ -250,7 +250,7 @@ None of these require the child to change. They require the environment to flex.
   },
   {
     slug: 'talking-to-your-childs-school',
-    title: 'How to Talk to Your Child\'s School About Autism Acceptance',
+    title: "How to Talk to Your Child's School About Autism Acceptance",
     description: 'Navigating schools as an autism parent requires strategy, documentation, and knowing your rights. Here is a practical guide to having the conversations that actually move the needle.',
     date: 'November 19, 2023',
     readTime: '7 min read',
@@ -868,7 +868,7 @@ And recognize the interest for what it is: your child's deepest expression of wh
   },
   {
     slug: 'talking-to-siblings-about-autism',
-    title: 'How to Talk to Other Kids About a Sibling\'s Autism',
+    title: "How to Talk to Other Kids About a Sibling's Autism",
     description: 'Siblings of autistic children have their own set of experiences, questions, and needs. Here is how to have conversations that build understanding without burdening.',
     date: 'April 6, 2023',
     readTime: '5 min read',
@@ -1089,10 +1089,8 @@ And find the joy. It is there. Your child is a whole person — not a diagnosis,
 
 The first year is hard. The second year is usually a little easier. The path is long, and you do not have to see the whole thing to take the next step.`,
   },
-];
-// ── BATCH 2 — 13 additional posts ──────────────────────
-blogPosts.push(
-  {
+  // ── BATCH 2 — 13 additional posts ──────────────────────
+{
     slug: "aba-therapy-what-parents-need-to-know",
     title: "ABA Therapy: What Parents Need to Know Before Saying Yes",
     description: "Applied Behavior Analysis is the most commonly recommended autism therapy — and the most contested. Here is what the research says, what autistic adults say, and what questions every parent should ask.",
@@ -1406,4 +1404,407 @@ Autistic family members need genuine choice about social participation. A dinner
 
 The home is the base. The better it works, the more capacity your child has for everything outside it.`
   }
-);
+,
+  {
+    slug: 'autistic-burnout-recovery-guide',
+    title: 'Autistic Burnout: What It Is, What Causes It, and How Recovery Actually Works',
+    description: 'Autistic burnout is not regular exhaustion. It is a collapse of the systems autistic people build to survive. Here is what it looks like and what helps.',
+    date: 'March 10, 2024',
+    readTime: '8 min read',
+    category: 'Wellbeing',
+    content: `Autistic burnout is not being tired after a hard week. It is not stress. It is a full system collapse — cognitive, sensory, and emotional — that happens when an autistic person has been masking, adapting, and compensating beyond their capacity for too long.
+
+The 2020 paper by Raymaker and colleagues was the first peer-reviewed study to formally define it. Autistic adults described: losing skills they previously had (regression in speech, cooking, executive function, self-care), inability to tolerate sensory input they previously managed, complete emotional flatness or fragility, and a recovery timeline measured in months, not days.
+
+What causes burnout: sustained masking, sensory environments without accommodation, high-demand periods without recovery time, life transitions, and lack of autistic community or understanding.
+
+What does not cause burnout: weakness, not trying hard enough, or lack of willpower.
+
+Recovery is not a matter of pushing through. Recovery requires reducing demands. This means: stopping or drastically reducing masking, reducing sensory load, removing social obligations where possible, resting without guilt, and reconnecting with autistic community who understand the experience.
+
+If you are burned out, this is not a personal failing. It is a structural problem. The world was not built for your nervous system. You have been working harder than anyone around you realizes.
+
+The goal of recovery is not to get back to the capacity that caused the burnout. The goal is to build a life that does not require that capacity.`
+},
+  {
+    slug: 'pda-autism-profile-guide',
+    title: 'PDA Autism Profile: What It Is and Why Standard Strategies Backfire',
+    description: 'PDA is a nervous-system-driven need to avoid demands. Understanding it changes everything about how you support a PDA autistic person.',
+    date: 'March 17, 2024',
+    readTime: '7 min read',
+    category: 'Understanding Autism',
+    content: `PDA stands for Pathological Demand Avoidance — though many in the community prefer Pervasive Drive for Autonomy, which describes the experience more accurately.
+
+PDA is an autism profile characterized by an extreme, anxiety-driven need to resist and avoid demands and expectations. This includes direct demands, indirect demands, internal demands the person places on themselves, and perceived demands that may not even be intended.
+
+PDA is not defiance. It is not a choice. It is a nervous system in chronic threat response where demands — even enjoyable ones — trigger the same fight/flight/freeze reaction that a genuine threat would trigger.
+
+This is why standard autism strategies fail with PDA. Firm routines increase demand load. Visual schedules become demands. Reward systems create demand pressure. The child who does well with structure becomes dysregulated by it if their profile is PDA.
+
+What works instead: reducing demands radically, especially during high-distress periods. Collaborative problem-solving rather than imposed solutions. Offering genuine choice and control. Indirect language that preserves autonomy. Prioritizing relationship and safety over compliance.
+
+PDA is not yet in the DSM-5. It is recognized in the UK and increasingly discussed in the US. Getting a diagnosis or assessment that addresses PDA specifically requires a clinician who knows the profile — which is not yet common.
+
+If your autistic child does not respond to standard strategies and seems to escalate around any kind of structure or expectation, PDA may be relevant. The PDA Society website is the best starting resource.`
+},
+  {
+    slug: 'iep-meeting-parent-guide',
+    title: 'How to Prepare for an IEP Meeting and Actually Get What Your Child Needs',
+    description: 'IEP meetings feel designed to overwhelm parents. They are not, but they are complex. Here is how to prepare, what to say, and what to do when the school says no.',
+    date: 'March 24, 2024',
+    readTime: '9 min read',
+    category: 'School Rights',
+    content: `You are a legal member of your child's IEP team. This is not a courtesy. It is federal law. You have the right to disagree, the right to bring an advocate, and the right to reject what the school proposes.
+
+Before the meeting: request all evaluation reports at least three days before the meeting. Read them. Write down questions. Identify specific areas where you want to advocate for more support. Bring someone with you — a partner, an advocate, or a friend who can take notes.
+
+During the meeting: if something is presented fast and you do not understand it, say so. Ask for clarification. Do not sign the IEP at the meeting if you need time to review it — you can sign separately after review. You are not required to sign the same day.
+
+What to listen for: vague goals without measurable benchmarks, supports described in terms of frequency that feel insufficient, services removed without clear justification, recommendations that prioritize what the school has available over what your child actually needs.
+
+When the school says no: ask them to put their refusal in writing. This is called Prior Written Notice and it is required by law. A verbal "we don't do that" is not acceptable — make them document it. Prior Written Notice opens the door to mediation and due process.
+
+What an advocate does: a parent advocate (not a lawyer) sits with you in IEP meetings, helps you understand your rights, advises on what to push for, and supports you in navigating disagreements. Many parent advocacy organizations provide this for free.
+
+The single most important thing: be specific. "More support" is easy to dismiss. "Weekly 30-minute sessions with the speech therapist focused on social communication" is a concrete ask they must respond to.`
+},
+  {
+    slug: 'aac-does-not-prevent-speech',
+    title: 'AAC Does Not Prevent Speech Development. The Research Is Clear.',
+    description: 'One of the most persistent myths in autism parenting: that using AAC will stop a child from developing spoken language. The evidence says the opposite.',
+    date: 'April 1, 2024',
+    readTime: '5 min read',
+    category: 'Communication',
+    content: `This myth delays communication access for thousands of autistic children every year. Parents are told by well-meaning educators and clinicians to hold off on AAC — to wait and see if speech develops first.
+
+The research does not support this position. Multiple peer-reviewed studies across decades consistently show that AAC introduction does not prevent speech development and, in many cases, supports it. The American Speech-Language-Hearing Association (ASHA) has affirmed this.
+
+The logic of the myth is backwards. Communication is the goal. Speech is one form of communication. If a child does not yet have reliable access to spoken communication, giving them a communication tool increases their ability to communicate — and, importantly, reduces the frustration and behavioral consequences of being unable to express needs, wants, and thoughts.
+
+Children who have reliable AAC access have less communication frustration, develop more complex language over time, and often develop or increase spoken language alongside their AAC use.
+
+Every autistic person who needs AAC has a right to it. This includes young children, minimally verbal children, and nonspeaking adults. The question is not "are they ready for AAC" — it is "which AAC system fits their needs and access right now."
+
+If your child's school or therapist is recommending waiting on AAC, ask them to provide peer-reviewed evidence for that recommendation. They will not find it. You can find the evidence for early AAC introduction at ASHA and AAC-RERC (Rehabilitation Engineering Research Center on AAC).`
+},
+  {
+    slug: 'how-to-tell-family-about-autism-diagnosis',
+    title: 'How to Tell Family About an Autism Diagnosis',
+    description: 'Telling family about an autism diagnosis is complicated. Different relationships, different reactions, different stakes. A practical guide to navigating the conversations.',
+    date: 'April 8, 2024',
+    readTime: '6 min read',
+    category: 'Family',
+    content: `When a child or family member receives an autism diagnosis, one of the first decisions is who to tell, how much to share, and when. There is no universal right answer. This guide offers a framework.
+
+With immediate family: be direct and lead with how you want this information received. "We have a diagnosis and we want your support, not your concern." Give people something specific they can do — not in a management way, but in a practical one. Grandparents who understand stimming is communication (not behavior) become better grandparents. Siblings who understand sensory overwhelm become better siblings.
+
+With extended family: you are not obligated to tell everyone. Consider who will have ongoing contact with your child and whose understanding will make a concrete difference. For those you tell, keep it simple. "Our child is autistic. It means their brain processes the world differently. Here is what helps them."
+
+With the child themselves: tell your child about their diagnosis. Research and widespread autistic adult testimony supports early, positive, honest disclosure. Children who find out accidentally or as adults often describe significant harm from the concealment. Frame it in their own experience: "You know how loud places make your ears hurt more than they hurt other people? That is part of being autistic."
+
+What to do with negative reactions: some family members will respond with denial, grief, or unsolicited opinions about causes and cures. Decide in advance how much energy you are willing to spend on education. It is acceptable to say "This is not up for debate" and end the conversation.
+
+What not to do: do not disclose to people who do not need to know in ways that could reach your child before you are ready to have the conversation with them.`
+},
+  {
+    slug: 'what-is-neurodiversity-movement',
+    title: 'The Neurodiversity Movement: What It Is, Where It Came From, and Why It Matters',
+    description: 'Neurodiversity is not a buzzword. It is a paradigm shift in how we understand neurological difference — with real implications for how autistic people are treated.',
+    date: 'April 22, 2024',
+    readTime: '7 min read',
+    category: 'Acceptance',
+    content: `The neurodiversity concept was introduced by Australian sociologist Judy Singer in the late 1990s. The core idea: neurological differences — autism, ADHD, dyslexia, and others — are natural variations in the human genome, not pathologies to be corrected.
+
+This is not anti-science. It does not deny that autistic people face real challenges. It reframes where those challenges come from. Many autistic challenges are the result of a mismatch between how autistic brains work and how the world is structured. Sensory overwhelm from open-plan offices is not a deficiency in the autistic worker. It is a deficiency in the office design.
+
+The neurodiversity movement has two major strands. First, the identity-based strand, led by autistic self-advocates: autism is part of identity, not a burden, and the appropriate response is acceptance and accommodation, not normalization. Second, the accommodations-based strand: workplaces, schools, and public spaces should be designed for the full range of human neurological variation.
+
+Critics argue the movement ignores the significant support needs of some autistic people. This is a real tension. The movement has sometimes failed to center autistic people with high support needs or who are nonspeaking. The strongest advocates in the movement hold both truths: neurological variation is valuable, and some autistic people require substantial support to live the lives they want.
+
+What the movement has changed: language (identity-first language is now mainstream in autistic community), therapy goals (from "indistinguishable from peers" to "happy and functional"), and increasingly, policy. The paradigm is not complete, but it is shifting.`
+},
+  {
+    slug: 'autism-in-the-workplace',
+    title: 'Autism in the Workplace: Rights, Disclosure, and What Actually Helps',
+    description: 'Autistic adults face significant employment barriers. ADA rights, disclosure decisions, accommodations to ask for, and workplace cultures worth seeking.',
+    date: 'May 6, 2024',
+    readTime: '8 min read',
+    category: 'Adults',
+    content: `Unemployment and underemployment are significant challenges for autistic adults. Studies suggest autistic adults are unemployed at rates far higher than the general population — and when employed, are often underemployed relative to their skills and capacity.
+
+Your rights: the ADA (Americans with Disabilities Act) requires employers with 15 or more employees to provide reasonable accommodations for employees with disabilities. Autism qualifies. You must disclose your disability to your employer to request accommodations — but you do not need to disclose during the hiring process.
+
+Disclosure timing: many autistic employees choose not to disclose during hiring to avoid bias. Once hired and in a stable position, disclosing to HR to request accommodations is a separate legal process protected from retaliation.
+
+Accommodations to request: reduced open-plan noise (noise-canceling headphones, private workspace, remote work), clear written communication of expectations, agenda-first meetings, flexible start times, written rather than verbal feedback, reduced unstructured social requirements (optional social events rather than mandatory).
+
+What to look for in employers: clear communication norms, remote work flexibility, neurodiversity hiring programs, and a culture that values output over performance of sociability. Ask during interviews how the team prefers to communicate and how feedback is given.
+
+What does not work: workplaces that require heavy masking, open social events as markers of engagement, verbal-only feedback, and ambiguous unwritten expectations.
+
+The skills gap is not primarily about autistic workers lacking skills. It is about workplaces designed for neurotypical social and communication norms. The better your employer understands this, the more your capacity will be accessible to them.`
+},
+  {
+    slug: 'autism-and-anxiety',
+    title: 'Autism and Anxiety: Why They Travel Together and What Helps',
+    description: 'Anxiety is the most common co-occurring condition in autism. Understanding why helps parents and autistic people find interventions that actually work.',
+    date: 'May 13, 2024',
+    readTime: '7 min read',
+    category: 'Wellbeing',
+    content: `Anxiety is the most commonly co-occurring condition in autism. Research suggests 40-50% of autistic people meet criteria for an anxiety disorder, and anxiety traits are present in the vast majority of autistic people to some degree.
+
+The reasons are not mysterious. Sensory hypersensitivity creates a nervous system that is chronically on alert. Social ambiguity is cognitively and emotionally taxing. Unpredictability is genuinely aversive. Masking generates persistent physiological stress. Executive function demands create ongoing frustration. The world was designed for a different nervous system, and navigating it requires constant effortful adaptation.
+
+Standard anxiety treatments need modification for autistic people. CBT that relies on challenging irrational thoughts can miss the point — some autistic anxiety is rational. The sensory overwhelm is real. The social ambiguity is real. Exposure therapy requires careful adaptation and an autism-informed therapist.
+
+What helps: sensory environment modifications (reducing anxiety triggers at the source, not just managing the response), predictability and preparation (advance warning of changes, written schedules), reducing masking demands, genuine communication support, and CBT or ACT (Acceptance and Commitment Therapy) adapted by autism-informed therapists.
+
+What does not help: pushing through sensory environments without support, demanding eye contact, removing accommodations as exposure therapy, and anxiety management strategies built entirely around challenging thoughts.
+
+The distinction matters: anxiety treatment that ignores the autism context will be ineffective or harmful. The most effective anxiety treatment for autistic people addresses both the anxiety itself and the structural conditions that generate it.`
+},
+  {
+    slug: 'what-is-echolalia',
+    title: 'What Is Echolalia and What Does It Mean for Your Child',
+    description: 'Echolalia is not meaningless repetition. It is a form of communication that contains information, serves regulatory functions, and often precedes original language.',
+    date: 'May 20, 2024',
+    readTime: '5 min read',
+    category: 'Communication',
+    content: `Echolalia is the repetition of words, phrases, or scripts that have been heard before — from TV shows, books, songs, previous conversations, or anything else. It is a very common communication pattern in autism.
+
+There are two types. Immediate echolalia is repetition of something just heard. Delayed echolalia is repetition of something heard much earlier — a line from a movie, a phrase a parent often says, a script from a book.
+
+Echolalia is not meaningless. Research has established that echolalic language is purposeful. Children use echolalia to communicate. A child who repeats "do you want to build a snowman" when they want to play may be using the closest script they have to express that desire. Understanding this changes how you respond.
+
+Echolalia also serves regulatory functions. Repeating familiar scripts reduces anxiety, provides sensory comfort, and helps maintain state regulation. It is functionally similar to stimming in some contexts.
+
+What to do: do not try to eliminate echolalia. Instead, work with a speech-language therapist to understand what the scripts mean and gradually build bridge language that expands the child's expressive vocabulary while honoring the scripts they already have. Gestalt language processing is a framework increasingly used to support children who use echolalia as their primary communication route.
+
+Echolalia often precedes original language. Children who use echolalia heavily may develop more spontaneous language over time, especially with speech therapy that works with rather than against their natural communication style.`
+},
+  {
+    slug: 'autism-diagnosis-in-girls',
+    title: 'Why Autism Is Diagnosed Later in Girls — and What Gets Missed in the Meantime',
+    description: 'Girls are diagnosed with autism years later than boys on average. Here is what gets missed, what the right diagnosis changes, and what to watch for.',
+    date: 'May 27, 2024',
+    readTime: '7 min read',
+    category: 'Understanding Autism',
+    content: `The average age of autism diagnosis is significantly higher for girls than for boys. Many autistic women are diagnosed in their late teens, twenties, or even later — often after years of diagnoses like anxiety disorder, depression, borderline personality disorder, eating disorders, or ADHD.
+
+Why: autistic girls tend to camouflage more effectively, partly because of socialization (girls are more often socialized to be socially adaptive and cooperative), partly because of inherent tendency toward social mimicry, and partly because the diagnostic criteria and the clinical training have been built primarily around male presentation.
+
+Autistic girls often have strong verbal ability, maintain eye contact through significant effort, develop scripts for social interaction that pass as neurotypical, and have their social difficulty overlooked because they are trying so hard to fit in. The trying is invisible. The exhaustion it produces is attributed to anxiety or mood.
+
+What gets missed in the meantime: years without accurate understanding of their own experience, mismatched treatment (anxiety treatment that does not address the underlying autistic processing), missed accommodations in school, and an accumulating narrative of being fundamentally broken or wrong in ways nobody can name.
+
+What the right diagnosis changes: relief. A framework for understanding the past. Permission to unmask. Access to accommodations. Autistic community. A different relationship with self.
+
+If you are a parent of a girl with anxiety, perfectionism, social exhaustion, intense interests, and sensory differences who has not been evaluated for autism: ask your evaluator specifically about autistic presentation in girls. Ask about masking. The standard assessment may not surface it.`
+},
+  {
+    slug: 'talking-to-teachers-about-autism',
+    title: 'How to Talk to Your Child\'s Teacher About Autism',
+    description: 'The start of each school year brings the same conversation. How to have it well — what to share, what to ask, and how to build the relationship that serves your child.',
+    date: 'June 3, 2024',
+    readTime: '6 min read',
+    category: 'School Rights',
+    content: `The conversation at the start of the school year is important. Done well, it sets up a year of genuine collaboration. Done poorly, it sets up a year of misunderstanding and advocacy exhaustion.
+
+What to share: the specific, functional things a teacher needs to know. Not the full diagnostic history. Not the story of how hard things have been. What the teacher needs: how your child communicates (including non-verbal communication they should recognize), what sensory challenges exist in the classroom environment, how to recognize escalating distress before it becomes a meltdown, what helps your child regulate, and what definitely does not help.
+
+A one-page profile is more effective than a verbal summary. Write a document: photo of your child, three things that are great about them, three things that are hard, three things that help. Teachers read it, remember it, and refer to it.
+
+What to ask: how does the classroom handle sensory needs (noise, lighting, transitions)? What is the procedure if the child needs a sensory break? Who should the child go to if they are overwhelmed? How does the teacher prefer to communicate with you?
+
+What not to do: do not lead with warnings or worst-case scenarios. Do not frame your child primarily through what is hard. Teachers who receive the story of everything wrong tend to see everything wrong. Teachers who receive the story of the whole child tend to see the whole child.
+
+IEP or 504 review: if your child has an IEP or 504 plan, review it with the teacher early — do not assume they have read it. Confirm which accommodations are in place, how they are implemented in this specific classroom, and how you will communicate if something is not working.`
+},
+  {
+    slug: 'autism-and-sleep',
+    title: 'Autism and Sleep: Why It\'s Hard and What Actually Helps',
+    description: 'Sleep problems affect the majority of autistic people. The reasons are neurological, sensory, and regulatory — and so are the solutions.',
+    date: 'June 10, 2024',
+    readTime: '6 min read',
+    category: 'Wellbeing',
+    content: `Sleep difficulties affect somewhere between 50-80% of autistic children and a significant proportion of autistic adults. This is not a behavioral problem. It has neurological, sensory, and regulatory roots.
+
+Why sleep is harder for autistic people: melatonin production differences (autistic people often produce melatonin later and in different patterns than neurotypical people), sensory hypersensitivity that makes the sleep environment difficult to tolerate, anxiety that activates at the unstructured time before sleep, difficulty with the transition from wakefulness to sleep, and irregular internal cues that make predictable sleep timing harder.
+
+What helps: environmental modifications first. Blackout curtains, white noise, weighted blankets, and soft consistent lighting. The sensory environment at sleep onset matters more for autistic people than for neurotypical people. Address the environment before trying behavioral interventions.
+
+Routine: predictable wind-down routines reduce the cognitive transition demands of approaching sleep. Keep the same sequence, the same timing, and the same sensory conditions every night.
+
+Screen time: the blue light effect is real and more impactful for autistic people with light sensitivities. Screens off at least 60 minutes before bed is a reasonable starting point.
+
+Melatonin: low-dose melatonin (0.5mg-1mg) taken 30-60 minutes before intended sleep onset is one of the best-supported interventions for autistic sleep difficulties. Talk with your pediatrician. The dose used in most autism sleep research is much lower than what is typically sold in stores.
+
+What does not work well: strict sleep training methods that involve high distress. The stress response from sleep training can actively worsen autistic sleep long-term.`
+},
+  {
+    slug: 'sensory-diet-what-it-means',
+    title: 'What Is a Sensory Diet and How Do You Build One',
+    description: 'A sensory diet is not about food. It is a personalized schedule of sensory activities that help an autistic person stay regulated throughout the day.',
+    date: 'June 17, 2024',
+    readTime: '5 min read',
+    category: 'Sensory',
+    content: `A sensory diet is a term occupational therapists use to describe a personalized schedule of sensory activities designed to help a person maintain an optimal level of arousal and regulation throughout the day.
+
+The concept was developed by occupational therapist Patricia Wilbarger. Like a nutritional diet, it involves regular "intake" — in this case, sensory input — that meets the individual's needs.
+
+Different autistic people have different sensory needs. A child who seeks heavy proprioceptive input (pressure, resistance, deep pressure) may need regular movement breaks with push-ups, wall presses, carrying heavy items, or a weighted vest. A child who is hypersensitive to vestibular input may need slow, predictable movement rather than spinning or swinging.
+
+A sensory diet is built by an occupational therapist through sensory assessment — not by guessing. It is individualized. What regulates one autistic person may dysregulate another.
+
+Common elements of sensory diets: proprioceptive activities (resistance, weight bearing, heavy work), vestibular input (swinging, bouncing, spinning — matched to tolerance), oral sensory input (crunchy or chewy foods, water bottle, oral motor tools), tactile input (specific textures, fidgets, sensory bins), and calming input (deep pressure, weighted blanket, quiet space).
+
+Timing matters. A sensory diet is not a one-time activity. It is integrated across the day — before demanding tasks, during transitions, and as recovery after overstimulating environments.
+
+If you are interested in a sensory diet for your child, start with an OT evaluation that specifically addresses sensory processing. The OT can then build a program based on your child's actual sensory profile.`
+},
+  {
+    slug: 'social-stories-guide',
+    title: 'Social Stories: What They Are and How to Use Them',
+    description: 'Social stories are short, personalized narratives that prepare autistic people for specific situations. How to write them, when to use them, and what makes them effective.',
+    date: 'June 24, 2024',
+    readTime: '5 min read',
+    category: 'Tools',
+    content: `Social stories were developed by Carol Gray in 1991. They are short, first-person narratives that describe a specific social situation, the perspectives of people in that situation, and appropriate responses.
+
+The core idea: autistic people benefit from explicit, concrete information about social situations that neurotypical people absorb implicitly. A social story provides that information in a format that is accessible and can be reviewed before the situation occurs.
+
+What makes a good social story: it is written in first person ("I am going to the dentist"). It describes the situation, what will happen, how others might feel, and what the person can do. It uses more descriptive and perspective sentences than directive ones. It is written at the person's comprehension level.
+
+Example structure: "Sometimes I go to the dentist. The dentist checks my teeth. The bright light helps the dentist see. Some things feel different in my mouth. The dentist wants to help keep my teeth healthy. When the check-up is done, I can go home. I can feel proud that I went to the dentist."
+
+When to use them: before first-time experiences, before returning to a difficult situation, to prepare for transitions (new school, new classroom, family event), and to introduce new expectations or changes.
+
+Social stories are not scripts for compliance. They are tools for understanding. The goal is to reduce anxiety by replacing ambiguity with clear information — not to dictate behavior.
+
+Apps and tools: Social Story Creator (iOS), Boardmaker, and simple Google Slides with photos work well. The format matters less than the content.`
+},
+  {
+    slug: 'self-advocacy-for-autistic-teens',
+    title: 'Teaching Self-Advocacy to Autistic Teenagers',
+    description: 'Self-advocacy is the skill that connects everything else. How to build it, what it looks like in practice, and why starting before the IEP years end matters.',
+    date: 'July 1, 2024',
+    readTime: '7 min read',
+    category: 'School Rights',
+    content: `Self-advocacy means being able to communicate your own needs, preferences, and rights. For autistic teenagers, it is the skill that determines what happens after high school more than almost anything else.
+
+In the K-12 system, parents advocate. At 18, that largely transfers to the autistic person themselves. This transition is easier when self-advocacy has been practiced across the teenage years.
+
+What self-advocacy includes: knowing and being able to name your own needs ("I need written instructions because verbal-only directions are hard for me to hold"), knowing your rights (ADA accommodations in college and employment), being able to ask for accommodations, being able to recognize and name when something is not working, and being able to communicate with adults in positions of authority.
+
+How to build it: include the student in IEP meetings from the first year it is appropriate. Have them speak to at least one agenda item. Over time, have them lead the meeting. Ask them regularly what is working and not working in school. Practice accommodation conversations ("Let's practice what you would say to your professor if the exam room is too loud").
+
+What to start with: basic "I" statements about needs. "I need more time." "That sound is hard for me to focus with." "I don't understand the instructions — can you write them down?" These are small, specific, and manageable.
+
+The goal is not independence for its own sake. It is having the tools to get what you need in the world you are entering — where the supports of school no longer exist by default.`
+},
+  {
+    slug: 'autism-and-food',
+    title: 'Autism and Selective Eating: What Parents Need to Know',
+    description: 'Selective eating in autistic children is sensory-based, not behavioral. Understanding the difference changes everything about how you respond.',
+    date: 'July 8, 2024',
+    readTime: '6 min read',
+    category: 'Wellbeing',
+    content: `Selective eating — sometimes called "picky eating" — is extremely common in autistic children. Research suggests 70-90% of autistic children show significant food selectivity.
+
+This is sensory-based. Not defiance. Not manipulation. Not "getting away with it."
+
+Autistic children frequently experience foods differently: textures that seem normal to neurotypical people may produce genuine sensory pain or overwhelming input. Smell sensitivities may make foods that do not bother others genuinely difficult to tolerate. Mixed textures (casseroles, soups, salads) can be particularly difficult.
+
+The consequences of misidentifying this as behavioral: approaches designed to override "picky eating" through exposure pressure, reward withholding, or forced tasting produce significant distress, damage the feeding relationship, and can lead to severe food restriction rather than expansion.
+
+What actually helps: working with a feeding therapist who understands sensory-based feeding differences. The SOS (Sequential Oral Sensory) approach and DIR/Floortime-based feeding approaches work with the child's sensory system rather than against it. Exposure is gradual, non-coercive, and built on safety.
+
+In the meantime: do not make mealtimes a battle. Provide safe foods reliably. Add new foods to the table without pressure to eat them. Let the child observe, smell, and touch before tasting is ever expected.
+
+If the child's diet is significantly restricted and you are concerned about nutrition: consult with a dietitian who has experience with autism. Most children with selective eating can meet nutritional needs with the foods they do eat plus targeted supplementation.`
+},
+  {
+    slug: 'diagnosis-as-adult',
+    title: 'Getting an Autism Diagnosis as an Adult: What to Expect',
+    description: 'More adults are seeking autism diagnoses than ever. The path is not straightforward. Here is what to expect and how to navigate the process.',
+    date: 'July 15, 2024',
+    readTime: '7 min read',
+    category: 'Diagnosis',
+    content: `Adult autism diagnosis is increasing rapidly. Many people are recognizing themselves in descriptions of autism for the first time as awareness of the full spectrum — and of autistic presentations in women, non-binary people, and people who have been highly masked — becomes more widespread.
+
+Getting a diagnosis as an adult is more complicated than childhood diagnosis. The evaluation pathway is less standardized. Many clinicians are not experienced in adult autism presentation. Waitlists are long.
+
+Who can diagnose: licensed psychologists, neuropsychologists, and psychiatrists. Some primary care physicians, though less commonly. A psychoeducational evaluation is the most thorough approach — it includes cognitive, adaptive, and autism-specific assessment and produces a comprehensive report.
+
+What the evaluation involves: structured interview about developmental history (the clinician will ask about childhood — try to gather as much information as possible from family members or records before the evaluation), standardized autism assessments (ADOS-2 and ADI-R are most commonly used), review of current functioning, and sometimes additional cognitive or adaptive functioning testing.
+
+Cost and access: adult autism evaluations are expensive — often $1,500-$4,000. Insurance coverage varies. Some university clinics offer sliding scale evaluations. The ASAN website maintains a directory of autism-knowledgeable evaluators.
+
+Does diagnosis matter as an adult: yes. It opens access to workplace accommodations under the ADA. It explains a lifetime of experiences in a new frame. It connects you to autistic community. For many people, it is the beginning of significantly better self-understanding and self-compassion. It is not required to identify as autistic — but for many, the formal process matters.`
+},
+  {
+    slug: 'strengths-based-autism',
+    title: 'Strengths-Based Autism: What It Means and Why It Is Not Just Positivity',
+    description: 'Strengths-based approaches to autism are not about ignoring challenges. They are about building support on a foundation of what autistic people do well.',
+    date: 'July 22, 2024',
+    readTime: '5 min read',
+    category: 'Acceptance',
+    content: `Strengths-based is sometimes dismissed as feel-good framing — pretending the challenges do not exist. That is not what it means.
+
+Strengths-based approaches start from the genuine capabilities of the autistic person and build support structures around and from those capabilities. They do not pretend challenges do not exist. They refuse to make those challenges the entirety of the story.
+
+The difference in practice: a deficit-based IEP goal might be "Johnny will decrease meltdown frequency." A strengths-based IEP goal might be "Johnny will use his strong memory for visual schedules to increase his ability to predict transitions independently." The first frames Johnny as a set of problems. The second frames him as a capable person who benefits from specific support.
+
+This is not semantic. It changes what teachers notice, what parents communicate to their children, and what autistic people internalize about themselves.
+
+Common autistic strengths that are often overlooked: pattern recognition, attention to detail, consistency of approach, honesty, deep engagement with specific topics, long-term memory for subjects of interest, creativity within rule-based systems, and a strong sense of justice.
+
+None of these come without complexity. Honesty can feel blunt. Deep focus can be exclusionary. Pattern recognition can miss nuance. Strengths-based does not mean strengths-only — it means understanding the whole person.
+
+Autistic children who are raised with a strengths-based understanding of their autism show better self-esteem, better identity development, and better outcomes across multiple domains than those raised entirely within a deficit framework. The research is consistent.`
+},
+  {
+    slug: 'what-not-to-say-to-autism-parents',
+    title: 'What Not to Say to Autism Parents (And What to Say Instead)',
+    description: 'Well-meaning words can land badly. A direct guide to what helps and what does not, from parents who have heard all of it.',
+    date: 'July 29, 2024',
+    readTime: '5 min read',
+    category: 'Family',
+    content: `Most people who say the wrong thing mean well. That does not make it easier to hear. This guide is for family, friends, and anyone trying to support an autism parent who is not sure what to say.
+
+"God only gives special kids to special parents." This is not comforting. It implies the parent's child is a burden sent as a test, and it frames autism as a tragedy. Skip it.
+
+"Have you tried [diet / supplement / therapy]?" Unless you are the parent's pediatrician or they have specifically asked you for treatment recommendations, this implies they have not looked hard enough. They have. Skip it.
+
+"They do not look autistic." There is no standard autism appearance. This dismisses the reality of the person's experience and usually means "I expected something different based on stereotypes." Skip it.
+
+"All kids do that." Sometimes true. Not helpful. The parent is not asking you to validate their perception of their child's challenges. They are navigating something real.
+
+"They will grow out of it." Autism is a lifelong neurological difference. This creates false hope and delays acceptance of what will actually help.
+
+What actually helps: "I am here." "What do you need this week?" "Can I come over and be an extra set of hands?" "How are you doing, not your child — you." "I read something about [topic they mentioned] — want to talk about it?"
+
+The most useful thing: believe the parent. Believe the child. Do not require the child to perform their disability for you before taking it seriously. Show up without an agenda.`
+},
+  {
+    slug: 'autism-and-identity',
+    title: 'Autism and Identity: How Autistic People Find and Build Self-Understanding',
+    description: 'For many autistic people, autism is not something that happened to their identity. It is part of it. The relationship between autism and self-understanding is complex and worth understanding.',
+    date: 'August 5, 2024',
+    readTime: '7 min read',
+    category: 'Acceptance',
+    content: `Many autistic people describe the process of coming to understand their autism as identity-shaping rather than identity-disrupting. The diagnosis or self-recognition does not add something foreign to who they are. It names something that has always been true.
+
+This is especially pronounced for people diagnosed later in life. Decades of unexplained experience — social difficulty, sensory overwhelm, communication differences, burnout — suddenly have a name. The name does not change who they are. It gives them a framework for understanding who they always were.
+
+The process of autistic identity development is not linear. Many people go through stages: initial recognition or diagnosis, learning about autism (often by reading autistic voices rather than clinical descriptions), connecting with autistic community, working through grief or anger about years without understanding, and arriving at something that feels like integration.
+
+Identity-first language — "autistic person" rather than "person with autism" — reflects this integration for many. Autism is not something they carry alongside themselves. It is part of how they think, process, and experience the world.
+
+This does not mean autism has no challenges. It means those challenges are understood in context, not in shame.
+
+Autistic community is central to this process for many people. Online autistic communities, autistic-run organizations, and connections with other autistic people provide the experience of being understood without effort for the first time. This is not a small thing. For many autistic people, it is transformative.
+
+The research supports this: stronger autistic identity and connection with autistic community are associated with significantly better mental health outcomes.`
+},
+];

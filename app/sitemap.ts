@@ -1,19 +1,122 @@
-import type { MetadataRoute } from "next";
-import { blogPosts } from "./blog/data";
+import type { MetadataRoute } from 'next';
+import { calendarEvents } from './data/autism-calendar';
+import { glossaryTerms } from './data/glossary';
+import { conditions } from './data/conditions';
+import { stateResources } from './data/state-resources';
+import { voiceEssays as autisticVoices } from './data/autistic-voices';
+import { blogPosts } from './blog/data';
+
+const BASE = 'https://webearish.com';
+const now = new Date();
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://webearish.com";
-  const staticRoutes = ["/", "/about", "/shop", "/blog", "/resources", "/contact"].map(r => ({
-    url: `${base}${r}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: r === "/" ? 1.0 : 0.8,
+  const staticPages = [
+    ['/', 1.0, 'weekly'],
+    ['/about', 0.7, 'monthly'],
+    ['/shop', 0.8, 'weekly'],
+    ['/blog', 0.9, 'daily'],
+    ['/contact', 0.6, 'monthly'],
+    ['/quiz', 0.8, 'monthly'],
+    ['/resources', 0.8, 'weekly'],
+    ['/glossary', 0.9, 'weekly'],
+    ['/conditions', 0.9, 'weekly'],
+    ['/calendar', 0.8, 'monthly'],
+    ['/voices', 0.8, 'monthly'],
+    ['/diagnosis', 0.9, 'monthly'],
+    ['/diagnosis/early-signs', 0.8, 'monthly'],
+    ['/diagnosis/evaluation-process', 0.8, 'monthly'],
+    ['/diagnosis/getting-assessed', 0.8, 'monthly'],
+    ['/diagnosis/dsm-5-criteria', 0.7, 'monthly'],
+    ['/diagnosis/after-diagnosis', 0.8, 'monthly'],
+    ['/ages', 0.8, 'monthly'],
+    ['/ages/toddler', 0.8, 'monthly'],
+    ['/ages/school-age', 0.8, 'monthly'],
+    ['/ages/teen', 0.8, 'monthly'],
+    ['/ages/adult', 0.7, 'monthly'],
+    ['/ages/college', 0.8, 'monthly'],
+    ['/is-this-autism', 0.9, 'monthly'],
+    ['/is-this-autism/signs-in-girls', 0.8, 'monthly'],
+    ['/is-this-autism/signs-in-boys', 0.7, 'monthly'],
+    ['/is-this-autism/in-adults', 0.8, 'monthly'],
+    ['/is-this-autism/late-diagnosis', 0.8, 'monthly'],
+    ['/is-this-autism/high-masking', 0.8, 'monthly'],
+    ['/adults', 0.8, 'monthly'],
+    ['/adults/burnout', 0.9, 'monthly'],
+    ['/adults/late-diagnosis', 0.8, 'monthly'],
+    ['/adults/employment', 0.8, 'monthly'],
+    ['/adults/relationships', 0.7, 'monthly'],
+    ['/adults/housing', 0.7, 'monthly'],
+    ['/iep', 0.9, 'monthly'],
+    ['/school-rights', 0.8, 'monthly'],
+    ['/acceptance', 0.8, 'monthly'],
+    ['/safety', 0.8, 'monthly'],
+    ['/safety/crisis', 0.9, 'monthly'],
+    ['/parents', 0.8, 'monthly'],
+    ['/parents/self-care', 0.7, 'monthly'],
+    ['/siblings', 0.7, 'monthly'],
+    ['/communication/aac', 0.8, 'monthly'],
+    ['/guides/meltdown-vs-tantrum', 0.8, 'monthly'],
+    ['/books', 0.7, 'monthly'],
+    ['/media', 0.7, 'monthly'],
+    ['/tools', 0.8, 'monthly'],
+    ['/stories', 0.7, 'monthly'],
+    ['/therapies', 0.9, 'monthly'],
+    ['/therapies/aba', 0.9, 'monthly'],
+    ['/research', 0.9, 'monthly'],
+    ['/gender', 0.8, 'monthly'],
+    ['/resources/by-state', 0.8, 'monthly'],
+    ['/privacy', 0.3, 'yearly'],
+    ['/terms', 0.3, 'yearly'],
+    ['/coppa', 0.3, 'yearly'],
+    ['/accessibility', 0.3, 'yearly'],
+  ].map(([url, priority, changeFreq]) => ({
+    url: `${BASE}${url}`,
+    lastModified: now,
+    changeFrequency: changeFreq as 'daily' | 'weekly' | 'monthly' | 'yearly',
+    priority: priority as number,
   }));
-  const blogRoutes = blogPosts.map(p => ({
-    url: `${base}/blog/${p.slug}`,
-    lastModified: new Date(p.date),
-    changeFrequency: "monthly" as const,
-    priority: 0.6,
+
+  const blogPages = blogPosts.map(p => ({
+    url: `${BASE}/blog/${p.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.85,
   }));
-  return [...staticRoutes, ...blogRoutes];
+
+  const glossaryPages = glossaryTerms.map(t => ({
+    url: `${BASE}/glossary/${t.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const conditionPages = conditions.map(c => ({
+    url: `${BASE}/conditions/${c.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  const calendarPages = calendarEvents.map(e => ({
+    url: `${BASE}/calendar/${e.slug}`,
+    lastModified: now,
+    changeFrequency: 'yearly' as const,
+    priority: 0.65,
+  }));
+
+  const statePages = stateResources.map(s => ({
+    url: `${BASE}/resources/by-state/${s.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  const voicePages = autisticVoices.map(v => ({
+    url: `${BASE}/voices/${v.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
+
+  return [...staticPages, ...blogPages, ...glossaryPages, ...conditionPages, ...calendarPages, ...statePages, ...voicePages];
 }

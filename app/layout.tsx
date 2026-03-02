@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import NavClient from "./NavClient";
+import AutismChatbot from "./components/AutismChatbot";
 import Footer from "./Footer";
 
 export const metadata: Metadata = {
@@ -13,11 +14,12 @@ export const metadata: Metadata = {
     description: "Merch, community, and resources for autistic children and their families. We are not a charity — we are a movement.",
     url: "https://webearish.com",
     siteName: "WeBearish",
-    images: [{ url: "/bear-logo.png", width: 400, height: 400, alt: "WeBearish" }],
+    images: [{ url: "https://webearish.com/og-image.png", width: 1200, height: 630, alt: "WeBearish — Autism Acceptance Movement" }],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
+    images: ["https://webearish.com/og-image.png"],
     site: "@webearish",
     creator: "@webearish",
   },
@@ -30,6 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <NavClient />
         <main>{children}</main>
         <Footer />
+              <AutismChatbot />
       </body>
     </html>
   );
