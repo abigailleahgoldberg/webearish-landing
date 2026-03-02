@@ -219,79 +219,88 @@ export default function HomeClient() {
       <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', maxWidth: 1200, margin: '0 auto' }}>
         <div style={{ maxWidth: 720, marginBottom: 20 }}>
           <div style={{ fontSize: 11, letterSpacing: '3px', color: CORAL, fontWeight: 800, marginBottom: 20 }}>FROM THE COMMUNITY</div>
-          <h2 style={{ fontSize: 'clamp(26px,4vw,42px)', fontWeight: 900, lineHeight: 1.1, letterSpacing: '-1px', marginBottom: 16 }}>
-            The notes parents write<br/>at <span style={{ color: CORAL }}>midnight.</span>
+          <h2 style={{ fontSize: 'clamp(32px,5vw,64px)', fontWeight: 900, lineHeight: 1.05, letterSpacing: '-1.5px', marginBottom: 16, whiteSpace: 'nowrap' }}>
+            The notes parents write at <span style={{ color: CORAL }}>midnight.</span>
           </h2>
           <p style={{ fontSize: 16, color: 'rgba(250,250,248,0.5)', lineHeight: 1.7 }}>
             These are real words from real families. No names. No polish. Just the truth of what it feels like to love an autistic child in a world that does not always love them back.
           </p>
         </div>
 
-        {/* Submit form — above notes */}
-        <div style={{ background: FOREST, border: `1px solid ${LIME}33`, padding: 'clamp(28px,4vw,44px)', maxWidth: 680, marginBottom: 48 }}>
-          <div style={{ fontSize: 11, letterSpacing: '2px', color: LIME, fontWeight: 800, marginBottom: 12 }}>SHARE YOUR NOTE</div>
-          <h3 style={{ fontSize: 22, fontWeight: 900, marginBottom: 8, lineHeight: 1.2 }}>Write your autism note.</h3>
-          <p style={{ fontSize: 14, color: 'rgba(250,250,248,0.5)', marginBottom: 24, lineHeight: 1.6 }}>
-            No judgment. No editing. Just your words. You can sign your name or stay anonymous — either way, your note belongs here.
-          </p>
-          {submitted ? (
-            <div style={{ background: `${LIME}22`, border: `1px solid ${LIME}44`, padding: '20px 24px' }}>
-              <div style={{ color: LIME, fontWeight: 800, fontSize: 16, marginBottom: 6 }}>Thank you for sharing.</div>
-              <div style={{ color: 'rgba(250,250,248,0.6)', fontSize: 14 }}>Your note has been received. Once reviewed, it will appear alongside others in this section.</div>
-            </div>
-          ) : (
-            <form onSubmit={submitNote} style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
-              <textarea
-                placeholder="Write your note here... (up to 600 characters)"
-                value={noteText}
-                onChange={e => setNoteText(e.target.value)}
-                maxLength={600}
-                rows={5}
-                style={{ background: DARK, border: `1px solid ${LIME}33`, color: CREAM, padding: '14px 16px', fontSize: 15, outline: 'none', resize: 'vertical', fontFamily: 'inherit', lineHeight: 1.7 }}
-              />
-              <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 12, color: 'rgba(250,250,248,0.3)', marginTop: -8 }}>
-                <span>Your words, your story.</span>
-                <span>{noteText.length}/600</span>
-              </div>
-              <input
-                type="text"
-                placeholder="Sign your note (optional — leave blank to stay anonymous)"
-                value={noteFrom}
-                onChange={e => setNoteFrom(e.target.value)}
-                maxLength={60}
-                style={{ background: DARK, border: `1px solid ${LIME}33`, color: CREAM, padding: '12px 16px', fontSize: 14, outline: 'none', fontFamily: 'inherit' }}
-              />
-              {noteError && <div style={{ color: CORAL, fontSize: 13 }}>{noteError}</div>}
-              <button
-                type="submit"
-                disabled={submitting}
-                style={{ background: CORAL, color: CREAM, fontWeight: 900, fontSize: 14, padding: '14px', border: 'none', cursor: submitting ? 'not-allowed' : 'pointer', letterSpacing: '1px', opacity: submitting ? 0.7 : 1 }}
-              >
-                {submitting ? 'SENDING...' : 'SHARE MY NOTE →'}
-              </button>
-              <p style={{ fontSize: 11, color: 'rgba(250,250,248,0.25)', lineHeight: 1.6 }}>
-                Notes are reviewed before appearing on the site. No contact info is collected. By submitting, you agree to our <Link href="/privacy" style={{ color: 'rgba(250,250,248,0.4)' }}>privacy policy</Link>.
-              </p>
-            </form>
-          )}
-        </div>
+        {/* Submit form + notes — redesigned layout */}
+        <div style={{ display: 'grid', gridTemplateColumns: 'clamp(300px,45%,560px) 1fr', gap: 'clamp(24px,4vw,56px)', alignItems: 'start' }}>
 
-        {/* Notes grid — below form */}
-        <div className="notes-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16 }}>
-          {displayNotes.map((n, i) => (
-            <div key={n.id} className="note-card" style={{
-              background: i === 0 ? FOREST : '#111',
-              border: `1px solid ${i === 0 ? LIME + '44' : '#2a2a2a'}`,
-              padding: '28px 24px',
-              position: 'relative',
-            }}>
-              <div style={{ fontSize: 48, lineHeight: 1, color: i === 0 ? LIME : i === 1 ? CORAL : YELLOW, opacity: 0.3, fontFamily: 'Georgia, serif', marginBottom: 8 }}>"</div>
-              <p style={{ fontSize: 15, lineHeight: 1.8, color: i === 0 ? CREAM : 'rgba(250,250,248,0.7)', fontStyle: 'italic', marginBottom: 20 }}>{n.note}</p>
-              <div style={{ fontSize: 12, fontWeight: 700, color: i === 0 ? LIME : i === 1 ? CORAL : YELLOW, letterSpacing: '0.5px', opacity: 0.8 }}>
-                — {n.from ? n.from : 'Parent, signed as anonymous'}
+          {/* LEFT: Submit form */}
+          <div style={{ background: FOREST, border: `1px solid ${LIME}22`, padding: 'clamp(28px,3vw,44px)' }}>
+            <div style={{ fontSize: 10, letterSpacing: '3px', color: LIME, fontWeight: 800, marginBottom: 14 }}>SHARE YOUR NOTE</div>
+            <h3 style={{ fontSize: 'clamp(18px,2vw,24px)', fontWeight: 900, lineHeight: 1.2, marginBottom: 8, color: CREAM }}>Write your note.</h3>
+            <p style={{ fontSize: 14, color: 'rgba(250,250,248,0.45)', marginBottom: 24, lineHeight: 1.65 }}>
+              No judgment. No editing. Your words. Sign your name or stay anonymous. Either way, your note belongs here.
+            </p>
+            {submitted ? (
+              <div style={{ background: `${LIME}15`, border: `1px solid ${LIME}33`, padding: '20px 22px', borderLeft: `4px solid ${LIME}` }}>
+                <div style={{ color: LIME, fontWeight: 900, fontSize: 15, marginBottom: 6 }}>Thank you for sharing.</div>
+                <div style={{ color: 'rgba(250,250,248,0.55)', fontSize: 13, lineHeight: 1.6 }}>Your note has been received. Once reviewed, it will appear with the others.</div>
               </div>
-            </div>
-          ))}
+            ) : (
+              <form onSubmit={submitNote} style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
+                <div style={{ position: 'relative' }}>
+                  <textarea
+                    placeholder="Write your note here..."
+                    value={noteText}
+                    onChange={e => setNoteText(e.target.value)}
+                    maxLength={600}
+                    rows={6}
+                    style={{ width: '100%', background: 'rgba(0,0,0,0.3)', border: `1px solid ${LIME}22`, borderRadius: 0, color: CREAM, padding: '14px 16px', fontSize: 15, outline: 'none', resize: 'none', fontFamily: 'inherit', lineHeight: 1.7, boxSizing: 'border-box' }}
+                  />
+                  <span style={{ position: 'absolute', bottom: 10, right: 12, fontSize: 11, color: 'rgba(250,250,248,0.2)', pointerEvents: 'none' }}>{noteText.length}/600</span>
+                </div>
+                <input
+                  type="text"
+                  placeholder="Your name or leave blank to stay anonymous"
+                  value={noteFrom}
+                  onChange={e => setNoteFrom(e.target.value)}
+                  maxLength={60}
+                  style={{ background: 'rgba(0,0,0,0.3)', border: `1px solid ${LIME}22`, color: CREAM, padding: '12px 16px', fontSize: 14, outline: 'none', fontFamily: 'inherit' }}
+                />
+                {noteError && <div style={{ color: CORAL, fontSize: 13 }}>{noteError}</div>}
+                <button
+                  type="submit"
+                  disabled={submitting}
+                  style={{ background: CORAL, color: '#fff', fontWeight: 900, fontSize: 13, padding: '15px', border: 'none', cursor: submitting ? 'not-allowed' : 'pointer', letterSpacing: '1.5px', opacity: submitting ? 0.7 : 1, marginTop: 4 }}
+                >
+                  {submitting ? 'SENDING...' : 'SHARE MY NOTE'}
+                </button>
+                <p style={{ fontSize: 11, color: 'rgba(250,250,248,0.2)', lineHeight: 1.6 }}>
+                  Notes are reviewed before appearing. No contact info collected. By submitting, you agree to our <Link href="/privacy" style={{ color: 'rgba(250,250,248,0.35)', textDecoration: 'underline' }}>privacy policy</Link>.
+                </p>
+              </form>
+            )}
+          </div>
+
+          {/* RIGHT: Notes stack */}
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+            {displayNotes.slice(0, 4).map((n, i) => {
+              const accentColors = [LIME, CORAL, YELLOW, LIME];
+              const accent = accentColors[i % accentColors.length];
+              return (
+                <div key={n.id} style={{
+                  background: i === 0 ? FOREST : 'rgba(255,255,255,0.02)',
+                  border: `1px solid ${i === 0 ? LIME + '33' : 'rgba(255,255,255,0.05)'}`,
+                  borderLeft: `3px solid ${accent}`,
+                  padding: '22px 24px',
+                }}>
+                  <p style={{ fontSize: 14, lineHeight: 1.8, color: i === 0 ? 'rgba(250,250,248,0.85)' : 'rgba(250,250,248,0.6)', fontStyle: 'italic', marginBottom: 12 }}>
+                    &ldquo;{n.note}&rdquo;
+                  </p>
+                  <div style={{ fontSize: 11, fontWeight: 700, color: accent, letterSpacing: '1px', opacity: 0.75 }}>
+                    {n.from ? n.from.toUpperCase() : 'ANONYMOUS'}
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
         </div>
       </section>
 

@@ -86,7 +86,7 @@ export default function ShopPage() {
               <div className="sm-name">{p.name}</div>
               <div className="sm-desc">{p.desc}</div>
               <div className="sm-price">${p.price.toFixed(2)}</div>
-              <button className="sm-btn" title="Store launching soon">Coming Soon</button>
+              <a href="#" className="sm-btn" style={{textDecoration:"none",display:"block",textAlign:"center",opacity:1,cursor:"pointer"}}>Shop Now</a>
             </div>
           </div>
         ))}

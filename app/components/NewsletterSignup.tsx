@@ -20,11 +20,11 @@ export default function NewsletterSignup({ variant = 'inline' }: { variant?: 'in
   return (
     <div style={{ background: isBanner ? 'var(--forest)' : 'rgba(184,232,135,0.06)', border: '1px solid rgba(184,232,135,0.15)', padding: isBanner ? '48px 32px' : '28px 24px', textAlign: isBanner ? 'center' : 'left' }}>
       <div style={{ fontSize: 10, letterSpacing: '3px', color: 'var(--lime)', marginBottom: 8 }}>STAY CONNECTED</div>
-      <h3 style={{ fontFamily: "'Nunito', sans-serif", fontSize: isBanner ? 24 : 18, fontWeight: 800, color: 'var(--cream)', marginBottom: 8 }}>
+      <h2 style={{ fontFamily: "'Nunito', sans-serif", fontSize: isBanner ? 32 : 20, fontWeight: 900, color: 'var(--cream)', marginBottom: 8, lineHeight: 1.15 }}>
         Monthly resources. No spam.
-      </h3>
+      </h2>
       <p style={{ fontSize: 14, color: 'rgba(250,250,248,0.6)', marginBottom: 20, maxWidth: isBanner ? 480 : '100%', margin: isBanner ? '0 auto 20px' : '0 0 20px' }}>
-        New guides, advocacy updates, and community resources — delivered once a month to your inbox.
+        New guides, advocacy updates, and community resources. Delivered once a month to your inbox.
       </p>
       {status === 'done' ? (
         <p style={{ color: 'var(--lime)', fontWeight: 700, fontSize: 15 }}>You are in. Thank you for being part of this.</p>
