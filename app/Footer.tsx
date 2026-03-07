@@ -72,6 +72,16 @@ export default function Footer() {
             <a href="mailto:hello@webearish.com" style={{ display:"block", color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:14, textDecoration:"none", marginBottom:10 }}>hello@webearish.com</a>
             <p style={{ fontSize:13, fontWeight:700, color:"rgba(184,232,135,0.4)", marginTop:20, lineHeight:1.5 }}>#AutismAcceptance<br />#WeBearish</p>
           </div>
+
+          {/* Our Network */}
+          <div>
+            <p style={{ fontSize:11, fontWeight:900, color:"var(--lime)", letterSpacing:"2px", textTransform:"uppercase", marginBottom:20 }}>Our Network</p>
+            <div style={{ display:"flex", flexDirection:"column", gap:10 }}>
+              <a href="https://www.thevoiceofcash.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>The Voice of Cash</a>
+              <a href="https://u-god.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>U-God Sacred Texts</a>
+              <a href="https://aiskillsagents.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>AI Skills Agents</a>
+            </div>
+          </div>
         </div>
       </div>
 
