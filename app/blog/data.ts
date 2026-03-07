@@ -1109,7 +1109,21 @@ What to ask any ABA provider:
 - How does the program respond when a child is distressed?
 - Do you hire autistic staff or consultants?
 
-The honest answer: ABA is a broad category. Some programs are deeply child-led and affirming. Others are not. Parent advocacy — knowing your rights, asking hard questions, and trusting your child — is the filter that matters most.`
+The honest answer: ABA is a broad category. Some programs are deeply child-led and affirming. Others are not. Parent advocacy — knowing your rights, asking hard questions, and trusting your child — is the filter that matters most.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "what-is-masking-autism",
@@ -1126,7 +1140,21 @@ The cost is catastrophic. Chronic masking is associated with severe mental healt
 
 Late-diagnosed autistic people — particularly women, trans people, and people of color — often spent decades masking so effectively they didn't receive support until well into adulthood. By that point, the burnout can take years to recover from.
 
-Acceptance is not just a nice value. It is a mental health intervention. When autistic people do not have to mask, they can simply exist.`
+Acceptance is not just a nice value. It is a mental health intervention. When autistic people do not have to mask, they can simply exist.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "late-autism-diagnosis-adults",
@@ -1149,7 +1177,21 @@ Disclose strategically. You are not required to tell anyone. Think about what yo
 
 Seek accommodations where they help. Noise-canceling headphones. Working from home. Written communication over phone calls. You are entitled to reasonable accommodations under the ADA in most employment contexts.
 
-Most importantly: a diagnosis is information, not a sentence. Who you are has not changed. What has changed is your ability to understand it.`
+Most importantly: a diagnosis is information, not a sentence. Who you are has not changed. What has changed is your ability to understand it.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "sensory-overload-survival-guide",
@@ -1177,7 +1219,21 @@ In the moment:
 
 After:
 - What happened is data. Track patterns. Identify what preceded the event.
-- Talk (later, when regulated) about what helped and what did not.`
+- Talk (later, when regulated) about what helped and what did not.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "iep-meeting-preparation-parents",
@@ -1207,7 +1263,21 @@ After the meeting:
 - If the school is not following the IEP, file a complaint with your state's Department of Education.
 - Know your dispute resolution options: mediation, state complaint, due process hearing.
 
-Wrightslaw.com is your best resource. Read it before you walk in.`
+Wrightslaw.com is your best resource. Read it before you walk in.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "autism-girls-women-underdiagnosed",
@@ -1226,7 +1296,21 @@ Late diagnosis carries a specific kind of grief — for the girl who struggled w
 
 The autism community has been working to correct this for decades. Researchers like Sarah Hendrickx, Lorna Wing, and more recently Devon Price have built a substantial body of work on female autism presentation. But the average clinician has not caught up.
 
-If you are a woman who suspects you are autistic — or a parent raising a daughter who doesn't fit the profile the school describes — trust the instinct. Seek an evaluator who has experience with women and masked presentations. You are not wrong for wondering.`
+If you are a woman who suspects you are autistic — or a parent raising a daughter who doesn't fit the profile the school describes — trust the instinct. Seek an evaluator who has experience with women and masked presentations. You are not wrong for wondering.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "ccsd-aba-paraprofessionals-bill",
@@ -1245,7 +1329,21 @@ This bill represents what parent advocacy looks like when it is organized. Not o
 
 Covered by 8 News Now. Driven by families who refused to accept the status quo.
 
-The WeBearish movement is built on this same principle: the people closest to autistic children — their parents, their families — are the ones driving change. Not always from the outside. Sometimes from inside the systems that are supposed to serve them.`
+The WeBearish movement is built on this same principle: the people closest to autistic children — their parents, their families — are the ones driving change. Not always from the outside. Sometimes from inside the systems that are supposed to serve them.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "neurodiversity-movement-history",
@@ -1264,7 +1362,21 @@ This is not a comfortable idea for everyone. Parents of severely autistic childr
 
 The most honest articulation: neurodiversity does not mean every autistic person does not need support. It means that support should be aimed at the person's own quality of life and self-determination — not at making them appear less autistic.
 
-The movement is young. It is still figuring out how to hold complexity without fracturing. But its core insight — that neurological difference is part of human diversity, not a deficit — is sound.`
+The movement is young. It is still figuring out how to hold complexity without fracturing. But its core insight — that neurological difference is part of human diversity, not a deficit — is sound.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "autism-acceptance-vs-awareness-practical",
@@ -1293,7 +1405,21 @@ Acceptance: "What communication style works best for you?" Assuming competence. 
 
 The difference is not philosophical. It is operational. Every decision — design, policy, curriculum, hiring — is either made with autistic people in mind or not.
 
-WeBearish exists because awareness is where most people stop. We are not interested in stopping there.`
+WeBearish exists because awareness is where most people stop. We are not interested in stopping there.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "stimming-what-it-is-why-it-matters",
@@ -1317,7 +1443,21 @@ Early ABA programs specifically targeted stimming for elimination. The reasoning
 
 Stimming suppression is now widely considered harmful practice. The autistic community has been clear about this for decades.
 
-The right approach: ask whether a stim causes harm (to the person or others). If not, leave it alone. If it does, work with the person to find alternative regulation strategies — not to perform normalcy, but to address actual harm.`
+The right approach: ask whether a stim causes harm (to the person or others). If not, leave it alone. If it does, work with the person to find alternative regulation strategies — not to perform normalcy, but to address actual harm.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "finding-autism-community-as-parent",
@@ -1347,7 +1487,21 @@ Seek out parents who see their children as whole people. Communities organized a
 
 WeBearish events — like the Bouncy World Autism Acceptance Week party — exist specifically to create that second kind of space. A room where autistic kids and their families show up not for therapy or intervention, but to have a party.
 
-That is also community.`
+That is also community.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "autism-black-families-disparities",
@@ -1371,7 +1525,21 @@ The autism community — including WeBearish — has an obligation to make sure 
 Resources specifically for Black autistic people and families:
 - The Autism Community in Action (TACA): taca.org
 - Black Autism Moms: blackautismmoms.com
-- Autism Society of America diversity initiatives: autismsociety.org`
+- Autism Society of America diversity initiatives: autismsociety.org
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
   {
     slug: "building-autism-inclusive-home",
@@ -1424,7 +1592,21 @@ Recovery is not a matter of pushing through. Recovery requires reducing demands.
 
 If you are burned out, this is not a personal failing. It is a structural problem. The world was not built for your nervous system. You have been working harder than anyone around you realizes.
 
-The goal of recovery is not to get back to the capacity that caused the burnout. The goal is to build a life that does not require that capacity.`
+The goal of recovery is not to get back to the capacity that caused the burnout. The goal is to build a life that does not require that capacity.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'pda-autism-profile-guide',
@@ -1445,7 +1627,21 @@ What works instead: reducing demands radically, especially during high-distress 
 
 PDA is not yet in the DSM-5. It is recognized in the UK and increasingly discussed in the US. Getting a diagnosis or assessment that addresses PDA specifically requires a clinician who knows the profile — which is not yet common.
 
-If your autistic child does not respond to standard strategies and seems to escalate around any kind of structure or expectation, PDA may be relevant. The PDA Society website is the best starting resource.`
+If your autistic child does not respond to standard strategies and seems to escalate around any kind of structure or expectation, PDA may be relevant. The PDA Society website is the best starting resource.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'iep-meeting-parent-guide',
@@ -1466,7 +1662,21 @@ When the school says no: ask them to put their refusal in writing. This is calle
 
 What an advocate does: a parent advocate (not a lawyer) sits with you in IEP meetings, helps you understand your rights, advises on what to push for, and supports you in navigating disagreements. Many parent advocacy organizations provide this for free.
 
-The single most important thing: be specific. "More support" is easy to dismiss. "Weekly 30-minute sessions with the speech therapist focused on social communication" is a concrete ask they must respond to.`
+The single most important thing: be specific. "More support" is easy to dismiss. "Weekly 30-minute sessions with the speech therapist focused on social communication" is a concrete ask they must respond to.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'aac-does-not-prevent-speech',
@@ -1485,7 +1695,21 @@ Children who have reliable AAC access have less communication frustration, devel
 
 Every autistic person who needs AAC has a right to it. This includes young children, minimally verbal children, and nonspeaking adults. The question is not "are they ready for AAC" — it is "which AAC system fits their needs and access right now."
 
-If your child's school or therapist is recommending waiting on AAC, ask them to provide peer-reviewed evidence for that recommendation. They will not find it. You can find the evidence for early AAC introduction at ASHA and AAC-RERC (Rehabilitation Engineering Research Center on AAC).`
+If your child's school or therapist is recommending waiting on AAC, ask them to provide peer-reviewed evidence for that recommendation. They will not find it. You can find the evidence for early AAC introduction at ASHA and AAC-RERC (Rehabilitation Engineering Research Center on AAC).
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'how-to-tell-family-about-autism-diagnosis',
@@ -1504,7 +1728,21 @@ With the child themselves: tell your child about their diagnosis. Research and w
 
 What to do with negative reactions: some family members will respond with denial, grief, or unsolicited opinions about causes and cures. Decide in advance how much energy you are willing to spend on education. It is acceptable to say "This is not up for debate" and end the conversation.
 
-What not to do: do not disclose to people who do not need to know in ways that could reach your child before you are ready to have the conversation with them.`
+What not to do: do not disclose to people who do not need to know in ways that could reach your child before you are ready to have the conversation with them.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'what-is-neurodiversity-movement',
@@ -1521,7 +1759,21 @@ The neurodiversity movement has two major strands. First, the identity-based str
 
 Critics argue the movement ignores the significant support needs of some autistic people. This is a real tension. The movement has sometimes failed to center autistic people with high support needs or who are nonspeaking. The strongest advocates in the movement hold both truths: neurological variation is valuable, and some autistic people require substantial support to live the lives they want.
 
-What the movement has changed: language (identity-first language is now mainstream in autistic community), therapy goals (from "indistinguishable from peers" to "happy and functional"), and increasingly, policy. The paradigm is not complete, but it is shifting.`
+What the movement has changed: language (identity-first language is now mainstream in autistic community), therapy goals (from "indistinguishable from peers" to "happy and functional"), and increasingly, policy. The paradigm is not complete, but it is shifting.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'autism-in-the-workplace',
@@ -1542,7 +1794,21 @@ What to look for in employers: clear communication norms, remote work flexibilit
 
 What does not work: workplaces that require heavy masking, open social events as markers of engagement, verbal-only feedback, and ambiguous unwritten expectations.
 
-The skills gap is not primarily about autistic workers lacking skills. It is about workplaces designed for neurotypical social and communication norms. The better your employer understands this, the more your capacity will be accessible to them.`
+The skills gap is not primarily about autistic workers lacking skills. It is about workplaces designed for neurotypical social and communication norms. The better your employer understands this, the more your capacity will be accessible to them.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'autism-and-anxiety',
@@ -1561,7 +1827,21 @@ What helps: sensory environment modifications (reducing anxiety triggers at the 
 
 What does not help: pushing through sensory environments without support, demanding eye contact, removing accommodations as exposure therapy, and anxiety management strategies built entirely around challenging thoughts.
 
-The distinction matters: anxiety treatment that ignores the autism context will be ineffective or harmful. The most effective anxiety treatment for autistic people addresses both the anxiety itself and the structural conditions that generate it.`
+The distinction matters: anxiety treatment that ignores the autism context will be ineffective or harmful. The most effective anxiety treatment for autistic people addresses both the anxiety itself and the structural conditions that generate it.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'what-is-echolalia',
@@ -1580,7 +1860,21 @@ Echolalia also serves regulatory functions. Repeating familiar scripts reduces a
 
 What to do: do not try to eliminate echolalia. Instead, work with a speech-language therapist to understand what the scripts mean and gradually build bridge language that expands the child's expressive vocabulary while honoring the scripts they already have. Gestalt language processing is a framework increasingly used to support children who use echolalia as their primary communication route.
 
-Echolalia often precedes original language. Children who use echolalia heavily may develop more spontaneous language over time, especially with speech therapy that works with rather than against their natural communication style.`
+Echolalia often precedes original language. Children who use echolalia heavily may develop more spontaneous language over time, especially with speech therapy that works with rather than against their natural communication style.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'autism-diagnosis-in-girls',
@@ -1599,7 +1893,21 @@ What gets missed in the meantime: years without accurate understanding of their 
 
 What the right diagnosis changes: relief. A framework for understanding the past. Permission to unmask. Access to accommodations. Autistic community. A different relationship with self.
 
-If you are a parent of a girl with anxiety, perfectionism, social exhaustion, intense interests, and sensory differences who has not been evaluated for autism: ask your evaluator specifically about autistic presentation in girls. Ask about masking. The standard assessment may not surface it.`
+If you are a parent of a girl with anxiety, perfectionism, social exhaustion, intense interests, and sensory differences who has not been evaluated for autism: ask your evaluator specifically about autistic presentation in girls. Ask about masking. The standard assessment may not surface it.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'talking-to-teachers-about-autism',
@@ -1618,7 +1926,21 @@ What to ask: how does the classroom handle sensory needs (noise, lighting, trans
 
 What not to do: do not lead with warnings or worst-case scenarios. Do not frame your child primarily through what is hard. Teachers who receive the story of everything wrong tend to see everything wrong. Teachers who receive the story of the whole child tend to see the whole child.
 
-IEP or 504 review: if your child has an IEP or 504 plan, review it with the teacher early — do not assume they have read it. Confirm which accommodations are in place, how they are implemented in this specific classroom, and how you will communicate if something is not working.`
+IEP or 504 review: if your child has an IEP or 504 plan, review it with the teacher early — do not assume they have read it. Confirm which accommodations are in place, how they are implemented in this specific classroom, and how you will communicate if something is not working.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'autism-and-sleep',
@@ -1639,7 +1961,21 @@ Screen time: the blue light effect is real and more impactful for autistic peopl
 
 Melatonin: low-dose melatonin (0.5mg-1mg) taken 30-60 minutes before intended sleep onset is one of the best-supported interventions for autistic sleep difficulties. Talk with your pediatrician. The dose used in most autism sleep research is much lower than what is typically sold in stores.
 
-What does not work well: strict sleep training methods that involve high distress. The stress response from sleep training can actively worsen autistic sleep long-term.`
+What does not work well: strict sleep training methods that involve high distress. The stress response from sleep training can actively worsen autistic sleep long-term.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'sensory-diet-what-it-means',
@@ -1660,7 +1996,21 @@ Common elements of sensory diets: proprioceptive activities (resistance, weight 
 
 Timing matters. A sensory diet is not a one-time activity. It is integrated across the day — before demanding tasks, during transitions, and as recovery after overstimulating environments.
 
-If you are interested in a sensory diet for your child, start with an OT evaluation that specifically addresses sensory processing. The OT can then build a program based on your child's actual sensory profile.`
+If you are interested in a sensory diet for your child, start with an OT evaluation that specifically addresses sensory processing. The OT can then build a program based on your child's actual sensory profile.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'social-stories-guide',
@@ -1681,7 +2031,21 @@ When to use them: before first-time experiences, before returning to a difficult
 
 Social stories are not scripts for compliance. They are tools for understanding. The goal is to reduce anxiety by replacing ambiguity with clear information — not to dictate behavior.
 
-Apps and tools: Social Story Creator (iOS), Boardmaker, and simple Google Slides with photos work well. The format matters less than the content.`
+Apps and tools: Social Story Creator (iOS), Boardmaker, and simple Google Slides with photos work well. The format matters less than the content.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'self-advocacy-for-autistic-teens',
@@ -1700,7 +2064,21 @@ How to build it: include the student in IEP meetings from the first year it is a
 
 What to start with: basic "I" statements about needs. "I need more time." "That sound is hard for me to focus with." "I don't understand the instructions — can you write them down?" These are small, specific, and manageable.
 
-The goal is not independence for its own sake. It is having the tools to get what you need in the world you are entering — where the supports of school no longer exist by default.`
+The goal is not independence for its own sake. It is having the tools to get what you need in the world you are entering — where the supports of school no longer exist by default.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'autism-and-food',
@@ -1721,7 +2099,21 @@ What actually helps: working with a feeding therapist who understands sensory-ba
 
 In the meantime: do not make mealtimes a battle. Provide safe foods reliably. Add new foods to the table without pressure to eat them. Let the child observe, smell, and touch before tasting is ever expected.
 
-If the child's diet is significantly restricted and you are concerned about nutrition: consult with a dietitian who has experience with autism. Most children with selective eating can meet nutritional needs with the foods they do eat plus targeted supplementation.`
+If the child's diet is significantly restricted and you are concerned about nutrition: consult with a dietitian who has experience with autism. Most children with selective eating can meet nutritional needs with the foods they do eat plus targeted supplementation.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'diagnosis-as-adult',
@@ -1740,7 +2132,21 @@ What the evaluation involves: structured interview about developmental history (
 
 Cost and access: adult autism evaluations are expensive — often $1,500-$4,000. Insurance coverage varies. Some university clinics offer sliding scale evaluations. The ASAN website maintains a directory of autism-knowledgeable evaluators.
 
-Does diagnosis matter as an adult: yes. It opens access to workplace accommodations under the ADA. It explains a lifetime of experiences in a new frame. It connects you to autistic community. For many people, it is the beginning of significantly better self-understanding and self-compassion. It is not required to identify as autistic — but for many, the formal process matters.`
+Does diagnosis matter as an adult: yes. It opens access to workplace accommodations under the ADA. It explains a lifetime of experiences in a new frame. It connects you to autistic community. For many people, it is the beginning of significantly better self-understanding and self-compassion. It is not required to identify as autistic — but for many, the formal process matters.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'strengths-based-autism',
@@ -1761,7 +2167,21 @@ Common autistic strengths that are often overlooked: pattern recognition, attent
 
 None of these come without complexity. Honesty can feel blunt. Deep focus can be exclusionary. Pattern recognition can miss nuance. Strengths-based does not mean strengths-only — it means understanding the whole person.
 
-Autistic children who are raised with a strengths-based understanding of their autism show better self-esteem, better identity development, and better outcomes across multiple domains than those raised entirely within a deficit framework. The research is consistent.`
+Autistic children who are raised with a strengths-based understanding of their autism show better self-esteem, better identity development, and better outcomes across multiple domains than those raised entirely within a deficit framework. The research is consistent.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'what-not-to-say-to-autism-parents',
@@ -1784,7 +2204,21 @@ Autistic children who are raised with a strengths-based understanding of their a
 
 What actually helps: "I am here." "What do you need this week?" "Can I come over and be an extra set of hands?" "How are you doing, not your child — you." "I read something about [topic they mentioned] — want to talk about it?"
 
-The most useful thing: believe the parent. Believe the child. Do not require the child to perform their disability for you before taking it seriously. Show up without an agenda.`
+The most useful thing: believe the parent. Believe the child. Do not require the child to perform their disability for you before taking it seriously. Show up without an agenda.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
   {
     slug: 'autism-and-identity',
@@ -1805,6 +2239,20 @@ This does not mean autism has no challenges. It means those challenges are under
 
 Autistic community is central to this process for many people. Online autistic communities, autistic-run organizations, and connections with other autistic people provide the experience of being understood without effort for the first time. This is not a small thing. For many autistic people, it is transformative.
 
-The research supports this: stronger autistic identity and connection with autistic community are associated with significantly better mental health outcomes.`
+The research supports this: stronger autistic identity and connection with autistic community are associated with significantly better mental health outcomes.
+
+---
+
+**Helpful Tools & Resources**
+
+Sensory tools, books, and resources that support autistic people and their families:
+
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
 ];
