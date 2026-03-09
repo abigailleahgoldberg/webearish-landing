@@ -28,6 +28,23 @@ export interface ShopifyProduct {
   maxPrice: string;
 }
 
+// ─── Blocklist -- handles excluded from webearish.com/shop display ────────────
+const BLOCKED_HANDLES = new Set([
+  "dark-maga-make-abearica-great-again-tshirt",
+  "dark-maga-make-abearica-great-again-dad-hat",
+  "make-abearica-great-again-dad-hat",
+]);
+
+// Also filter any product whose title contains these strings (case-insensitive)
+const BLOCKED_TITLE_TERMS = ["abearica", "maga"];
+
+function isAllowed(p: ShopifyProduct): boolean {
+  if (BLOCKED_HANDLES.has(p.handle)) return false;
+  const titleLower = p.title.toLowerCase();
+  if (BLOCKED_TITLE_TERMS.some(term => titleLower.includes(term))) return false;
+  return true;
+}
+
 // ─── Public fetch (no credentials needed) ────────────────────────────────────
 
 export async function fetchProducts(): Promise<ShopifyProduct[]> {
@@ -37,7 +54,7 @@ export async function fetchProducts(): Promise<ShopifyProduct[]> {
       fetchPage(1),
       fetchPage(2),
     ]);
-    return pages.flat();
+    return pages.flat().filter(isAllowed);
   } catch (err) {
     console.error("[shopify] fetchProducts failed:", err);
     return [];
