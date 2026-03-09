@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Script from 'next/script';
 import NavClient from "./NavClient";
 import AutismChatbot from "./components/AutismChatbot";
 import Footer from "./Footer";
@@ -34,6 +35,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Footer />
               <AutismChatbot />
       </body>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-5L9R74PZSE"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-5L9R74PZSE');
+          `}
+        </Script>
     </html>
   );
 }

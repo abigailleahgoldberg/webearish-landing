@@ -1123,11 +1123,11 @@ The honest answer: ABA is a broad category. Some programs are deeply child-led a
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1160,11 +1160,11 @@ Acceptance is not just a nice value. It is a mental health intervention. When au
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1203,11 +1203,11 @@ Most importantly: a diagnosis is information, not a sentence. Who you are has no
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1251,11 +1251,11 @@ After:
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1301,11 +1301,11 @@ Wrightslaw.com is your best resource. Read it before you walk in.
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1340,11 +1340,11 @@ If you are a woman who suspects you are autistic — or a parent raising a daugh
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1379,11 +1379,11 @@ The WeBearish movement is built on this same principle: the people closest to au
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1418,11 +1418,11 @@ The movement is young. It is still figuring out how to hold complexity without f
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1467,11 +1467,11 @@ WeBearish exists because awareness is where most people stop. We are not interes
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1511,11 +1511,11 @@ The right approach: ask whether a stim causes harm (to the person or others). If
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1561,11 +1561,11 @@ That is also community.
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1605,11 +1605,11 @@ Resources specifically for Black autistic people and families:
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
@@ -1678,11 +1678,11 @@ The goal of recovery is not to get back to the capacity that caused the burnout.
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1719,11 +1719,11 @@ If your autistic child does not respond to standard strategies and seems to esca
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1760,11 +1760,11 @@ The single most important thing: be specific. "More support" is easy to dismiss.
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1799,11 +1799,11 @@ If your child's school or therapist is recommending waiting on AAC, ask them to 
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1838,11 +1838,11 @@ What not to do: do not disclose to people who do not need to know in ways that c
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1875,11 +1875,11 @@ What the movement has changed: language (identity-first language is now mainstre
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1916,11 +1916,11 @@ The skills gap is not primarily about autistic workers lacking skills. It is abo
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1955,11 +1955,11 @@ The distinction matters: anxiety treatment that ignores the autism context will 
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -1994,11 +1994,11 @@ Echolalia often precedes original language. Children who use echolalia heavily m
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2033,11 +2033,11 @@ If you are a parent of a girl with anxiety, perfectionism, social exhaustion, in
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2072,11 +2072,11 @@ IEP or 504 review: if your child has an IEP or 504 plan, review it with the teac
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2113,11 +2113,11 @@ What does not work well: strict sleep training methods that involve high distres
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2154,11 +2154,11 @@ If you are interested in a sensory diet for your child, start with an OT evaluat
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2195,11 +2195,11 @@ Apps and tools: Social Story Creator (iOS), Boardmaker, and simple Google Slides
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2234,11 +2234,11 @@ The goal is not independence for its own sake. It is having the tools to get wha
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2275,11 +2275,11 @@ If the child's diet is significantly restricted and you are concerned about nutr
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2314,11 +2314,11 @@ Does diagnosis matter as an adult: yes. It opens access to workplace accommodati
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2355,11 +2355,11 @@ Autistic children who are raised with a strengths-based understanding of their a
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2398,11 +2398,11 @@ The most useful thing: believe the parent. Believe the child. Do not require the
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
@@ -2439,11 +2439,11 @@ The research supports this: stronger autistic identity and connection with autis
 
 Sensory tools, books, and resources that support autistic people and their families:
 
-- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for many autistic people
-- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
-- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=webearish-20) — Tactile regulation tools for hands and focus
-- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that celebrate autistic identity
-- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=webearish-20) — Collaborative problem-solving, respected by autism advocates
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=theclantv20-20) — One of the most impactful sensory tools for many autistic people
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=theclantv20-20) — Deep pressure support for regulation
+- [Fidget Tools](https://www.amazon.com/s?k=fidget+tools+sensory+autism&tag=theclantv20-20) — Tactile regulation tools for hands and focus
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=theclantv20-20) — Books that celebrate autistic identity
+- [The Explosive Child — Ross Greene](https://www.amazon.com/s?k=explosive+child+ross+greene&tag=theclantv20-20) — Collaborative problem-solving, respected by autism advocates
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
 },
