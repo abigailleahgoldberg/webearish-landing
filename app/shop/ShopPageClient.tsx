@@ -10,10 +10,11 @@ interface Props {
   products: ProductWithBadge[];
   isLive: boolean;
   storeUrl: string;
+  kidsCount?: number;
 }
 
-export default function ShopPageClient({ products, isLive, storeUrl }: Props) {
-  const [cat, setCat] = useState("All");
+export default function ShopPageClient({ products, isLive, storeUrl, kidsCount = 0 }: Props) {
+  const [cat, setCat] = useState("Kids");
 
   const filtered = cat === "All"
     ? products

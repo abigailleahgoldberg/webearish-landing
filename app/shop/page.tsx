@@ -24,10 +24,30 @@ const STATIC_PRODUCTS = [
   { id:"s22", handle:"bear-pride-throw-blanket",     title:"Bear Pride Throw Blanket",        productType:"Home",        badge:"",               description:"50x60 woven fleece. Ultra soft.",                          minPrice:"44.99", maxPrice:"44.99", images:[], tags:[], variants:[] },
 ] as (ShopifyProduct & { badge: string })[];
 
+const KIDS_TAGS = ["kids", "kids hoodie", "children", "youth", "toddler", "baby"];
+
+function isKidsProduct(p: ShopifyProduct): boolean {
+  const tags = p.tags.map(t => t.toLowerCase());
+  const title = p.title.toLowerCase();
+  return (
+    tags.some(t => KIDS_TAGS.includes(t)) ||
+    title.includes("toddler") ||
+    title.includes("youth") ||
+    title.includes("baby") ||
+    title.includes("onesie") ||
+    title.includes("kids")
+  );
+}
+
 export default async function ShopPage() {
   const liveProducts = await fetchProducts();
   const isLive = liveProducts.length > 0;
-  const products = isLive ? liveProducts : STATIC_PRODUCTS;
+  const allProducts = isLive ? liveProducts : STATIC_PRODUCTS;
 
-  return <ShopPageClient products={products} isLive={isLive} storeUrl={STORE_URL} />;
+  // First wave: kids items first, then everything else
+  const kidsProducts = allProducts.filter(isKidsProduct);
+  const otherProducts = allProducts.filter(p => !isKidsProduct(p));
+  const products = [...kidsProducts, ...otherProducts];
+
+  return <ShopPageClient products={products} isLive={isLive} storeUrl={STORE_URL} kidsCount={kidsProducts.length} />;
 }
