@@ -353,34 +353,79 @@ export default function HomeClient() {
         <NewsletterSignup variant="banner" />
       </section>
 
-      {/* RESOURCE HUB GRID */}
+      {/* RESOURCE HUB GRID — 2 rows of 6, modern SVG icons */}
       <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', background: FOREST, borderTop: `1px solid ${LIME}22` }}>
         <div style={{ maxWidth: 1200, margin: '0 auto' }}>
           <div style={{ fontSize: 10, letterSpacing: '3px', color: LIME, marginBottom: 12 }}>EXPLORE THE HUB</div>
           <h2 style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: 'clamp(24px,4vw,40px)', marginBottom: 8, color: CREAM }}>Everything You Need. All in One Place.</h2>
           <p style={{ fontSize: 15, color: 'rgba(250,250,248,0.55)', marginBottom: 40, maxWidth: 560, lineHeight: 1.7 }}>WeBearish is built to be the most comprehensive autism acceptance resource on the internet. Start anywhere.</p>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))', gap: 12 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(6, 1fr)', gap: 12 }}>
             {[
-              { label: 'Glossary', desc: '72 terms explained', href: '/glossary', emoji: '📖' },
-              { label: 'Diagnosis Guide', desc: 'Evaluation to acceptance', href: '/diagnosis', emoji: '🔍' },
-              { label: 'IEP Center', desc: 'Know your rights', href: '/iep', emoji: '📋' },
-              { label: 'Therapies', desc: 'ABA, OT, speech + more', href: '/therapies', emoji: '🧩' },
-              { label: 'Research', desc: 'What the studies say', href: '/research', emoji: '📊' },
-              { label: 'By Age', desc: 'Toddler through adult', href: '/ages', emoji: '📅' },
-              { label: 'Autistic Voices', desc: 'First-person essays', href: '/voices', emoji: '💬' },
-              { label: 'State Resources', desc: 'All 50 states', href: '/resources/by-state', emoji: '🗺️' },
-              { label: 'Tools + Apps', desc: 'AAC, sensory, planning', href: '/tools', emoji: '🛠️' },
-              { label: 'Crisis Resources', desc: 'When you need help now', href: '/safety/crisis', emoji: '🆘' },
-              { label: 'Autism Calendar', desc: '51 awareness events', href: '/calendar', emoji: '📆' },
-              { label: 'Conditions Hub', desc: 'Co-occurring conditions', href: '/conditions', emoji: '🧠' },
+              {
+                label: 'Glossary', desc: '72 terms explained', href: '/glossary',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><line x1="12" y1="7" x2="16" y2="7"/><line x1="12" y1="11" x2="16" y2="11"/></svg>
+              },
+              {
+                label: 'Diagnosis Guide', desc: 'Evaluation to acceptance', href: '/diagnosis',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="11" y1="8" x2="11" y2="14"/><line x1="8" y1="11" x2="14" y2="11"/></svg>
+              },
+              {
+                label: 'IEP Center', desc: 'Know your rights', href: '/iep',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="12" y2="17"/></svg>
+              },
+              {
+                label: 'Therapies', desc: 'OT, speech, ABA + more', href: '/therapies',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+              },
+              {
+                label: 'Research', desc: 'What the studies say', href: '/research',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+              },
+              {
+                label: 'By Age', desc: 'Toddler through adult', href: '/ages',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="8" r="4"/><path d="M6 20v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/></svg>
+              },
+              {
+                label: 'Autistic Voices', desc: 'First-person essays', href: '/voices',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+              },
+              {
+                label: 'State Resources', desc: 'All 50 states', href: '/resources',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg>
+              },
+              {
+                label: 'Tools + Apps', desc: 'AAC, sensory, planning', href: '/tools',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+              },
+              {
+                label: 'Safety', desc: 'Crisis & safety planning', href: '/safety',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+              },
+              {
+                label: 'Calendar', desc: '51 awareness events', href: '/calendar',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+              },
+              {
+                label: 'Conditions', desc: 'Co-occurring conditions', href: '/conditions',
+                icon: <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+              },
             ].map((item, i) => (
-              <a key={i} href={item.href} style={{ display: 'block', background: 'rgba(250,250,248,0.03)', border: `1px solid ${LIME}18`, padding: '18px 20px', textDecoration: 'none', transition: 'border-color 0.2s' }}>
-                <div style={{ fontSize: 22, marginBottom: 8 }}>{item.emoji}</div>
-                <div style={{ fontWeight: 800, fontSize: 15, color: CREAM, marginBottom: 4 }}>{item.label}</div>
-                <div style={{ fontSize: 12, color: 'rgba(250,250,248,0.45)' }}>{item.desc}</div>
+              <a key={i} href={item.href} style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: 10, background: 'rgba(250,250,248,0.03)', border: `1px solid ${LIME}18`, padding: '20px 18px', textDecoration: 'none', transition: 'background 0.2s, border-color 0.2s', borderRadius: 6 }}
+                onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.background = 'rgba(184,232,135,0.07)'; (e.currentTarget as HTMLAnchorElement).style.borderColor = `${LIME}44`; }}
+                onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.background = 'rgba(250,250,248,0.03)'; (e.currentTarget as HTMLAnchorElement).style.borderColor = `${LIME}18`; }}
+              >
+                <div style={{ color: LIME, opacity: 0.85 }}>{item.icon}</div>
+                <div>
+                  <div style={{ fontWeight: 800, fontSize: 14, color: CREAM, marginBottom: 3 }}>{item.label}</div>
+                  <div style={{ fontSize: 11, color: 'rgba(250,250,248,0.4)', lineHeight: 1.4 }}>{item.desc}</div>
+                </div>
               </a>
             ))}
           </div>
+          <style>{`
+            @media (max-width: 900px) { .hub-grid { grid-template-columns: repeat(4, 1fr) !important; } }
+            @media (max-width: 600px) { .hub-grid { grid-template-columns: repeat(2, 1fr) !important; } }
+          `}</style>
         </div>
       </section>
       {/* ── RESOURCE HUB ─────────────────────────────────────── */}
