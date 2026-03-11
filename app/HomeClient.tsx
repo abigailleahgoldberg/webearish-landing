@@ -55,6 +55,22 @@ export default function HomeClient() {
   const [menuOpen, setMenuOpen]   = useState(false);
   const tickerRef = useRef<HTMLDivElement>(null);
 
+  // Scroll-reveal observer
+  useEffect(() => {
+    const els = document.querySelectorAll('.wb-reveal');
+    const observer = new IntersectionObserver(
+      (entries) => entries.forEach(e => {
+        if (e.isIntersecting) {
+          (e.target as HTMLElement).classList.add('wb-revealed');
+          observer.unobserve(e.target);
+        }
+      }),
+      { threshold: 0.1, rootMargin: '0px 0px -40px 0px' }
+    );
+    els.forEach(el => observer.observe(el));
+    return () => observer.disconnect();
+  }, []);
+
   useEffect(() => {
     fetch('/api/parent-notes')
       .then(r => r.json())
@@ -114,6 +130,9 @@ export default function HomeClient() {
         .wb-hub-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; }
         @media (max-width: 900px) { .wb-hub-grid { grid-template-columns: repeat(4, 1fr); } }
         @media (max-width: 600px) { .wb-hub-grid { grid-template-columns: repeat(2, 1fr); } }
+        .wb-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.6s ease, transform 0.6s ease; }
+        .wb-revealed { opacity: 1; transform: translateY(0); }
+        @media (prefers-reduced-motion: reduce) { .wb-reveal, .wb-revealed { opacity: 1; transform: none; transition: none; } }
       `}</style>
 
       {/* NAV */}
@@ -203,7 +222,7 @@ export default function HomeClient() {
           </div>
           <p style={{ fontSize: 'clamp(18px,2.5vw,26px)', fontWeight: 700, color: CREAM, marginBottom: 12 }}>children in the United States are autistic.</p>
           <p style={{ fontSize: 15, color: 'rgba(250,250,248,0.45)', marginBottom: 40 }}>Source: CDC MMWR Surveillance Summary, 2023</p>
-          <div className="stats-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16 }}>
+          <div className="stats-grid wb-reveal" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16 }}>
             {[
               { num: '85%', label: 'of autistic adults are under- or unemployed', color: YELLOW },
               { num: '3×', label: 'more likely to experience mental health challenges', color: CORAL },
@@ -315,7 +334,7 @@ export default function HomeClient() {
           <h2 style={{ fontSize: 'clamp(26px,4vw,44px)', fontWeight: 900, lineHeight: 1.1, letterSpacing: '-1px', marginBottom: 48, maxWidth: 600 }}>
             Not a finish line.<br/><span style={{ color: CORAL }}>A daily practice.</span>
           </h2>
-          <div className="pillars-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 20 }}>
+          <div className="pillars-grid wb-reveal" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 20 }}>
             {[
               { num: '01', title: 'See the child.', body: 'Not the diagnosis. Not the behavior. Not the chart. The actual child — with humor, preferences, opinions, and an inner world that does not require your interpretation to be valid.', color: LIME },
               { num: '02', title: 'Change the environment.', body: 'Autistic children do not fail in the world. Environments fail autistic children. Sensory-friendly spaces, flexible learning, and patient communication cost far less than the alternative.', color: CORAL },
@@ -365,7 +384,7 @@ export default function HomeClient() {
           <div style={{ fontSize: 10, letterSpacing: '3px', color: LIME, marginBottom: 12 }}>EXPLORE THE HUB</div>
           <h2 style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: 'clamp(24px,4vw,40px)', marginBottom: 8, color: CREAM }}>Everything You Need. All in One Place.</h2>
           <p style={{ fontSize: 15, color: 'rgba(250,250,248,0.55)', marginBottom: 40, maxWidth: 560, lineHeight: 1.7 }}>WeBearish is built to be the most comprehensive autism acceptance resource on the internet. Start anywhere.</p>
-          <div className="wb-hub-grid">
+          <div className="wb-hub-grid wb-reveal">
             {[
               {
                 label: 'Glossary', desc: '72 terms explained', href: '/glossary',
@@ -447,7 +466,7 @@ export default function HomeClient() {
             </p>
           </div>
 
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 16 }}>
+          <div className="wb-reveal" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 16 }}>
             {[
               {
                 label: 'Understanding Autism',
