@@ -383,6 +383,105 @@ export default function HomeClient() {
           </div>
         </div>
       </section>
+      {/* ── RESOURCE HUB ─────────────────────────────────────── */}
+      <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', background: DARK, borderTop: `1px solid ${LIME}11` }}>
+        <div style={{ maxWidth: 1200, margin: '0 auto' }}>
+          <div style={{ marginBottom: 'clamp(32px,5vw,56px)' }}>
+            <div style={{ fontSize: 11, letterSpacing: '2px', color: LIME, fontWeight: 800, marginBottom: 12 }}>EXPLORE THE HUB</div>
+            <h2 style={{ fontSize: 'clamp(26px,4vw,44px)', fontWeight: 900, color: CREAM, lineHeight: 1.1, maxWidth: 600 }}>
+              Everything you need.<br/>All in one place.
+            </h2>
+            <p style={{ fontSize: 'clamp(14px,1.5vw,17px)', color: 'rgba(250,250,248,0.5)', marginTop: 16, maxWidth: 560, lineHeight: 1.7 }}>
+              WeBearish is built to be the most comprehensive autism acceptance resource on the internet. Start anywhere.
+            </p>
+          </div>
+
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 16 }}>
+            {[
+              {
+                label: 'Understanding Autism',
+                color: LIME,
+                desc: 'Diagnosis, co-occurring conditions, autism in girls, nonverbal autism, and more.',
+                links: [['Getting a Diagnosis', '/getting-a-diagnosis'], ['Is This Autism?', '/is-this-autism'], ['Autism in Girls', '/autism-in-girls'], ['Conditions', '/conditions']],
+                cta: 'Explore →', href: '/diagnosis',
+              },
+              {
+                label: 'For Families',
+                color: YELLOW,
+                desc: 'School rights, IEPs, sibling support, safety, meltdowns — real help for real families.',
+                links: [['School Rights & IEP', '/iep'], ['For Parents', '/parents'], ['Siblings', '/autism-and-siblings'], ['Safety', '/safety']],
+                cta: 'Explore →', href: '/parents',
+              },
+              {
+                label: 'Resources & Tools',
+                color: CORAL,
+                desc: 'Guides, sensory tools, therapy options, research, and a full glossary.',
+                links: [['Sensory Tools Guide', '/sensory-tools-guide'], ['Therapies', '/therapies'], ['Guides', '/guides'], ['Research', '/research']],
+                cta: 'Explore →', href: '/resources',
+              },
+              {
+                label: 'Community',
+                color: '#7EC8E3',
+                desc: 'Blog, voices, events calendar, advocacy, and the people building this movement.',
+                links: [['Voices', '/voices'], ['Blog', '/blog'], ['Calendar', '/calendar'], ['Acceptance', '/acceptance']],
+                cta: 'Explore →', href: '/community',
+              },
+            ].map((silo) => (
+              <div
+                key={silo.label}
+                style={{
+                  background: 'rgba(255,255,255,0.03)',
+                  border: '1px solid rgba(255,255,255,0.07)',
+                  borderTop: `3px solid ${silo.color}`,
+                  borderRadius: 8,
+                  padding: 'clamp(20px,3vw,32px)',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: 16,
+                  transition: 'background 0.2s',
+                }}
+                onMouseEnter={(e) => (e.currentTarget.style.background = 'rgba(255,255,255,0.05)')}
+                onMouseLeave={(e) => (e.currentTarget.style.background = 'rgba(255,255,255,0.03)')}
+              >
+                <div>
+                  <h3 style={{ fontSize: 17, fontWeight: 900, color: CREAM, marginBottom: 8 }}>{silo.label}</h3>
+                  <p style={{ fontSize: 13, color: 'rgba(250,250,248,0.45)', lineHeight: 1.65 }}>{silo.desc}</p>
+                </div>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+                  {silo.links.map(([label, href]) => (
+                    <Link
+                      key={href}
+                      href={href}
+                      style={{ fontSize: 13, color: 'rgba(250,250,248,0.55)', fontWeight: 600, textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 6 }}
+                      onMouseEnter={(e) => (e.currentTarget.style.color = silo.color)}
+                      onMouseLeave={(e) => (e.currentTarget.style.color = 'rgba(250,250,248,0.55)')}
+                    >
+                      <span style={{ width: 4, height: 4, borderRadius: '50%', background: silo.color, flexShrink: 0, display: 'inline-block' }}></span>
+                      {label}
+                    </Link>
+                  ))}
+                </div>
+                <Link
+                  href={silo.href}
+                  style={{
+                    marginTop: 'auto',
+                    display: 'inline-block',
+                    color: silo.color,
+                    fontWeight: 900,
+                    fontSize: 13,
+                    letterSpacing: '0.5px',
+                    textDecoration: 'none',
+                  }}
+                >
+                  {silo.cta}
+                </Link>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── CTA TWO-COL ──────────────────────────────────────── */}
       <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', background: FOREST, borderTop: `1px solid ${LIME}22` }}>
         <div className="cta-two-col" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20, maxWidth: 1200, margin: '0 auto' }}>
           <div style={{ background: LIME, padding: 'clamp(32px,4vw,52px)', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', minHeight: 280 }}>
