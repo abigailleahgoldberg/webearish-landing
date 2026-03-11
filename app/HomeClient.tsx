@@ -1,5 +1,6 @@
 'use client';
 import NewsletterSignup from './components/NewsletterSignup';
+import { blogPosts } from './blog/data';
 import { OrganizationSchema } from './components/SchemaOrg';
 
 import { useState, useEffect, useRef } from 'react';
@@ -370,6 +371,31 @@ export default function HomeClient() {
       </section>
 
       {/* TWO-COLUMN CTA */}
+
+      {/* BLOG PREVIEW STRIP */}
+      <section style={{ padding: 'clamp(60px,8vw,96px) 5vw', background: DARK, borderTop: `1px solid ${LIME}11` }}>
+        <div style={{ maxWidth: 1200, margin: '0 auto' }}>
+          <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: 40, flexWrap: 'wrap', gap: 12 }}>
+            <div>
+              <div style={{ fontSize: 11, letterSpacing: '3px', color: LIME, fontWeight: 800, marginBottom: 8 }}>FROM THE BLOG</div>
+              <h2 style={{ fontSize: 'clamp(24px,4vw,40px)', fontWeight: 900, color: CREAM, lineHeight: 1.1 }}>Latest from WeBearish.</h2>
+            </div>
+            <Link href="/blog" style={{ fontSize: 13, fontWeight: 800, color: LIME, textDecoration: 'none', letterSpacing: '1px' }}>View all →</Link>
+          </div>
+          <div className="wb-reveal" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 24 }}>
+            {blogPosts.slice(0, 3).map(post => (
+              <Link key={post.slug} href={`/blog/${post.slug}`} style={{ textDecoration: 'none', display: 'block', background: 'rgba(184,232,135,0.04)', border: `1px solid ${LIME}18`, padding: '28px 24px', transition: 'border-color 0.2s' }}>
+                <div style={{ fontSize: 10, letterSpacing: '2px', color: LIME, fontWeight: 800, marginBottom: 10, textTransform: 'uppercase' }}>{post.category}</div>
+                <h3 style={{ fontSize: 17, fontWeight: 900, color: CREAM, lineHeight: 1.3, marginBottom: 12 }}>{post.title}</h3>
+                <p style={{ fontSize: 14, color: 'rgba(250,250,248,0.55)', lineHeight: 1.65, marginBottom: 20 }}>
+                  {post.description.length > 120 ? post.description.slice(0, 120) + '…' : post.description}
+                </p>
+                <span style={{ fontSize: 13, fontWeight: 800, color: LIME, letterSpacing: '0.5px' }}>Read more →</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* NEWSLETTER */}
       <section style={{ padding: 'clamp(60px,8vw,80px) 5vw', background: 'var(--forest)', borderTop: '1px solid rgba(184,232,135,0.1)', borderBottom: '1px solid rgba(184,232,135,0.1)' }}>
