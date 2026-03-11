@@ -53,7 +53,7 @@ export default function HomeClient() {
   const [submitted, setSubmitted] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [noteError, setNoteError] = useState('');
-  const [menuOpen, setMenuOpen]   = useState(false);
+
   const tickerRef = useRef<HTMLDivElement>(null);
 
   // Scroll-reveal observer
@@ -136,33 +136,7 @@ export default function HomeClient() {
         @media (prefers-reduced-motion: reduce) { .wb-reveal, .wb-revealed { opacity: 1; transform: none; transition: none; } }
       `}</style>
 
-      {/* NAV */}
-      <nav style={{ background: DARK, borderBottom: `1px solid ${LIME}22`, padding: '0 5vw', position: 'sticky', top: 0, zIndex: 100 }}>
-        <div style={{ maxWidth: 1200, margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: 64 }}>
-          <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: 10, textDecoration: 'none' }}>
-            <Image src="/bear-logo.png" alt="WeBearish" width={36} height={36} style={{ objectFit: 'contain' }} />
-            <span style={{ fontWeight: 900, fontSize: 20, color: CREAM, letterSpacing: '-0.5px' }}>We<span style={{ color: LIME }}>Bearish</span></span>
-          </Link>
-          {/* Desktop nav */}
-          <div style={{ display: 'flex', gap: 28, alignItems: 'center' }} className="desktop-nav">
-            {[['About', '/about'], ['Mission', '/mission'], ['Shop', '/shop'], ['Blog', '/blog'], ['Resources', '/resources'], ['Contact', '/contact']].map(([l, h]) => (
-              <Link key={l} href={h} className="nav-link">{l}</Link>
-            ))}
-            <Link href="/shop" style={{ background: CORAL, color: CREAM, fontWeight: 800, fontSize: 13, padding: '9px 22px', textDecoration: 'none', borderRadius: 2, letterSpacing: '0.5px' }}>SHOP THE MISSION</Link>
-          </div>
-          {/* Mobile burger */}
-          <button onClick={() => setMenuOpen(!menuOpen)} style={{ display: 'none', background: 'none', border: 'none', cursor: 'pointer', color: CREAM, fontSize: 24 }} className="burger">☰</button>
-        </div>
-        {menuOpen && (
-          <div style={{ padding: '16px 0 24px', borderTop: `1px solid ${LIME}22`, display: 'flex', flexDirection: 'column', gap: 16 }}>
-            {[['About', '/about'], ['Mission', '/mission'], ['Shop', '/shop'], ['Blog', '/blog'], ['Resources', '/resources'], ['Contact', '/contact']].map(([l, h]) => (
-              <Link key={l} href={h} className="nav-link" style={{ fontSize: 16, paddingLeft: 8 }} onClick={() => setMenuOpen(false)}>{l}</Link>
-            ))}
-          </div>
-        )}
-      </nav>
-
-      {/* TICKER removed */}
+      {/* NAV handled by layout.tsx NavClient — no inline nav here */}
 
       {/* HERO — Two-tone split */}
       <section>
