@@ -3,6 +3,9 @@ import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
 
+// How long (ms) to wait before closing a dropdown after mouseLeave
+const CLOSE_DELAY = 200;
+
 const NAV_SILOS = [
   {
     label: "Understanding Autism",
@@ -67,6 +70,21 @@ export default function NavClient() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const navRef = useRef<HTMLDivElement>(null);
+  const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const openMenu = (label: string) => {
+    if (closeTimer.current) clearTimeout(closeTimer.current);
+    setOpen(label);
+  };
+
+  const scheduleClose = () => {
+    closeTimer.current = setTimeout(() => setOpen(null), CLOSE_DELAY);
+  };
+
+  const cancelClose = (label: string) => {
+    if (closeTimer.current) clearTimeout(closeTimer.current);
+    setOpen(label);
+  };
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 20);
@@ -117,10 +135,13 @@ export default function NavClient() {
         {/* Desktop nav */}
         <div style={{ display: "flex", alignItems: "center", gap: 4 }} className="wb-nav-desktop">
           {NAV_SILOS.map((silo) => (
-            <div key={silo.label} style={{ position: "relative" }}>
+            <div
+              key={silo.label}
+              style={{ position: "relative" }}
+              onMouseEnter={() => openMenu(silo.label)}
+              onMouseLeave={scheduleClose}
+            >
               <button
-                onMouseEnter={() => setOpen(silo.label)}
-                onMouseLeave={() => setOpen(null)}
                 onClick={() => setOpen(open === silo.label ? null : silo.label)}
                 style={{
                   background: "none",
@@ -130,7 +151,8 @@ export default function NavClient() {
                   fontSize: 13,
                   letterSpacing: "0.3px",
                   cursor: "pointer",
-                  padding: "8px 12px",
+                  padding: "0 12px",
+                  height: 64,
                   display: "flex",
                   alignItems: "center",
                   gap: 4,
@@ -149,22 +171,23 @@ export default function NavClient() {
                 </svg>
               </button>
 
-              {/* Dropdown */}
+              {/* Dropdown — flush to nav bottom, no gap */}
               {open === silo.label && (
                 <div
-                  onMouseEnter={() => setOpen(silo.label)}
-                  onMouseLeave={() => setOpen(null)}
+                  onMouseEnter={() => cancelClose(silo.label)}
+                  onMouseLeave={scheduleClose}
                   style={{
                     position: "absolute",
-                    top: "calc(100% + 8px)",
+                    top: "100%",           // flush — zero gap
                     left: "50%",
                     transform: "translateX(-50%)",
                     background: "#0F1A0F",
                     border: "1px solid rgba(184,232,135,0.15)",
-                    borderRadius: 8,
+                    borderTop: "2px solid #B8E887",
+                    borderRadius: "0 0 8px 8px",
                     padding: "8px 0",
-                    minWidth: 220,
-                    boxShadow: "0 8px 32px rgba(0,0,0,0.5)",
+                    minWidth: 230,
+                    boxShadow: "0 12px 40px rgba(0,0,0,0.6)",
                     zIndex: 300,
                   }}
                   role="menu"
