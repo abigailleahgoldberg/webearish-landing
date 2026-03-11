@@ -29,7 +29,7 @@ export default function NewsletterSignup({ variant = 'inline' }: { variant?: 'in
       {status === 'done' ? (
         <p style={{ color: 'var(--lime)', fontWeight: 700, fontSize: 15 }}>Thanks for subscribing! <span style={{ opacity: 0.8 }}>#AutismAcceptance</span></p>
       ) : (
-        <form onSubmit={submit} style={{ display: 'flex', gap: 8, flexWrap: 'wrap', justifyContent: isBanner ? 'center' : 'flex-start' }}>
+        <form onSubmit={submit} className="wb-newsletter-form" style={{ display: 'flex', gap: 8, flexWrap: 'wrap', justifyContent: isBanner ? 'center' : 'flex-start' }}>
           <input
             type="email" required value={email} onChange={e => setEmail(e.target.value)}
             placeholder="your@email.com"

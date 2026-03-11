@@ -61,7 +61,7 @@ export default function AutismChatbot() {
     <>
       {/* Floating button */}
       <button onClick={() => setOpen(o => !o)}
-        style={{ position: 'fixed', bottom: 24, right: 24, zIndex: 999, width: 56, height: 56, borderRadius: '50%', background: 'var(--forest)', border: '2px solid var(--lime)', color: 'var(--lime)', fontSize: 24, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 4px 20px rgba(0,0,0,0.4)' }}
+        style={{ position: 'fixed', bottom: 'max(24px, env(safe-area-inset-bottom, 24px) + 12px)', right: 24, zIndex: 999, width: 56, height: 56, borderRadius: '50%', background: 'var(--forest)', border: '2px solid var(--lime)', color: 'var(--lime)', fontSize: 24, cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 4px 20px rgba(0,0,0,0.4)' }}
         aria-label="Ask a question">
         {open ? '✕' : '🐻'}
       </button>

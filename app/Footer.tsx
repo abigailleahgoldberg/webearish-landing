@@ -18,10 +18,15 @@ const TIMELINE = [
 export default function Footer() {
   return (
     <footer style={{ background:"var(--dark)" }}>
+      <style>{`
+        @media (max-width: 900px) { .wb-footer-silo-grid { grid-template-columns: 1fr 1fr 1fr !important; } }
+        @media (max-width: 600px) { .wb-footer-silo-grid { grid-template-columns: 1fr 1fr !important; gap: 24px !important; } }
+        @media (max-width: 400px) { .wb-footer-silo-grid { grid-template-columns: 1fr !important; } }
+      `}</style>
 
       {/* ── TOP GRID ───────────────────────────────── */}
       <div style={{ borderBottom:"1px solid rgba(184,232,135,0.08)", padding:"64px 32px 48px" }}>
-        <div style={{ maxWidth:1200, margin:"0 auto", display:"grid", gridTemplateColumns:"1.4fr 1fr 1fr 1fr 1fr", gap:40 }}>
+        <div className="wb-footer-silo-grid" style={{ maxWidth:1200, margin:"0 auto", display:"grid", gridTemplateColumns:"1.4fr 1fr 1fr 1fr 1fr", gap:40 }}>
 
           {/* Brand */}
           <div>

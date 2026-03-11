@@ -134,6 +134,46 @@ export default function HomeClient() {
         .wb-reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.6s ease, transform 0.6s ease; }
         .wb-revealed { opacity: 1; transform: translateY(0); }
         @media (prefers-reduced-motion: reduce) { .wb-reveal, .wb-revealed { opacity: 1; transform: none; transition: none; } }
+
+        /* ── MOBILE FIXES ─────────────────────────────────────── */
+        @media (max-width: 768px) {
+          /* Hero: stack panels, hide lime bear panel */
+          .wb-hero-bear { display: none !important; }
+          .wb-hero-left { padding: clamp(48px,8vw,80px) 24px !important; }
+
+          /* Midnight headline — allow wrapping */
+          .wb-midnight-h2 { white-space: normal !important; font-size: clamp(28px,7vw,44px) !important; letter-spacing: -0.5px !important; }
+
+          /* Notes grid: stack */
+          .wb-notes-grid { grid-template-columns: 1fr !important; }
+
+          /* Photo grid: stack */
+          .wb-photo-grid { grid-template-columns: 1fr !important; }
+          .wb-photo-grid > *:first-child { grid-row: auto !important; }
+          .wb-photo-grid img { height: 220px !important; }
+          .wb-coral-cta { grid-column: 1 !important; flex-direction: column !important; align-items: flex-start !important; }
+
+          /* Resource hub silo cards */
+          .wb-silo-grid { grid-template-columns: 1fr !important; }
+
+          /* Footer silo grid */
+          .wb-footer-silo-grid { grid-template-columns: 1fr 1fr !important; }
+
+          /* CTA buttons: full width */
+          .wb-hero-ctas a { width: 100% !important; text-align: center !important; box-sizing: border-box !important; }
+          .wb-hero-ctas { flex-direction: column !important; }
+
+          /* Newsletter form: stack */
+          .wb-newsletter-form { flex-direction: column !important; }
+          .wb-newsletter-form input { min-width: unset !important; width: 100% !important; }
+          .wb-newsletter-form button { width: 100% !important; }
+
+          /* Floating bear button: stay clear of bottom */
+          .wb-chat-btn { bottom: 80px !important; }
+        }
+        @media (max-width: 480px) {
+          .wb-footer-silo-grid { grid-template-columns: 1fr !important; }
+        }
       `}</style>
 
       {/* NAV handled by layout.tsx NavClient — no inline nav here */}
@@ -142,7 +182,7 @@ export default function HomeClient() {
       <section>
         <div className="hero-grid" style={{ display: 'grid', gridTemplateColumns: '55% 45%' }}>
           {/* Left panel — DARK — existing copy */}
-          <div style={{ background: DARK, padding: 'clamp(60px,8vw,100px) clamp(28px,5vw,72px)', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+          <div className="wb-hero-left" style={{ background: DARK, padding: 'clamp(60px,8vw,100px) clamp(28px,5vw,72px)', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
             <div style={{ fontSize: 11, letterSpacing: '3px', color: LIME, fontWeight: 800, marginBottom: 20 }}>AUTISM ACCEPTANCE MOVEMENT</div>
             <h1 style={{ fontSize: 'clamp(36px,5.5vw,64px)', fontWeight: 900, lineHeight: 1.0, letterSpacing: '-2px', marginBottom: 28, color: CREAM }}>
               Every child<br/>
@@ -154,13 +194,13 @@ export default function HomeClient() {
             <p style={{ fontSize: 18, lineHeight: 1.75, color: 'rgba(250,250,248,0.65)', maxWidth: 520, marginBottom: 36 }}>
               WeBearish is a movement built by parents who are done waiting for the world to catch up. Every dollar we make goes back in: play centers, sensory tools, and the families who need them most.
             </p>
-            <div style={{ display: 'flex', gap: 14, flexWrap: 'wrap' }}>
+            <div className="wb-hero-ctas" style={{ display: 'flex', gap: 14, flexWrap: 'wrap' }}>
               <Link href="/mission" style={{ background: LIME, color: FOREST, fontWeight: 900, fontSize: 15, padding: '16px 36px', textDecoration: 'none', letterSpacing: '0.5px' }}>OUR MISSION →</Link>
               <Link href="/shop" style={{ background: 'transparent', color: CREAM, fontWeight: 800, fontSize: 15, padding: '16px 36px', textDecoration: 'none', letterSpacing: '0.5px', border: `2px solid ${LIME}44` }}>SHOP THE MOVEMENT</Link>
             </div>
           </div>
-          {/* Right panel — LIME — Bear silhouette */}
-          <div style={{ background: LIME, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: 'clamp(280px,40vw,500px)', padding: '40px 24px' }}>
+          {/* Right panel — LIME — Bear silhouette (hidden on mobile) */}
+          <div className="wb-hero-bear" style={{ background: LIME, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: 'clamp(280px,40vw,500px)', padding: '40px 24px' }}>
             <svg viewBox="0 0 200 200" width="clamp(160px,20vw,280px)" height="clamp(160px,20vw,280px)" fill="rgba(15,26,15,0.15)">
               <circle cx="55" cy="55" r="28"/>
               <circle cx="145" cy="55" r="28"/>
@@ -208,7 +248,7 @@ export default function HomeClient() {
       <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', maxWidth: 1200, margin: '0 auto' }}>
         <div style={{ maxWidth: 720, marginBottom: 20 }}>
           <div style={{ fontSize: 11, letterSpacing: '3px', color: CORAL, fontWeight: 800, marginBottom: 20 }}>FROM THE COMMUNITY</div>
-          <h2 style={{ fontSize: 'clamp(32px,5vw,64px)', fontWeight: 900, lineHeight: 1.05, letterSpacing: '-1.5px', marginBottom: 16, whiteSpace: 'nowrap' }}>
+          <h2 className="wb-midnight-h2" style={{ fontSize: 'clamp(32px,5vw,64px)', fontWeight: 900, lineHeight: 1.05, letterSpacing: '-1.5px', marginBottom: 16, whiteSpace: 'nowrap' }}>
             The notes parents write at <span style={{ color: CORAL }}>midnight.</span>
           </h2>
           <p style={{ fontSize: 16, color: 'rgba(250,250,248,0.5)', lineHeight: 1.7 }}>
@@ -217,7 +257,7 @@ export default function HomeClient() {
         </div>
 
         {/* Submit form + notes — redesigned layout */}
-        <div style={{ display: 'grid', gridTemplateColumns: 'clamp(300px,45%,560px) 1fr', gap: 'clamp(24px,4vw,56px)', alignItems: 'start' }}>
+        <div className="wb-notes-grid" style={{ display: 'grid', gridTemplateColumns: 'clamp(300px,45%,560px) 1fr', gap: 'clamp(24px,4vw,56px)', alignItems: 'start' }}>
 
           {/* LEFT: Submit form */}
           <div style={{ background: FOREST, border: `1px solid ${LIME}22`, padding: 'clamp(28px,3vw,44px)' }}>
@@ -322,13 +362,13 @@ export default function HomeClient() {
         <h2 style={{ fontSize: 'clamp(26px,4vw,44px)', fontWeight: 900, lineHeight: 1.1, letterSpacing: '-1px', marginBottom: 40, maxWidth: 560 }}>
           A family that sticks<br/>together is <span style={{ color: LIME }}>unstoppable.</span>
         </h2>
-        <div style={{ display: 'grid', gridTemplateColumns: '2fr 1fr 1fr', gap: 12, marginBottom: 48 }}>
+        <div className="wb-photo-grid" style={{ display: 'grid', gridTemplateColumns: '2fr 1fr 1fr', gap: 12, marginBottom: 48 }}>
           <div style={{ gridRow: 'span 2' }}>
             <Image src="/bears/bears-together.jpg" alt="Bears together" width={600} height={480} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
           </div>
           <Image src="/bears/bears-cubs.jpg" alt="Bear cubs" width={280} height={230} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
           <Image src="/bears/bears-cubs2.jpg" alt="Bear cubs 2" width={280} height={230} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
-          <div style={{ gridColumn: 'span 2', background: CORAL, padding: '24px 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16 }}>
+          <div className="wb-coral-cta" style={{ gridColumn: 'span 2', background: CORAL, padding: '24px 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16 }}>
             <div style={{ fontSize: 20, fontWeight: 900, color: CREAM, lineHeight: 1.3 }}>Every purchase funds the mission directly.<br/><span style={{ fontSize: 14, fontWeight: 600, opacity: 0.8 }}>100% of profits reinvested into programs for autistic children.</span></div>
             <Link href="/shop" style={{ background: DARK, color: CREAM, fontWeight: 900, fontSize: 14, padding: '14px 28px', textDecoration: 'none', letterSpacing: '1px', whiteSpace: 'nowrap' }}>SHOP NOW →</Link>
           </div>
