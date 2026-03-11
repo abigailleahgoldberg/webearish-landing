@@ -349,8 +349,10 @@ export default function HomeClient() {
       {/* TWO-COLUMN CTA */}
 
       {/* NEWSLETTER */}
-      <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', maxWidth: 800, margin: '0 auto' }}>
-        <NewsletterSignup variant="banner" />
+      <section style={{ padding: 'clamp(60px,8vw,80px) 5vw', background: 'var(--forest)', borderTop: '1px solid rgba(184,232,135,0.1)', borderBottom: '1px solid rgba(184,232,135,0.1)' }}>
+        <div style={{ maxWidth: 640, margin: '0 auto' }}>
+          <NewsletterSignup variant="banner" />
+        </div>
       </section>
 
       {/* RESOURCE HUB GRID — 2 rows of 6, modern SVG icons */}
