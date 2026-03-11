@@ -162,16 +162,7 @@ export default function HomeClient() {
         )}
       </nav>
 
-      {/* TICKER */}
-      <div style={{ background: LIME, overflow: 'hidden', padding: '10px 0', borderBottom: `2px solid ${FOREST}` }}>
-        <div className="ticker-track">
-          {[...TICKER_ITEMS, ...TICKER_ITEMS].map((item, i) => (
-            <span key={i} style={{ color: FOREST, fontWeight: 700, fontSize: 13, padding: '0 40px', letterSpacing: '0.3px' }}>
-              {item} <span style={{ color: FOREST, opacity: 0.4, marginLeft: 20 }}>◆</span>
-            </span>
-          ))}
-        </div>
-      </div>
+      {/* TICKER removed */}
 
       {/* HERO — Two-tone split */}
       <section>
