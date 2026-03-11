@@ -111,6 +111,9 @@ export default function HomeClient() {
         @media (max-width: 480px) {
           .stats-grid { grid-template-columns: 1fr !important; }
         }
+        .wb-hub-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; }
+        @media (max-width: 900px) { .wb-hub-grid { grid-template-columns: repeat(4, 1fr); } }
+        @media (max-width: 600px) { .wb-hub-grid { grid-template-columns: repeat(2, 1fr); } }
       `}</style>
 
       {/* NAV */}
@@ -361,7 +364,7 @@ export default function HomeClient() {
           <div style={{ fontSize: 10, letterSpacing: '3px', color: LIME, marginBottom: 12 }}>EXPLORE THE HUB</div>
           <h2 style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: 'clamp(24px,4vw,40px)', marginBottom: 8, color: CREAM }}>Everything You Need. All in One Place.</h2>
           <p style={{ fontSize: 15, color: 'rgba(250,250,248,0.55)', marginBottom: 40, maxWidth: 560, lineHeight: 1.7 }}>WeBearish is built to be the most comprehensive autism acceptance resource on the internet. Start anywhere.</p>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(6, 1fr)', gap: 12 }}>
+          <div className="wb-hub-grid">
             {[
               {
                 label: 'Glossary', desc: '72 terms explained', href: '/glossary',

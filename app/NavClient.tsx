@@ -277,6 +277,8 @@ export default function NavClient() {
             color: "#B8E887",
             cursor: "pointer",
             padding: 8,
+            minWidth: 44,
+            minHeight: 44,
           }}
         >
           <svg width="22" height="22" viewBox="0 0 22 22" fill="currentColor">
@@ -314,7 +316,7 @@ export default function NavClient() {
                   key={child.href}
                   href={child.href}
                   onClick={() => setMobileOpen(false)}
-                  style={{ display: "block", color: "rgba(255,255,255,0.65)", fontSize: 15, fontWeight: 600, textDecoration: "none", padding: "8px 0", borderBottom: "1px solid rgba(184,232,135,0.06)" }}
+                  style={{ display: "block", color: "rgba(255,255,255,0.65)", fontSize: 15, fontWeight: 600, textDecoration: "none", padding: "16px 20px", borderBottom: "1px solid rgba(184,232,135,0.06)" }}
                 >
                   {child.label}
                 </Link>

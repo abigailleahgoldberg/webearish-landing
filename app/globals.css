@@ -236,6 +236,14 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Nunito', sans-serif; font-weight: 900; line-he
 .wb-aa-grid      { grid-template-columns: 1fr 1fr; }
 .wb-stat-strip   { grid-template-columns: repeat(4,1fr); }
 .wb-hero-grid    { grid-template-columns: 55% 45%; }
+/* stats-grid, cta-two-col, hero-grid responsive */
+.stats-grid   { display: grid; }
+.cta-two-col  { display: grid; }
+.hero-grid    { display: grid; }
+/* Hub grid — responsive */
+.wb-hub-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; }
+@media (max-width: 900px) { .wb-hub-grid { grid-template-columns: repeat(4, 1fr); } }
+@media (max-width: 600px) { .wb-hub-grid { grid-template-columns: repeat(2, 1fr); } }
 
 /* ── MOBILE ──────────────────────────────────────── */
 @media (max-width: 768px) {
