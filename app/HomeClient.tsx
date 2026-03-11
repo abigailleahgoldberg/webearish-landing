@@ -153,13 +153,13 @@ export default function HomeClient() {
         </div>
       </div>
 
-      {/* HERO */}
-      <section style={{ padding: 'clamp(60px,8vw,100px) 5vw clamp(40px,6vw,80px)', maxWidth: 1200, margin: '0 auto' }}>
-        <div className="hero-grid" style={{ display: 'grid', gridTemplateColumns: '55% 43%', gap: '5%', alignItems: 'center' }}>
-          {/* Left — Manifesto Headline */}
-          <div className="hero-text">
+      {/* HERO — Two-tone split */}
+      <section>
+        <div className="hero-grid" style={{ display: 'grid', gridTemplateColumns: '55% 45%' }}>
+          {/* Left panel — DARK — existing copy */}
+          <div style={{ background: DARK, padding: 'clamp(60px,8vw,100px) clamp(28px,5vw,72px)', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
             <div style={{ fontSize: 11, letterSpacing: '3px', color: LIME, fontWeight: 800, marginBottom: 20 }}>AUTISM ACCEPTANCE MOVEMENT</div>
-            <h1 className="manifesto-text" style={{ fontSize: 'clamp(38px,5.5vw,72px)', fontWeight: 900, lineHeight: 1.0, letterSpacing: '-2px', marginBottom: 28 }}>
+            <h1 style={{ fontSize: 'clamp(36px,5.5vw,64px)', fontWeight: 900, lineHeight: 1.0, letterSpacing: '-2px', marginBottom: 28, color: CREAM }}>
               Every child<br/>
               <span style={{ color: LIME }}>deserves</span><br/>
               to be seen.<br/>
@@ -174,18 +174,19 @@ export default function HomeClient() {
               <Link href="/shop" style={{ background: 'transparent', color: CREAM, fontWeight: 800, fontSize: 15, padding: '16px 36px', textDecoration: 'none', letterSpacing: '0.5px', border: `2px solid ${LIME}44` }}>SHOP THE MOVEMENT</Link>
             </div>
           </div>
-          {/* Right — Bear */}
-          <div className="hero-img" style={{ position: 'relative' }}>
-            <div style={{ position: 'relative', border: `4px solid ${LIME}`, boxShadow: `0 0 40px ${LIME}55, 0 0 80px ${LIME}22`, maxWidth: 440 }}>
-              <Image src="/bears/bear-standing.jpg" alt="WeBearish bear" width={440} height={520} style={{ width: '100%', height: 'auto', display: 'block' }} priority />
-              {/* Floating badge */}
-              <div style={{ position: 'absolute', bottom: -18, right: -18, background: CORAL, color: CREAM, fontWeight: 900, fontSize: 11, letterSpacing: '1.5px', padding: '12px 18px', zIndex: 2 }}>
-                100% PROFITS<br/>REINVESTED
-              </div>
-            </div>
-            {/* Animated second bear */}
-            <div style={{ position: 'absolute', top: -20, left: -30, opacity: 0.18, pointerEvents: 'none' }}>
-              <Image src="/bears/bear-white.gif" alt="" width={120} height={120} style={{ objectFit: 'contain' }} unoptimized />
+          {/* Right panel — LIME — Bear silhouette */}
+          <div style={{ background: LIME, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: 'clamp(280px,40vw,500px)', padding: '40px 24px' }}>
+            <svg viewBox="0 0 200 200" width="clamp(160px,20vw,280px)" height="clamp(160px,20vw,280px)" fill="rgba(15,26,15,0.15)">
+              <circle cx="55" cy="55" r="28"/>
+              <circle cx="145" cy="55" r="28"/>
+              <circle cx="100" cy="105" r="65"/>
+              <ellipse cx="100" cy="125" rx="28" ry="20"/>
+              <ellipse cx="100" cy="115" rx="12" ry="8" fill="rgba(15,26,15,0.25)"/>
+              <circle cx="78" cy="92" r="8" fill="rgba(15,26,15,0.3)"/>
+              <circle cx="122" cy="92" r="8" fill="rgba(15,26,15,0.3)"/>
+            </svg>
+            <div style={{ marginTop: 20, fontSize: 11, letterSpacing: '3px', fontWeight: 900, color: 'rgba(15,26,15,0.5)', fontVariant: 'small-caps', textTransform: 'uppercase' }}>
+              Autism Acceptance Movement
             </div>
           </div>
         </div>
