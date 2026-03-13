@@ -303,6 +303,7 @@ export default function NavClient() {
             zIndex: 199,
             overflowY: "auto",
             padding: "24px 24px 48px",
+            WebkitOverflowScrolling: "touch",
           }}
           className="wb-nav-mobile-drawer"
         >
@@ -312,22 +313,26 @@ export default function NavClient() {
                 {silo.label}
               </p>
               {silo.children.map((child) => (
-                <Link
+                <a
                   key={child.href}
                   href={child.href}
-                  onClick={() => setMobileOpen(false)}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    setMobileOpen(false);
+                    window.location.href = child.href;
+                  }}
                   style={{ display: "block", color: "rgba(255,255,255,0.65)", fontSize: 15, fontWeight: 600, textDecoration: "none", padding: "16px 20px", borderBottom: "1px solid rgba(184,232,135,0.06)" }}
                 >
                   {child.label}
-                </Link>
+                </a>
               ))}
             </div>
           ))}
           <div style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 8 }}>
-            <Link href="/shop" onClick={() => setMobileOpen(false)} style={{ color: "rgba(255,255,255,0.75)", fontWeight: 700, fontSize: 15, textDecoration: "none" }}>Shop</Link>
-            <Link href="/contact" onClick={() => setMobileOpen(false)} style={{ background: "#FF7B5C", color: "#fff", fontWeight: 900, fontSize: 13, letterSpacing: "1px", textTransform: "uppercase", padding: "12px 24px", textDecoration: "none", textAlign: "center", borderRadius: 4 }}>
+            <a href="/shop" onClick={(e) => { e.preventDefault(); setMobileOpen(false); window.location.href = "/shop"; }} style={{ color: "rgba(255,255,255,0.75)", fontWeight: 700, fontSize: 15, textDecoration: "none" }}>Shop</a>
+            <a href="/contact" onClick={(e) => { e.preventDefault(); setMobileOpen(false); window.location.href = "/contact"; }} style={{ background: "#FF7B5C", color: "#fff", fontWeight: 900, fontSize: 13, letterSpacing: "1px", textTransform: "uppercase", padding: "12px 24px", textDecoration: "none", textAlign: "center", borderRadius: 4 }}>
               Get Involved
-            </Link>
+            </a>
           </div>
         </div>
       )}
