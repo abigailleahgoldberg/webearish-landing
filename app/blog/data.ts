@@ -2873,4 +2873,202 @@ Sensory tools, books, and resources that support autistic people and their famil
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`
   },
+  {
+    slug: "identity-first-language-in-tech",
+    title: "Why Identity-First Language Matters in Tech",
+    description: "How the tech industry's language around disability shapes hiring, product design, and workplace culture — and why autistic adults overwhelmingly prefer identity-first language.",
+    date: "March 13, 2026",
+    readTime: "6 min read",
+    category: "Acceptance",
+    content: `Language is never neutral. In the tech industry — an industry that prides itself on precision, on clear documentation, on getting the details right — the language used around disability is often imprecise, well-meaning but harmful, and shaped by non-disabled people who didn't ask the people most affected.
+
+This matters. Not as a semantic debate, but because language shapes policy, hiring, product design, and workplace culture. The words tech companies choose reveal what they actually believe about autistic people — and those beliefs have consequences.
+
+## The Debate: Identity-First vs. Person-First
+
+Person-first language puts the person before the disability: "person with autism," "person who has autism," "someone on the spectrum." The intention is humanizing — to remind listeners that a disability doesn't define a person.
+
+Identity-first language integrates the identity: "autistic person," "autistic employee," "autistic community." This framing comes from the autistic community itself, and it reflects a different premise: that autism isn't something separate from a person, something they carry like a bag. It's woven into how they think, perceive, communicate, and experience the world. You can't separate the autism from the person any more than you can separate a person from their neurology.
+
+Surveys of autistic adults consistently show a strong preference for identity-first language. A 2020 study in *Autism* found that autistic adults and autistic-led organizations overwhelmingly prefer identity-first. Parents and professionals — the groups most often *speaking about* autistic people rather than *speaking as* them — tend to prefer person-first.
+
+This gap is the whole issue in miniature: the people making the decisions aren't the people most affected by them.
+
+## What This Looks Like in Tech
+
+Tech companies write job descriptions, employee resource group materials, accessibility documentation, and product copy. All of it reflects a choice about language — usually made by HR teams and DEI consultants who default to medical model framing without examining it.
+
+A job description that asks for candidates who are "comfortable working with employees with autism" signals something different than one that says "our team includes autistic engineers and we design our work practices around neurodiversity." The first positions autism as a challenge to be managed. The second positions it as a design consideration — something to build around, not around despite.
+
+Product accessibility documentation often falls into the same trap. "Features to help people with autism" versus "features designed for autistic users" — the second acknowledges autistic people as users, not edge cases to accommodate after the fact.
+
+## Language Shifts Lead to Policy Shifts
+
+This isn't abstract. When a company shifts from person-first to identity-first language in its internal materials, something shifts in how that company thinks about its autistic employees.
+
+Person-first framing tends to accompany a deficit model: the autistic person has a challenge, the company is doing them a favor by accommodating it. Identity-first framing tends to accompany a design model: the autistic employee has a different profile of strengths and needs, and the company's job is to build an environment where that profile thrives.
+
+The policy difference is significant. Companies operating from a deficit model build "quiet rooms" as relief valves — places autistic employees can retreat when the standard environment becomes unbearable. Companies operating from a design model ask why the standard environment is unbearable in the first place and redesign accordingly.
+
+One approach treats the environment as fixed and the autistic person as the variable. The other treats the environment as the variable — which is where the design leverage actually is.
+
+## Hiring and the Language Signal
+
+Autistic job seekers read company language carefully. When a company's careers page, ERG materials, and accessibility documentation all use person-first language without explanation, it reads as a signal: this company learned its disability language from medical literature, not from autistic people. It may not be a welcoming place.
+
+When autistic applicants see identity-first language — when they see companies that have clearly listened to the autistic community about how to talk about autism — it signals something different: this company did the work. It actually engaged with autistic perspectives, not just disability awareness training.
+
+The cost of getting this right is zero. It's a choice, made in a document, that signals whether a company has actually engaged with the community it claims to support.
+
+## What Tech Companies Should Do
+
+Read what autistic people have written about language. The Autistic Self Advocacy Network (ASAN) uses identity-first language throughout. So does the autistic community's own publication record. If you're making language choices for your company, start with what the people most affected prefer.
+
+Update your materials. Job descriptions, ERG pages, accessibility documentation, product copy. This isn't a one-time project — it's an ongoing practice of checking your framing against the community's stated preferences.
+
+Ask your autistic employees. Not to put the burden on them, but because they're the primary source of knowledge here. If your company has autistic employees and you've never asked them what language they prefer, that's a gap worth closing.
+
+And stop using puzzle pieces. That symbol was created by a non-autistic organization in the 1960s to represent the idea that autistic people are "puzzling." The autistic community has been clear: it's not a welcome symbol. The infinity rainbow and the gold infinity symbol are community-created alternatives.
+
+## The Bigger Picture
+
+Language is the surface layer. Under it is a belief system about what autism is, what autistic people need, and who gets to make decisions about them. In tech, a lot of that belief system was installed by non-autistic people and has never been examined.
+
+The autistic community has been asking for different language because different language reflects different beliefs — beliefs that actually lead to better outcomes, better workplaces, and better products.
+
+Get the language right. Then look at what comes next.
+
+**More from WeBearish**
+
+- [Building Sensory-Friendly Workspaces](/sensory-friendly-workspaces) — Systemic design, not just quiet rooms
+- [Awareness Is Not Acceptance](/awareness-is-not-acceptance) — What the difference actually means
+- [Join the WeBearish Community](/community) — $3/month. No tragedy narratives.
+
+---
+
+**Helpful Tools & Resources**
+
+- [Autistic Self Advocacy Network](https://autisticadvocacy.org) — The largest autistic-led disability rights organization
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books that center autistic voices
+- [Noise-Canceling Headphones](https://www.amazon.com/s?k=noise+canceling+headphones+adults&tag=webearish-20) — Practical sensory support for the workplace
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`,
+  },
+  {
+    slug: "sensory-friendly-workspaces",
+    title: "Building Sensory-Friendly Workspaces: A Practical Guide",
+    description: "Sensory-friendly workspace design goes far beyond quiet rooms. Here's a practical guide to systemic changes in lighting, sound, texture, layout, and meeting practices that make a real difference for autistic employees.",
+    date: "March 13, 2026",
+    readTime: "7 min read",
+    category: "Community",
+    content: `The "quiet room" has become the go-to response for companies that want to signal sensory awareness without actually redesigning anything. Install a room with dim lighting and noise-canceling panels, call it a sensory space, and consider the problem solved.
+
+This is better than nothing. It is not workspace design.
+
+Sensory-friendly workspace design is systemic. It asks: what about our standard environment creates sensory challenges, and how do we change the environment itself rather than building escape routes from it? That question leads to a different set of answers — and, eventually, to workplaces that work better not just for autistic employees, but for everyone.
+
+## Understanding the Sensory Landscape
+
+Autistic people often experience sensory input differently than non-autistic people. This can mean hypersensitivity — in which sounds, lights, smells, or textures are experienced more intensely — or hyposensitivity, where input is processed with less intensity. Many autistic people experience both, in different sensory channels, at different times.
+
+The standard open-plan tech office is, from a sensory standpoint, a designed disaster: fluorescent lighting that flickers at imperceptible frequencies, HVAC systems that produce constant white noise punctuated by irregular sounds, the smell of dozens of lunches microwaved simultaneously, hard floors that amplify every footstep, and the visual chaos of dozens of people in constant movement.
+
+That environment is tolerable for many people. For some autistic people, it isn't tolerable at all — it's actively depleting, requiring significant cognitive and sensory regulation effort that takes resources away from the actual work.
+
+## Lighting
+
+Fluorescent overhead lighting is the single most commonly cited sensory challenge in workplace surveys of autistic employees. The flicker rate of fluorescent tubes — even when imperceptible to most people — can cause significant discomfort, fatigue, and difficulty concentrating for some autistic people.
+
+Practical changes:
+- Replace fluorescent overhead lighting with LED panels designed for low flicker
+- Add task lighting options so employees can control light levels at their workstations
+- Use warm-temperature bulbs (2700K-3000K) rather than cool white (5000K+), which creates less glare
+- Install adjustable window treatments to manage natural light variability
+- Allow personal desk lamps and light-blocking screens for employees who need them
+
+This doesn't require redesigning the whole office. It requires treating lighting as a variable rather than a fixed condition.
+
+## Sound
+
+Open offices are loud. Not just loud in the obvious sense — conversations, phone calls, music — but in the ambient sense: HVAC hum, keyboard clatter, the distant sound of a meeting room, a colleague's notification sounds, the ticking of a clock.
+
+For some autistic people, the brain doesn't automatically filter background noise the way neurotypical processing typically does. Everything competes for attention at roughly equal volume. That's not a choice or a weakness. It's a different auditory processing profile.
+
+Practical changes:
+- Acoustic panels on walls and ceilings to reduce sound rebound
+- Quiet keyboard options and desk mats to reduce impact noise
+- Designated quiet zones throughout the office, not just one room
+- Clear norms around speakerphone use, meeting volume, and music
+- Allow and normalize headphone use — signal that blocking sound is a legitimate strategy, not antisocial behavior
+- Hybrid and remote work options for employees whose sensory profiles are better served at home
+
+Sound zoning — designing the office to have predictably different sound levels in different areas — is more useful than one quiet room. Employees should be able to choose their sound environment based on what their current task requires.
+
+## Textures and Tactile Environment
+
+Dress codes, office furniture, and break room supplies all have a tactile dimension that's rarely considered in workspace design. Seating that creates pressure points, fabric that causes discomfort through clothing, temperature inconsistency across the office — these are real factors for employees with tactile sensitivity.
+
+Practical changes:
+- Offer ergonomic seating options, including chairs with different support profiles
+- Allow sensory accommodations like fidget tools, standing desks, balance boards, and foot rests without requiring formal accommodation requests
+- Maintain consistent building temperature, or provide heating and cooling options for individual workstations
+- Consider informal dress code flexibility — rigid dress code requirements can create daily sensory challenges for employees with clothing sensitivity
+
+## Desk Layouts and Visual Environment
+
+Visual clutter is a real sensory factor. Open desks that face high-traffic areas, whiteboards covered in meeting detritus, cluttered communal surfaces — all of these create visual noise that takes processing energy to filter.
+
+Practical changes:
+- Low partitions between workstations that create partial visual separation without full enclosure
+- Intentionally simple, low-contrast communal spaces rather than maximally stimulating "creative" environments
+- Clear storage systems that reduce visible clutter
+- Private focus pods or phone booths for calls and focused work — not as sensory retreat, but as standard infrastructure
+
+## Meeting Practices
+
+Meetings are often the highest-sensory-demand moments in a workday. Fluorescent boardrooms, unexpected topic changes, simultaneous talkers, unclear agendas, and the social complexity of reading a room — all in one package.
+
+Practical changes:
+- Distribute agendas in advance so employees can prepare for transitions
+- Build in processing time — don't expect immediate responses in meetings for employees who communicate better asynchronously
+- Establish explicit turn-taking norms rather than free-flowing discussion that favors fast, loud, interrupting communication styles
+- Normalize written participation — chat windows during video calls, written follow-up after meetings — as equivalent to verbal contribution
+- Record meetings for employees who find live attendance overwhelming
+- Keep meetings to the stated agenda and stated time
+
+These practices benefit everyone, not just autistic employees. They create meetings that are more organized, more efficient, and more accessible to introverts, people for whom English is a second language, and anyone whose best thinking isn't spontaneous verbal performance.
+
+## Not Just Accommodation Requests
+
+One of the most important shifts in sensory-friendly workspace design is moving from the accommodation model — where each autistic employee requests specific changes through an HR process — to the design model, where the environment is built to work for a wider range of sensory profiles from the start.
+
+The accommodation model puts the burden on the autistic employee: identify your needs, navigate an HR process, wait for approval, potentially disclose a disability you may not want to disclose. The design model distributes that work to the people designing the environment.
+
+This is how you build a workplace that autistic employees choose to stay in, rather than a workplace they learn to survive.
+
+## Companies Getting This Right
+
+The companies doing this well — and there are more of them than headlines suggest — share a few characteristics. They consulted autistic employees before redesigning spaces. They treat sensory accommodations as standard infrastructure rather than special requests. They have explicit norms around sound, light, and distraction. And they've built flexibility into the physical environment rather than optimizing for one type of worker.
+
+The result isn't just a more accessible workplace for autistic employees. It's a quieter, clearer, less exhausting workplace for everyone. The sensory-friendly design principles that help autistic people focus help introverts focus, help people with ADHD focus, help anyone who does deep work better in predictable environments.
+
+Designing for the most sensitive users tends to produce environments that work better for all users. That's not a coincidence. That's good design.
+
+**More from WeBearish**
+
+- [Why Identity-First Language Matters in Tech](/identity-first-language-in-tech) — Language shapes culture, culture shapes policy
+- [Awareness Is Not Acceptance](/awareness-is-not-acceptance) — What the difference actually means
+- [Join the WeBearish Community](/community) — $3/month. No tragedy narratives.
+
+---
+
+**Helpful Tools & Resources**
+
+- [Noise-Canceling Headphones for Workplace](https://www.amazon.com/s?k=noise+canceling+headphones+workplace&tag=webearish-20) — High-quality options for sensory management at work
+- [Weighted Lap Pad](https://www.amazon.com/s?k=weighted+lap+pad+sensory&tag=webearish-20) — Discreet deep pressure support for the office
+- [Desk Privacy Panel](https://www.amazon.com/s?k=desk+privacy+panel+office&tag=webearish-20) — Visual separation without full enclosure
+- [Natural Full-Spectrum LED Desk Lamp](https://www.amazon.com/s?k=full+spectrum+led+desk+lamp+low+flicker&tag=webearish-20) — Better lighting for sensory-sensitive workspaces
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`,
+  },
 ];
