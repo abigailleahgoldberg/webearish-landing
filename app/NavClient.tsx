@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { useState, useEffect, useRef } from "react";
 
 // How long (ms) to wait before closing a dropdown after mouseLeave
@@ -66,11 +67,17 @@ const NAV_SILOS = [
 ];
 
 export default function NavClient() {
+  const router = useRouter();
   const [open, setOpen] = useState<string | null>(null);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const navRef = useRef<HTMLDivElement>(null);
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const mobileNavigate = (href: string) => {
+    setMobileOpen(false);
+    router.push(href);
+  };
 
   const openMenu = (label: string) => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
@@ -291,51 +298,48 @@ export default function NavClient() {
       </nav>
 
       {/* Mobile menu drawer */}
-      {mobileOpen && (
-        <div
-          style={{
-            position: "fixed",
-            top: 64,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            background: "#0F1A0F",
-            zIndex: 199,
-            overflowY: "auto",
-            padding: "24px 24px 48px",
-            WebkitOverflowScrolling: "touch",
-          }}
-          className="wb-nav-mobile-drawer"
-        >
-          {NAV_SILOS.map((silo) => (
-            <div key={silo.label} style={{ marginBottom: 28 }}>
-              <p style={{ fontSize: 11, fontWeight: 900, color: "#B8E887", letterSpacing: "2px", textTransform: "uppercase", marginBottom: 12 }}>
-                {silo.label}
-              </p>
-              {silo.children.map((child) => (
-                <a
-                  key={child.href}
-                  href={child.href}
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setMobileOpen(false);
-                    window.location.href = child.href;
-                  }}
-                  style={{ display: "block", color: "rgba(255,255,255,0.65)", fontSize: 15, fontWeight: 600, textDecoration: "none", padding: "16px 20px", borderBottom: "1px solid rgba(184,232,135,0.06)" }}
-                >
-                  {child.label}
-                </a>
-              ))}
-            </div>
-          ))}
-          <div style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 8 }}>
-            <a href="/shop" onClick={(e) => { e.preventDefault(); setMobileOpen(false); window.location.href = "/shop"; }} style={{ color: "rgba(255,255,255,0.75)", fontWeight: 700, fontSize: 15, textDecoration: "none" }}>Shop</a>
-            <a href="/contact" onClick={(e) => { e.preventDefault(); setMobileOpen(false); window.location.href = "/contact"; }} style={{ background: "#FF7B5C", color: "#fff", fontWeight: 900, fontSize: 13, letterSpacing: "1px", textTransform: "uppercase", padding: "12px 24px", textDecoration: "none", textAlign: "center", borderRadius: 4 }}>
-              Get Involved
-            </a>
+      <div
+        style={{
+          position: "fixed",
+          top: 64,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          background: "#0F1A0F",
+          zIndex: 201,
+          overflowY: "auto",
+          padding: "24px 24px 48px",
+          WebkitOverflowScrolling: "touch",
+          transform: mobileOpen ? "translateX(0)" : "translateX(100%)",
+          transition: "transform 0.25s ease",
+          visibility: mobileOpen ? "visible" : "hidden",
+        }}
+        className="wb-nav-mobile-drawer"
+      >
+        {NAV_SILOS.map((silo) => (
+          <div key={silo.label} style={{ marginBottom: 28 }}>
+            <p style={{ fontSize: 11, fontWeight: 900, color: "#B8E887", letterSpacing: "2px", textTransform: "uppercase", marginBottom: 12 }}>
+              {silo.label}
+            </p>
+            {silo.children.map((child) => (
+              <button
+                key={child.href}
+                type="button"
+                onClick={() => mobileNavigate(child.href)}
+                style={{ display: "block", width: "100%", textAlign: "left", background: "none", border: "none", color: "rgba(255,255,255,0.65)", fontSize: 15, fontWeight: 600, cursor: "pointer", padding: "16px 20px", borderBottom: "1px solid rgba(184,232,135,0.06)" }}
+              >
+                {child.label}
+              </button>
+            ))}
           </div>
+        ))}
+        <div style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 8 }}>
+          <button type="button" onClick={() => mobileNavigate("/shop")} style={{ background: "none", border: "none", color: "rgba(255,255,255,0.75)", fontWeight: 700, fontSize: 15, cursor: "pointer", textAlign: "left", padding: 0 }}>Shop</button>
+          <button type="button" onClick={() => mobileNavigate("/contact")} style={{ background: "#FF7B5C", color: "#fff", fontWeight: 900, fontSize: 13, letterSpacing: "1px", textTransform: "uppercase", padding: "12px 24px", border: "none", textAlign: "center", borderRadius: 4, cursor: "pointer" }}>
+            Get Involved
+          </button>
         </div>
-      )}
+      </div>
 
       {/* Nav CSS */}
       <style>{`
