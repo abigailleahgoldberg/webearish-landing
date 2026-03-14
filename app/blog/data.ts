@@ -3071,4 +3071,189 @@ Designing for the most sensitive users tends to produce environments that work b
 
 *Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`,
   },
+  {
+    slug: 'why-masking-harms-autistic-children',
+    title: 'Why Masking Harms Autistic Children (And Why Acceptance Matters)',
+    description: 'The latest peer-reviewed research from 2024 and 2025 is clear: when autistic children suppress who they are to fit neurotypical expectations, they do not become more capable. They become more anxious, more depressed, and more burned out.',
+    date: 'March 2, 2026',
+    readTime: '7 min read',
+    category: 'Acceptance',
+    content: `You have probably heard the advice: "Teach your autistic child to look people in the eye." "Practice those social skills." "The more normal they seem, the better they will do."
+
+What if that advice is actually harming them?
+
+Recent peer-reviewed research tells a clear story: when autistic children suppress who they are to fit neurotypical expectations, they do not become more capable. They become more anxious. More depressed. More burned out. And the damage compounds over time.
+
+## What Is Masking?
+
+Masking (also called "camouflaging") is the suppression of autistic traits. It is your child forcing eye contact when it feels uncomfortable. Suppressing stimming behaviors. Overriding their natural social style to seem "normal." Exhausting themselves to keep up with neurotypical expectations.
+
+This is not bravery or resilience. This is cognitive work your child should not have to do.
+
+## What the Research Says
+
+Greater masking equals higher anxiety, depression, and stress. A 2024 study found that autistic individuals who camouflage more experience significantly elevated anxiety and depression, mediated by chronic stress and poor emotional regulation.
+
+Masking creates a cognitive overload that never stops. Autistic children who mask experience hypervigilance, emotional exhaustion, and burnout. Many parents describe it as their child "holding it together at school" then completely falling apart at home.
+
+For autistic girls and women, masking is linked to serious mental health outcomes. Research shows anxiety mediates the relationship between camouflaging and suicidal ideation in autistic women. This is a mental health crisis, not a hypothetical.
+
+When masking decreases, health improves. Studies consistently find that reduced masking correlates with better mental health outcomes. The path forward for autistic kids involves less suppression, not more.
+
+## But What About Social Skills?
+
+Parents worry: "If I do not teach my child to mask, how will they ever fit in?"
+
+Here is what you are actually trading: short-term "fitting in" through exhausting, harmful masking, in exchange for long-term anxiety, depression, and burnout. That is not a fair deal.
+
+Teaching your child to accept themselves builds real resilience. It builds the ability to seek spaces where they belong, to find peers who accept them, to develop genuine confidence that does not depend on exhausting performance.
+
+## What You Can Actually Do
+
+Let your child stim. Stimming is regulation, not a problem. Stop correcting natural autistic behaviors. Eye contact, social interaction style, communication preferences are not wrong, they are different.
+
+Push back on systems that demand masking. Question school demands for "appropriate behavior" that are really demands for neurotypical performance. Be skeptical of any therapy primarily focused on making your child seem less autistic.
+
+Help your child find other autistic kids. The relief when they meet someone like them is real. Build a family understanding that your child's brain is wired differently. And that is not something to hide.
+
+## The Hard Truth
+
+Most of the world still operates on the premise that autistic kids need to act normal. Schools, extended family, even some therapists will push back on acceptance-based approaches.
+
+But the research is clear. The autistic adults with lower anxiety and depression are not the ones who mastered the perfect neurotypical mask. They are the ones who found acceptance. Of themselves, and from the people around them.
+
+Your job is not to teach your child to hide who they are. It is to build a world where they do not have to.
+
+---
+
+**More from WeBearish**
+
+- [What Is Masking?](/what-is-masking-autism) — The invisible work autistic people do every day
+- [Autistic Burnout](/autistic-burnout-recovery-guide) — What it is and how recovery actually works
+- [Join the WeBearish Community](/community) — No tragedy narratives.`,
+  },
+  {
+    slug: 'supreme-court-ada-autism-school-rights-2025',
+    title: 'Your Legal Rights Just Changed: How the 2025 Supreme Court Ruling Protects Your Autistic Child',
+    description: 'In June 2025, the Supreme Court ruled that families can sue directly in federal court for ADA violations without exhausting IDEA administrative processes first. Here is what changed, why it matters, and what to do now.',
+    date: 'March 8, 2026',
+    readTime: '8 min read',
+    category: 'Advocacy',
+    content: `You have been in IEP meetings where the school says no to accommodations your autistic child needs. You have been told to follow the process, go through the hearing, wait six months.
+
+That advice just became outdated.
+
+In June 2025, the Supreme Court made a unanimous decision that changes everything for parents fighting for school accommodations. Most families still do not know about it.
+
+Here is what happened, why it matters, and what you should do now.
+
+## The Ruling: Direct Access to Court
+
+On June 12, 2025, the Supreme Court ruled that families can sue directly in federal court for ADA violations without first exhausting IDEA's lengthy administrative hearing process.
+
+Translation: you do not have to wait six months through IEP hearings anymore. If your school is illegally denying your autistic child accommodations, you can take them to court. Now.
+
+## The Old System vs. The New System
+
+Before the ruling: the school denies an accommodation, you request an IEP hearing, the hearing officer hears your case over several months, you appeal if you lose, and only after all of that can you consider court. Timeline: 6 to 12 months minimum.
+
+After the ruling: the school denies an accommodation, it violates the ADA, you sue directly in federal court. Timeline: months instead of a year or more.
+
+Schools can no longer use administrative delays as a strategy to wear parents down.
+
+## What Your Child Is Legally Entitled To
+
+Under IDEA, your child has the right to a Free Appropriate Public Education in the Least Restrictive Environment, an individualized IEP, special education services, and assistive technology.
+
+Under Section 504 and the ADA, your child has the right to reasonable accommodations, protection from discrimination based on disability, and equal access to school programs.
+
+In practice, this includes sensory breaks, quiet workspace, communication supports, modified assignments, anxiety accommodations, and a stim-friendly environment. Schools cannot legally punish stimming, require eye contact as a behavioral expectation, or deny accommodations because they are inconvenient.
+
+## What To Do Now
+
+Document everything. Email the school with every accommodation request. Include why your child needs it. Save every response.
+
+Know what the IEP includes. Check for sensory breaks, quiet workspace, communication support, stim-friendly environment, modified social expectations, and anxiety accommodations. If your child needs any of these and does not have them, that is a gap.
+
+Use the right language in IEP meetings. "My child needs this accommodation to access education. This is required under IDEA and the ADA. If the school cannot provide this, we will pursue legal remedies." You do not have to be aggressive. Just be clear.
+
+Know when to escalate. If the school repeatedly denies documented accommodation needs, punishes stimming, or forces compliance-based interventions as a substitute for accommodation, you have faster legal options now.
+
+## The Bottom Line
+
+Your autistic child deserves accommodations that let them learn without forcing them to hide who they are. The law agrees. And as of June 2025, you have faster, more direct ways to enforce it.
+
+Use it.
+
+---
+
+**Resources**
+
+- Wrightslaw.com — Education law resource for parents
+- Autistic Self Advocacy Network: autisticadvocacy.org
+- Your state's Parent Training and Information Center (pacer.org for locator)
+
+**More from WeBearish**
+
+- [How to Prepare for an IEP Meeting](/iep-meeting-parent-guide) — What to say and what to do when the school says no
+- [How Schools Are Getting Autism Wrong](/how-schools-get-autism-wrong) — And what would actually help
+- [Join the WeBearish Community](/community) — No tragedy narratives.`,
+  },
+  {
+    slug: 'leucovorin-fda-autism-political-misinformation-2026',
+    title: 'The FDA Said No to Leucovorin for Autism. Here Is Why That Matters.',
+    description: 'Political officials claimed leucovorin could help hundreds of thousands of autistic children. The FDA declined to approve it. New research shows those claims already changed how doctors practiced medicine.',
+    date: 'March 12, 2026',
+    readTime: '6 min read',
+    category: 'Research',
+    content: `When political figures make health claims about autism, families listen. That is not a flaw in families. It is a flaw in the information environment.
+
+In early 2026, government officials claimed leucovorin, a drug approved for a rare genetic disorder called cerebral folate deficiency, could be a treatment for hundreds of thousands of autistic children. The FDA approved leucovorin for cerebral folate deficiency. It did not approve it for autism.
+
+That distinction matters.
+
+## What the Research Actually Shows
+
+A handful of small trials have suggested leucovorin might benefit a specific subset of autistic children with cerebral folate antibodies. The keyword is small. These were not large randomized controlled trials. The evidence base was preliminary at best.
+
+Cerebral folate deficiency is a distinct condition. Some autistic people have it. Most do not. Conflating a treatment for a specific comorbid condition with a treatment for autism itself is not a minor error. It is a fundamental misrepresentation.
+
+The FDA held the line. When the evidence is not there, approval does not happen. That process exists precisely to protect families from hope dressed as science.
+
+## The Real Harm: Documented
+
+What makes this story more than a policy dispute is what came next. New research from Medscape published in March 2026 documented that the political claims had already changed clinical behavior.
+
+Prenatal Tylenol orders in emergency rooms dropped measurably after political statements linking it to autism. Leucovorin prescriptions for children surged. Families and clinicians changed their behavior based on unverified claims from a press conference, not from clinical evidence.
+
+That is the concrete harm of medical misinformation. Not hypothetical. Documented.
+
+## Why WeBearish Tracks This
+
+WeBearish is not a medical authority and does not give medical advice. What we do is make sure families have access to accurate information about where the science actually stands.
+
+The pattern here is one the autism community has seen before: a promising early signal, political amplification, widespread uptake, and eventual correction after real-world harm. The correction takes years. The uptake takes days.
+
+Families deserve better than that timeline.
+
+## The Acceptance Framework Holds
+
+None of this changes the fundamental WeBearish position. Autism is not a disease requiring pharmaceutical correction. The children these treatments are aimed at are not broken. The goal of any intervention should be improving quality of life and wellbeing for the autistic person, not making them appear less autistic.
+
+Legitimate science, when it produces real tools that help autistic people on their own terms, is worth knowing about. Political claims dressed as science, running ahead of the evidence, cause harm. The distinction is always worth making.
+
+---
+
+**Sources**
+
+- FDA leucovorin approval and autism statement, March 2026
+- Medscape research on political misinformation and clinical behavior, March 2026
+- STAT News, Washington Post, CNN coverage of leucovorin decision
+
+**More from WeBearish**
+
+- [The Neurodiversity Movement](/neurodiversity-movement-history) — Where it came from and where it is going
+- [Autism Awareness vs. Acceptance](/autism-acceptance-vs-awareness-practical) — What the difference looks like in practice
+- [Join the WeBearish Community](/community) — No tragedy narratives.`,
+  },
 ];
