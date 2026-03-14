@@ -3201,6 +3201,7 @@ Use it.
   },
   {
     slug: 'leucovorin-fda-autism-political-misinformation-2026',
+
     title: 'The FDA Said No to Leucovorin for Autism. Here Is Why That Matters.',
     description: 'Political officials claimed leucovorin could help hundreds of thousands of autistic children. The FDA declined to approve it. New research shows those claims already changed how doctors practiced medicine.',
     date: 'March 12, 2026',
@@ -3255,5 +3256,101 @@ Legitimate science, when it produces real tools that help autistic people on the
 - [The Neurodiversity Movement](/neurodiversity-movement-history) — Where it came from and where it is going
 - [Autism Awareness vs. Acceptance](/autism-acceptance-vs-awareness-practical) — What the difference looks like in practice
 - [Join the WeBearish Community](/community) — No tragedy narratives.`,
+  },
+  {
+    slug: 'screen-time-autism-link-debunked-2025',
+    title: 'The Screen Time and Autism Myth: What the Research Actually Shows',
+    description: 'For years, parents have been warned that screens cause autism. New research tells a different story. The real factor is socioeconomic stress, not your child\'s tablet.',
+    date: 'March 8, 2026',
+    readTime: '5 min read',
+    category: 'Research',
+    content: `Few narratives cause more guilt in autism parenting than the screen time myth. The fear that early tablet or television exposure contributed to your child's autism. It has been repeated in parenting blogs, pediatrician offices, and family dinner conversations for years.
+
+The research is catching up. And what it is showing is more nuanced, more honest, and far more useful.
+
+## What the Studies Actually Found
+
+Two significant studies have reshaped this conversation.
+
+A 2025 study published in JAMA found that when researchers controlled for family income and parental education, the statistical association between early screen time and autism diagnosis largely disappeared. The correlation was real. The causation was not what everyone assumed.
+
+What the screen time was tracking, it turned out, was socioeconomic stress. Lower-income families with fewer childcare options and higher daily stress levels had children who both watched more screens and received more autism diagnoses. Remove the socioeconomic factor and the screen-autism link goes with it.
+
+A 2024 study from Moore and Hill extended this further. Their finding: children with autistic traits tend to seek out screens. The causation runs in the opposite direction from what the myth assumes. Screens provide predictable, controllable sensory input. Many autistic children find that regulating. The traits drive the screen use. The screen use does not create the traits.
+
+## Why This Matters
+
+The screen time myth does several kinds of harm.
+
+First, it blames parents for a neurological condition their children were born with. No parent caused their child's autism by allowing them to watch television. That guilt is not only false, it is actively harmful, redirecting energy from acceptance and accommodation to pointless self-blame.
+
+Second, it obscures what actually matters. Socioeconomic stress, lack of access to early intervention, inadequate support systems, under-resourced schools: these are the things that shape outcomes for autistic children and their families. They deserve the attention and urgency that the screen time narrative has been absorbing.
+
+Third, it frames an autistic child's natural regulatory behavior as a symptom of damage. A child who finds comfort and predictability in a screen is doing something adaptive. Meeting that need, not criminalizing it, is the right response.
+
+## What We Should Be Talking About Instead
+
+If screen time is not the culprit, what does shape outcomes for autistic children?
+
+Early identification and access to appropriate support. Not compliance-based behavioral therapy, but occupational therapy, speech therapy, and educational environments that accommodate rather than correct. Family support that includes both the child and the caregivers. Access to autistic community, where children can see themselves reflected.
+
+Socioeconomic factors matter enormously. Families under financial stress face compounding barriers to all of the above. That is where the research is pointing. That is where the conversation should go.
+
+Your child's relationship with screens is not evidence of harm you caused. It may be evidence of a child finding their own form of regulation in a world that is not always built for them. Understanding that is more useful than fear.
+
+---
+
+**Sources**
+- JAMA 2025 study on screen time, autism, and socioeconomic factors
+- Moore and Hill 2024 study on autistic traits and screen-seeking behavior
+
+**More from WeBearish**
+- [Stimming: What It Is and Why You Should Leave It Alone](/stimming-leave-it-alone)
+- [Sensory Processing: What It Actually Feels Like](/sensory-processing-from-the-inside)
+- [Join the WeBearish Community](/community)`,
+  },
+  {
+    slug: 'community-led-autism-science-pennsylvania-2026',
+    title: 'Parents and Researchers in Pennsylvania Are Building Autism Science From the Ground Up',
+    description: 'A new independent autism science committee in Pennsylvania puts families and community members at the table, not just as subjects of research, but as co-designers of it.',
+    date: 'March 13, 2026',
+    readTime: '4 min read',
+    category: 'Advocacy',
+    content: `One of the most consistent critiques from the autistic community is that autism research has historically been done to autistic people, not with them. Researchers design the studies. Families are sometimes consulted. Autistic people are often the data.
+
+That is changing. And what is happening in Pennsylvania right now is a signal of where this is going.
+
+## The Independent Committee
+
+Researchers and parents in Pennsylvania are co-founding an independent autism science committee, reported by WESA and WHYY in March 2026. The structure is significant: community members are not being invited after the research agenda is set. They are at the table when the agenda is written.
+
+This is not a cosmetic inclusion exercise. The committee is designed to give families and autistic people substantive influence over which questions autism science pursues, which outcomes are measured, and whose definition of "improvement" counts.
+
+## Why This Matters
+
+The priorities of autism research and the priorities of autistic people have historically diverged. Research funding has disproportionately gone toward causation and cure. Autistic people and their families, when surveyed, consistently prioritize quality of life, communication access, sensory support, employment, and mental health.
+
+The Independent Autism Coordinating Committee (I-ACC), launched March 3, 2026, represents a similar push at the national level: a body designed to ensure that autism science serves the community it is studying.
+
+Community-led science is not a rejection of rigor. It is a correction to a research ecosystem that has spent decades asking the wrong questions because the people who fund and design research are not the ones who live with the answers.
+
+## The WeBearish Connection
+
+This is exactly the movement WeBearish is part of. Not just content or community events, but a fundamental reorientation: autistic people and their families as agents in their own story, not subjects of someone else's.
+
+The Pennsylvania committee is early. It will face the institutional friction that every challenge to research orthodoxy faces. But the direction is right. And when community-led science produces research that actually reflects what the community needs, the gap between what autism science studies and what autism families live will finally start to close.
+
+We are watching this. We will report what happens.
+
+---
+
+**Sources**
+- WESA / WHYY, March 13, 2026: Pennsylvania researchers and parents forming independent autism science committee
+- I-ACC launch, March 3, 2026
+
+**More from WeBearish**
+- [The Neurodiversity Movement: Where It Came From](/neurodiversity-movement-history)
+- [Autism Awareness vs. Acceptance in Practice](/autism-acceptance-vs-awareness-practical)
+- [Join the WeBearish Community](/community)`,
   },
 ];
