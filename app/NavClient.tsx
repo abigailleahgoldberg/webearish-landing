@@ -99,10 +99,15 @@ export default function NavClient() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  const drawerRef = useRef<HTMLDivElement>(null);
+
   // Close dropdown on outside click
   useEffect(() => {
     const handler = (e: MouseEvent) => {
-      if (navRef.current && !navRef.current.contains(e.target as Node)) {
+      const target = e.target as Node;
+      const inNav = navRef.current && navRef.current.contains(target);
+      const inDrawer = drawerRef.current && drawerRef.current.contains(target);
+      if (!inNav && !inDrawer) {
         setOpen(null);
         setMobileOpen(false);
       }
@@ -299,6 +304,7 @@ export default function NavClient() {
 
       {/* Mobile menu drawer */}
       <div
+        ref={drawerRef}
         style={{
           position: "fixed",
           top: 64,
