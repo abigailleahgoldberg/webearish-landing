@@ -4,6 +4,7 @@ import Script from 'next/script';
 import NavClient from './NavClient';
 import AutismChatbot from './components/AutismChatbot';
 import Footer from './Footer';
+import NetworkBar from './components/NetworkBar';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://webearish.com'),
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name='facebook-domain-verification' content='' />
       </head>
       <body>
+        <NetworkBar />
         <NavClient />
         <main>{children}</main>
         <Footer />
