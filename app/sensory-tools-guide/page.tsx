@@ -62,7 +62,7 @@ export default function SensoryToolsGuidePage() {
         {categories.map(cat => (
           <div key={cat.name} style={{ marginBottom: 56 }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8 }}>
-              <span style={{ fontSize: 28 }}>{cat.emoji}</span>
+              <span style={{ width: 16, height: 16, borderRadius: '50%', background: '#B8E887', display: 'inline-block', flexShrink: 0 }} />
               <h2 style={{ fontSize: 26, fontWeight: 900, color: '#B8E887', margin: 0 }}>{cat.name}</h2>
             </div>
             <p style={{ color: 'rgba(250,250,248,0.4)', fontSize: 14, marginBottom: 20, marginLeft: 40 }}>{cat.desc}</p>
