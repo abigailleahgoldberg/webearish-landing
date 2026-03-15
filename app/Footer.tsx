@@ -34,8 +34,11 @@ export default function Footer() {
               <Image src="/bear-logo.png" alt="WeBearish" width={36} height={36} />
               <span style={{ fontWeight:900, fontSize:20, color:"var(--lime)", letterSpacing:"-0.5px" }}>WeBearish</span>
             </div>
-            <p style={{ fontSize:14, fontWeight:700, lineHeight:1.75, color:"rgba(255,255,255,0.4)", maxWidth:240, marginBottom:24 }}>
+            <p style={{ fontSize:14, fontWeight:700, lineHeight:1.75, color:"rgba(255,255,255,0.4)", maxWidth:240, marginBottom:12 }}>
               A movement rooted in love, built to grow. Everything we make, we put back into building more.
+            </p>
+            <p style={{ fontSize:11, fontWeight:700, lineHeight:1.6, color:"rgba(184,232,135,0.5)", letterSpacing:"0.5px", marginBottom:24 }}>
+              We are not doctors. We are advocates. Nothing on this site constitutes medical advice.
             </p>
             <div style={{ display:"flex", gap:12 }}>
               <a href="https://x.com/webearish" target="_blank" rel="noopener noreferrer" style={{ width:36, height:36, background:"rgba(184,232,135,0.08)", border:"1px solid rgba(184,232,135,0.15)", display:"flex", alignItems:"center", justifyContent:"center", color:"rgba(184,232,135,0.6)", textDecoration:"none", transition:"all 0.2s" }}

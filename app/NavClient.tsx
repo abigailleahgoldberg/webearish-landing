@@ -347,6 +347,11 @@ export default function NavClient() {
         </div>
       </div>
 
+      {/* Advocate disclaimer bar */}
+      <div className="wb-advocate-bar">
+        <p>We are not doctors. We are advocates. Nothing on this site constitutes medical advice.</p>
+      </div>
+
       {/* Nav CSS */}
       <style>{`
         .wb-nav-hamburger { display: none !important; }
@@ -354,7 +359,9 @@ export default function NavClient() {
           .wb-nav-desktop { display: none !important; }
           .wb-nav-hamburger { display: flex !important; }
         }
-        body { padding-top: 64px; }
+        body { padding-top: 88px; }
+        .wb-advocate-bar { background: rgba(15,26,15,0.95); border-bottom: 1px solid rgba(184,232,135,0.08); padding: 6px 24px; text-align: center; position: fixed; top: 64px; left: 0; right: 0; z-index: 199; }
+        .wb-advocate-bar p { font-size: 11px; font-weight: 700; color: rgba(184,232,135,0.45); letter-spacing: 0.5px; margin: 0; }
       `}</style>
     </>
   );

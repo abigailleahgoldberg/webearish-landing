@@ -634,7 +634,7 @@ export default function HomeClient() {
           </div>
           <div style={{ borderTop: `1px solid ${LIME}15`, paddingTop: 24, display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap', gap: 12, fontSize: 12, color: 'rgba(250,250,248,0.25)' }}>
             <div>© 2025 WeBearish. All rights reserved. WeBearish is not a nonprofit. Profits are reinvested into the mission.</div>
-            <div>Built by parents. For families. For the children.</div>
+            <div style={{ color: 'rgba(184,232,135,0.4)' }}>We are not doctors. We are advocates. Nothing on this site constitutes medical advice.</div>
           </div>
         </div>
       </footer>
