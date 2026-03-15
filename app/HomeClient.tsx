@@ -362,14 +362,12 @@ export default function HomeClient() {
         <h2 style={{ fontSize: 'clamp(26px,4vw,44px)', fontWeight: 900, lineHeight: 1.1, letterSpacing: '-1px', marginBottom: 40, maxWidth: 560 }}>
           A family that sticks<br/>together is <span style={{ color: LIME }}>unstoppable.</span>
         </h2>
-        <div className="wb-photo-grid" style={{ display: 'grid', gridTemplateColumns: '2fr 1fr 1fr', gap: 12, marginBottom: 48 }}>
+        <div className="wb-photo-grid" style={{ display: 'grid', gridTemplateColumns: '2fr 1fr', gap: 12, marginBottom: 48 }}>
           <div style={{ gridRow: 'span 2' }}>
             <Image src="/bears/bears-together.jpg" alt="Bears together" width={600} height={480} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
           </div>
           <Image src="/bears/bear-tree.jpg" alt="Bear scratching tree" width={280} height={230} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
-          <Image src="/bears/bears-cubs.jpg" alt="Bear cubs" width={280} height={230} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
           <Image src="/bears/bear-forest.jpg" alt="Bear walking through forest" width={280} height={230} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
-          <Image src="/bears/bears-cubs2.jpg" alt="Bear cubs playing" width={280} height={230} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
           <div className="wb-coral-cta" style={{ gridColumn: '1 / -1', background: CORAL, padding: '24px 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16 }}>
             <div style={{ fontSize: 20, fontWeight: 900, color: CREAM, lineHeight: 1.3 }}>Every purchase funds the mission directly.<br/><span style={{ fontSize: 14, fontWeight: 600, opacity: 0.8 }}>100% of profits reinvested into programs for autistic children.</span></div>
             <Link href="/shop" style={{ background: DARK, color: CREAM, fontWeight: 900, fontSize: 14, padding: '14px 28px', textDecoration: 'none', letterSpacing: '1px', whiteSpace: 'nowrap' }}>SHOP NOW →</Link>
