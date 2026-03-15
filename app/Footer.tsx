@@ -88,8 +88,8 @@ export default function Footer() {
               <a href="https://www.thevoiceofcash.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>The Voice of Cash</a>
               <a href="https://u-god.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>U-God Sacred Texts</a>
               <a href="https://aiskillsagents.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>AI Skills Agents</a>
-              <a href="https://autismacceptance.world" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>Autism Acceptance World</a>
               <a href="https://jewsa.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>JewSA</a>
+              <a href="https://thevoiceofcash.com/network" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(184,232,135,0.5)", fontWeight:700, fontSize:13, textDecoration:"none" }}>Full Network →</a>
             </div>
           </div>
         </div>
