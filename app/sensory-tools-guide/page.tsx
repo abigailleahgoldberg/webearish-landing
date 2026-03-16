@@ -86,6 +86,10 @@ export default function SensoryToolsGuidePage() {
         <p style={{ color: 'rgba(250,250,248,0.4)', fontSize: 15, marginBottom: 20 }}>
           These tools help. Acceptance helps more. Read more on the WeBearish blog.
         </p>
+        <p style={{ color: 'rgba(250,250,248,0.35)', fontSize: 14, marginBottom: 24, maxWidth: 560, margin: '0 auto 24px' }}>
+          For the adult perspective on sensory processing — how autistic adults experience sensory differences and build sensory-safe lives — visit{' '}
+          <a href="https://autismacceptance.world/sensory-processing" target="_blank" rel="noopener noreferrer" style={{ color: '#B8E887' }}>autismacceptance.world/sensory-processing</a>.
+        </p>
         <a href="/blog" style={{ display: 'inline-block', background: '#B8E887', color: '#0F1A0F', fontWeight: 900, fontSize: 14, padding: '14px 36px', textDecoration: 'none', letterSpacing: '1px' }}>
           READ THE BLOG
         </a>

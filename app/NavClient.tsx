@@ -359,9 +359,13 @@ export default function NavClient() {
           .wb-nav-desktop { display: none !important; }
           .wb-nav-hamburger { display: flex !important; }
         }
-        body { padding-top: 88px; }
-        .wb-advocate-bar { background: rgba(15,26,15,0.95); border-bottom: 1px solid rgba(184,232,135,0.08); padding: 6px 24px; text-align: center; position: fixed; top: 64px; left: 0; right: 0; z-index: 199; }
+        body { padding-top: 92px; }
+        .wb-advocate-bar { background: rgba(15,26,15,0.95); border-bottom: 1px solid rgba(184,232,135,0.08); padding: 10px 24px; text-align: center; position: fixed; top: 64px; left: 0; right: 0; z-index: 199; }
         .wb-advocate-bar p { font-size: 11px; font-weight: 700; color: rgba(184,232,135,0.45); letter-spacing: 0.5px; margin: 0; }
+        @media (max-width: 480px) {
+          .wb-advocate-bar { padding: 10px 16px; }
+          .wb-advocate-bar p { font-size: 10px; letter-spacing: 0; }
+        }
       `}</style>
     </>
   );

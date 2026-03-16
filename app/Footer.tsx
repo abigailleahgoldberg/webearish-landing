@@ -85,6 +85,7 @@ export default function Footer() {
           <div>
             <p style={{ fontSize:11, fontWeight:900, color:"var(--lime)", letterSpacing:"2px", textTransform:"uppercase", marginBottom:20 }}>Our Network</p>
             <div style={{ display:"flex", flexDirection:"column", gap:10 }}>
+              <a href="https://autismacceptance.world" target="_blank" rel="noopener noreferrer" style={{ color:"var(--lime)", fontWeight:800, fontSize:13, textDecoration:"none" }}>Autism Acceptance World →</a>
               <a href="https://www.thevoiceofcash.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>The Voice of Cash</a>
               <a href="https://u-god.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>U-God Sacred Texts</a>
               <a href="https://aiskillsagents.com" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>AI Skills Agents</a>
@@ -95,6 +96,15 @@ export default function Footer() {
         </div>
       </div>
 
+
+      {/* ── FOR AUTISTIC ADULTS BAR ────────────────── */}
+      <div style={{ background:"rgba(184,232,135,0.04)", borderTop:"1px solid rgba(184,232,135,0.08)", borderBottom:"1px solid rgba(184,232,135,0.08)", padding:"20px 32px", textAlign:"center" }}>
+        <p style={{ fontSize:14, color:"rgba(250,250,248,0.45)", margin:0 }}>
+          For Autistic Adults →{" "}
+          <a href="https://autismacceptance.world" target="_blank" rel="noopener noreferrer" style={{ color:"var(--lime)", fontWeight:800, textDecoration:"none" }}>autismacceptance.world</a>
+          {" "}— The adult autism resource built by and for autistic adults.
+        </p>
+      </div>
 
       {/* ── BOTTOM BAR ──────────────────────────────── */}
       <div style={{ borderTop:"1px solid rgba(184,232,135,0.06)", padding:"20px 32px", maxWidth:1200, margin:"0 auto", display:"flex", justifyContent:"space-between", alignItems:"center", flexWrap:"wrap", gap:12 }}>

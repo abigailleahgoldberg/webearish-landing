@@ -7,6 +7,13 @@ export default function ParentsPageClient() {
         <span style={{ fontSize: 11, letterSpacing: "3px", color: "var(--lime)", fontWeight: 700 }}>FOR PARENTS</span>
         <h1 style={{ fontSize: "clamp(28px,4vw,52px)", fontWeight: 900, letterSpacing: "-2px", margin: "12px 0 16px" }}>Parent Hub</h1>
         <p style={{ fontSize: 16, color: "rgba(250,250,248,0.55)", maxWidth: 600, lineHeight: 1.7, marginBottom: 48 }}>Resources for parents navigating diagnosis, services, school systems, and daily life with autistic children.</p>
+        <div style={{ background: "rgba(184,232,135,0.04)", border: "1px solid rgba(184,232,135,0.1)", borderLeft: "3px solid #B8E887", padding: "20px 24px", marginBottom: 32, borderRadius: 4 }}>
+          <p style={{ fontSize: 14, color: "rgba(250,250,248,0.6)", lineHeight: 1.7, margin: 0 }}>
+            Autistic adults share their lived experience at{' '}
+            <a href="https://autismacceptance.world" target="_blank" rel="noopener noreferrer" style={{ color: "#B8E887", fontWeight: 700 }}>autismacceptance.world</a>.
+            Understanding the adult autistic experience can help you support your child today — and prepare them for the future.
+          </p>
+        </div>
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: 16, marginBottom: 64 }}>
           {[
             { href: "/parents/self-care", title: "Parent Self-Care", desc: "Caregiver burnout, respite care, and the resources you need to keep going." },

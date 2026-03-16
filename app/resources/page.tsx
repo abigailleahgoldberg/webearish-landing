@@ -57,6 +57,16 @@ const RESOURCES = [
     ]
   },
   {
+    category:"For Autistic Adults",
+    color:"var(--lime-dark)",
+    items:[
+      { name:"Autism Acceptance World", url:"https://autismacceptance.world", desc:"The adult autism resource. Late diagnosis, masking, burnout, workplace rights, mental health — built for autistic adults, by people who get it." },
+      { name:"AAW: Late Diagnosis Guide", url:"https://autismacceptance.world/late-diagnosis", desc:"Getting an autism diagnosis as an adult: what it means, what it doesn't change, and practical next steps." },
+      { name:"AAW: Autistic Burnout", url:"https://autismacceptance.world/autistic-burnout", desc:"Autistic burnout is not regular burnout. What it actually is, what causes it, and what helps." },
+      { name:"AAW: Therapist Directory", url:"https://autismacceptance.world/therapist-directory", desc:"Finding an autism-affirming therapist: green flags, red flags, and directories to search." },
+    ]
+  },
+  {
     category:"Mental Health & Support",
     color:"var(--sky-dark)",
     items:[

@@ -141,11 +141,21 @@ export default function HomeClient() {
           .wb-hero-bear { display: none !important; }
           .wb-hero-left { padding: clamp(48px,8vw,80px) 24px !important; }
 
-          /* Midnight headline — allow wrapping */
-          .wb-midnight-h2 { white-space: normal !important; font-size: clamp(28px,7vw,44px) !important; letter-spacing: -0.5px !important; }
+          /* Midnight headline — allow wrapping, no overflow */
+          .wb-midnight-h2 { white-space: normal !important; font-size: clamp(24px,7vw,40px) !important; letter-spacing: -0.5px !important; overflow-wrap: break-word !important; word-break: break-word !important; }
+
+          /* FROM THE COMMUNITY section: ensure left padding */
+          .wb-community-section { padding-left: 20px !important; padding-right: 20px !important; overflow: hidden !important; }
+          .wb-community-header { max-width: 100% !important; overflow: hidden !important; }
 
           /* Notes grid: stack */
           .wb-notes-grid { grid-template-columns: 1fr !important; }
+
+          /* Notes cards: ensure proper padding */
+          .wb-note-card { padding: 18px 16px !important; }
+
+          /* Share form: full width on mobile */
+          .wb-share-form { width: 100% !important; }
 
           /* Photo grid: stack */
           .wb-photo-grid { grid-template-columns: 1fr !important; }
@@ -173,6 +183,8 @@ export default function HomeClient() {
         }
         @media (max-width: 480px) {
           .wb-footer-silo-grid { grid-template-columns: 1fr !important; }
+          /* Tighter sections on small phones */
+          .wb-community-section { padding-left: 16px !important; padding-right: 16px !important; }
         }
       `}</style>
 
@@ -245,14 +257,16 @@ export default function HomeClient() {
       </section>
 
       {/* THE HUMAN VOICE — Parent note + anonymous */}
-      <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', maxWidth: 1200, margin: '0 auto' }}>
-        <div style={{ maxWidth: 720, marginBottom: 20 }}>
+      <section className="wb-community-section" style={{ padding: 'clamp(60px,8vw,100px) 5vw', maxWidth: 1200, margin: '0 auto', overflow: 'hidden' }}>
+        <div className="wb-community-header" style={{ maxWidth: 720, marginBottom: 20 }}>
           <div style={{ fontSize: 11, letterSpacing: '3px', color: CORAL, fontWeight: 800, marginBottom: 20 }}>FROM THE COMMUNITY</div>
           <h2 className="wb-midnight-h2" style={{ fontSize: 'clamp(32px,5vw,64px)', fontWeight: 900, lineHeight: 1.05, letterSpacing: '-1.5px', marginBottom: 16, whiteSpace: 'nowrap' }}>
             The notes parents write at <span style={{ color: CORAL }}>midnight.</span>
           </h2>
           <p style={{ fontSize: 16, color: 'rgba(250,250,248,0.5)', lineHeight: 1.7 }}>
             These are real words from real families. No names. No polish. Just the truth of what it feels like to love an autistic child in a world that does not always love them back.
+            For resources built for autistic adults themselves, visit{' '}
+            <a href="https://autismacceptance.world" target="_blank" rel="noopener noreferrer" style={{ color: LIME, fontWeight: 700 }}>autismacceptance.world</a>.
           </p>
         </div>
 
@@ -509,7 +523,7 @@ export default function HomeClient() {
               {
                 label: 'For Families',
                 color: YELLOW,
-                desc: 'School rights, IEPs, sibling support, safety, meltdowns — real help for real families.',
+                desc: 'School rights, IEPs, sibling support, safety, meltdowns — real help for real families. For adult autistic voices, see autismacceptance.world.',
                 links: [['School Rights & IEP', '/iep'], ['For Parents', '/parents'], ['Siblings', '/autism-and-siblings'], ['Safety', '/safety']],
                 cta: 'Explore →', href: '/parents',
               },
