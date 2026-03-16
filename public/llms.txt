@@ -78,6 +78,50 @@ WeBearish.com is a comprehensive autism resource hub for parents, caregivers, au
 - https://webearish.com/gender : Autism and Gender
 - https://webearish.com/siblings : Siblings Guide
 - https://webearish.com/community : Community
+
+## Tier 1 Deep Sub-Pages
+
+### Autism & Anxiety
+- https://webearish.com/autism-and-anxiety/types : Types of Anxiety in Autistic Children
+- https://webearish.com/autism-and-anxiety/coping : Coping Strategies That Actually Work
+- https://webearish.com/autism-and-anxiety/when-to-seek-help : When to Seek Help for Anxiety
+- https://webearish.com/autism-and-anxiety/at-school : Managing Anxiety at School
+- https://webearish.com/autism-and-anxiety/at-home : Creating a Low-Anxiety Home
+
+### Sleep Guide
+- https://webearish.com/autism-sleep-guide/environment : Building the Perfect Sleep Environment
+- https://webearish.com/autism-sleep-guide/routines : Bedtime Routines That Work
+- https://webearish.com/autism-sleep-guide/melatonin : The Melatonin Guide for Parents
+- https://webearish.com/autism-sleep-guide/sensory-tools : Sensory Sleep Tools
+- https://webearish.com/autism-sleep-guide/by-age : Sleep Strategies by Age
+
+### Social Skills
+- https://webearish.com/autism-social-skills/making-friends : Making Friends as an Autistic Child
+- https://webearish.com/autism-social-skills/playground : Navigating the Playground
+- https://webearish.com/autism-social-skills/structured-vs-unstructured : Structured vs Unstructured Social Time
+- https://webearish.com/autism-social-skills/online : Online Socializing and Gaming
+- https://webearish.com/autism-social-skills/scripts : Social Scripts and When They Help
+
+### Nonverbal Autism
+- https://webearish.com/nonverbal-autism/aac-devices : AAC Devices: A Complete Guide
+- https://webearish.com/nonverbal-autism/sign-language : Sign Language for Autistic Children
+- https://webearish.com/nonverbal-autism/pecs : PECS (Picture Exchange Communication System)
+- https://webearish.com/nonverbal-autism/supporting-communication : Supporting Communication Every Day
+- https://webearish.com/nonverbal-autism/presuming-competence : Presuming Competence: Why It Matters
+
+### Sensory Tools
+- https://webearish.com/sensory-tools-guide/visual : Visual Sensory Tools
+- https://webearish.com/sensory-tools-guide/auditory : Auditory Sensory Tools
+- https://webearish.com/sensory-tools-guide/tactile : Tactile & Touch Sensory Tools
+- https://webearish.com/sensory-tools-guide/proprioceptive : Proprioceptive & Vestibular Tools
+- https://webearish.com/sensory-tools-guide/budget : Sensory Tools on a Budget
+
+### Meltdowns
+- https://webearish.com/meltdown-vs-tantrum/before : Before a Meltdown: Early Warning Signs
+- https://webearish.com/meltdown-vs-tantrum/during : During a Meltdown: What to Do
+- https://webearish.com/meltdown-vs-tantrum/after : After a Meltdown: Recovery and Reconnection
+- https://webearish.com/meltdown-vs-tantrum/shutdown : Shutdowns: The Silent Meltdown
+- https://webearish.com/meltdown-vs-tantrum/in-public : Meltdowns in Public: A Parent's Guide
 - https://webearish.com/voices : Autistic Voices
 - https://webearish.com/conditions : Co-occurring Conditions
 - https://webearish.com/glossary : Autism Glossary
