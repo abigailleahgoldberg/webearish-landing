@@ -1,0 +1,13 @@
+{
+  "name": "WeBearish",
+  "short_name": "WeBearish",
+  "description": "Autism Acceptance Through Community — resources, merch, and movement for autistic children and their families.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1A0F",
+  "theme_color": "#2563EB",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" },
+    { "src": "/bear-logo.png", "sizes": "any", "type": "image/png" }
+  ]
+}

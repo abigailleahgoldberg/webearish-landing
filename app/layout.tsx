@@ -37,6 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <meta name='linkedin:owner' content='The Voice of Cash' />
         <meta property='og:image:type' content='image/png' />
         <meta name='facebook-domain-verification' content='' />
+        <link rel='manifest' href='/site.webmanifest' />
       </head>
       <body>
         <NetworkBar />
