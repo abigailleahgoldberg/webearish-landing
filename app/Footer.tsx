@@ -117,6 +117,14 @@ export default function Footer() {
         <p style={{ fontSize:13, fontWeight:700, color:"rgba(255,255,255,0.25)" }}>
           2026 WeBearish. A movement, not just a brand.
         </p>
+        <div style={{ display:"flex", gap:16, flexWrap:"wrap" }}>
+          {([{label:"Privacy",href:"/privacy"},{label:"Terms",href:"/terms"},{label:"Disclaimer",href:"/disclaimer"},{label:"Returns",href:"/returns"},{label:"DMCA",href:"/dmca"}]).map(l => (
+            <Link key={l.href} href={l.href} style={{ fontSize:12, fontWeight:700, color:"rgba(184,232,135,0.3)", textDecoration:"none" }}
+              onMouseEnter={e=>(e.currentTarget.style.color="var(--lime)")} onMouseLeave={e=>(e.currentTarget.style.color="rgba(184,232,135,0.3)")}>
+              {l.label}
+            </Link>
+          ))}
+        </div>
         <p style={{ fontSize:13, fontWeight:700, color:"rgba(184,232,135,0.35)" }}>
           Baby steps. Big dreams.
         </p>
