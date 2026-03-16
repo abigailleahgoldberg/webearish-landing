@@ -72,6 +72,12 @@ export default function Footer() {
             <div style={{ padding:"14px 16px", background:"rgba(184,232,135,0.06)", borderLeft:"3px solid var(--lime)" }}>
               <span style={{ fontSize:11, fontWeight:900, letterSpacing:"1.5px", textTransform:"uppercase", color:"var(--lime)" }}>We Reinvest Everything</span>
             </div>
+            <div style={{ marginTop:20 }}>
+              <p style={{ fontSize:11, fontWeight:900, color:"var(--lime)", letterSpacing:"2px", textTransform:"uppercase", marginBottom:12 }}>Resources</p>
+              <a href="https://autisticadvocacy.org" target="_blank" rel="noopener noreferrer" style={{ display:"block", color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none", marginBottom:8 }}>Autistic Self Advocacy Network →</a>
+              <a href="https://www.cdc.gov/autism" target="_blank" rel="noopener noreferrer" style={{ display:"block", color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none", marginBottom:8 }}>CDC Autism Data & Research →</a>
+              <a href="https://awnnetwork.org" target="_blank" rel="noopener noreferrer" style={{ display:"block", color:"rgba(255,255,255,0.4)", fontWeight:700, fontSize:13, textDecoration:"none" }}>Autistic Women & Nonbinary Network →</a>
+            </div>
           </div>
 
           {/* Contact */}

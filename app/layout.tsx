@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     site: '@webearish',
     creator: '@webearish',
   },
+  alternates: {
+    canonical: 'https://webearish.com',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

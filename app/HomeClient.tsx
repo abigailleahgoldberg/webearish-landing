@@ -101,6 +101,7 @@ export default function HomeClient() {
 
   return (
     <div style={{ background: DARK, color: CREAM, fontFamily: "'Nunito', system-ui, sans-serif", overflowX: 'hidden' }}>
+      <OrganizationSchema />
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap');
         * { margin: 0; padding: 0; box-sizing: border-box; }
