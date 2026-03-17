@@ -326,8 +326,8 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Nunito', sans-serif; font-weight: 900; line-he
   /* General container padding */
   .wb-container { padding: 0 20px !important; }
 
-  /* Section padding */
-  section { padding-left: 0 !important; padding-right: 0 !important; }
+  /* Section padding — enforce minimum side breathing room on mobile */
+  section { padding-left: max(20px, 5vw) !important; padding-right: max(20px, 5vw) !important; }
 
   /* Press strip */
   .wb-press-strip { flex-direction: column !important; gap: 12px !important; }
@@ -402,4 +402,11 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Nunito', sans-serif; font-weight: 900; line-he
 
   /* Timeline 1 col */
   .wb-how-grid { grid-template-columns: 1fr !important; }
+}
+
+/* ── SMALL SCREEN EDGE PROTECTION ──────────────────── */
+@media (max-width: 480px) {
+  section { padding-left: 18px !important; padding-right: 18px !important; }
+  h1, h2, h3, p { overflow-wrap: break-word; word-break: break-word; }
+  .wb-container { padding: 0 18px !important; }
 }

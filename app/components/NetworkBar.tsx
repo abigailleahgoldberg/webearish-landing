@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 const LINKS = [
   { label: "AutismAcceptance.world", href: "https://autismacceptance.world" },
-  { label: "The Voice of Cash", href: "https://thevoiceofcash.com" },
+  { label: "AI Skills Agents", href: "https://aiskillsagents.com" },
 ];
 
 export default function NetworkBar() {
@@ -36,7 +36,7 @@ export default function NetworkBar() {
       fontFamily: "'Nunito', sans-serif",
     }}>
       <span style={{ color: "rgba(255,255,255,0.4)", whiteSpace: "nowrap" }}>
-        Part of The Voice of Cash Network
+        WeBearish Network
       </span>
       <div style={{ display: "flex", gap: 16, alignItems: "center" }}>
         {LINKS.map((l) => (
