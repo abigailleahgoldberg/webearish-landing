@@ -83,8 +83,21 @@ export default function ShopPageClient({ products, isLive, storeUrl, kidsCount =
                     <img src={img.url} alt={img.altText || p.title} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
                   </div>
                 ) : (
-                  <div style={{ width: "100%", aspectRatio: "1", background: "rgba(184,232,135,0.08)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 48 }}>
-                    🐻
+                  <div style={{ width: "100%", aspectRatio: "1", background: "linear-gradient(135deg, rgba(184,232,135,0.06) 0%, rgba(15,26,15,0.4) 100%)", display: "flex", alignItems: "center", justifyContent: "center", position: "relative", overflow: "hidden" }}>
+                    {/* Product type label */}
+                    <div style={{ position: "absolute", top: 12, left: 12, fontSize: 9, fontWeight: 700, letterSpacing: "1.5px", color: "rgba(184,232,135,0.5)", textTransform: "uppercase" }}>{p.productType}</div>
+                    {/* Bear SVG */}
+                    <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style={{ width: "52%", opacity: 0.18 }}>
+                      <circle cx="28" cy="28" r="14" fill="#B8E887"/>
+                      <circle cx="72" cy="28" r="14" fill="#B8E887"/>
+                      <circle cx="50" cy="52" r="30" fill="#B8E887"/>
+                      <ellipse cx="50" cy="88" rx="22" ry="14" fill="#B8E887"/>
+                      <circle cx="42" cy="48" r="4" fill="#0F1A0F"/>
+                      <circle cx="58" cy="48" r="4" fill="#0F1A0F"/>
+                      <ellipse cx="50" cy="57" rx="6" ry="4" fill="#0F1A0F"/>
+                    </svg>
+                    {/* Price watermark */}
+                    <div style={{ position: "absolute", bottom: 12, right: 14, fontSize: 18, fontWeight: 900, color: "rgba(184,232,135,0.35)", letterSpacing: "-0.5px" }}>${p.minPrice}</div>
                   </div>
                 )}
 
