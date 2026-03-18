@@ -424,6 +424,79 @@ export default function HomeClient() {
         </div>
       </section>
 
+      {/* ── UGC REFERRAL ENGINE ─────────────────────────────── */}
+      <section style={{ padding: 'clamp(60px,8vw,96px) 5vw', background: '#0a120a', borderTop: `1px solid ${LIME}15`, borderBottom: `1px solid ${LIME}15` }}>
+        <div style={{ maxWidth: 1100, margin: '0 auto' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 'clamp(32px,6vw,80px)', alignItems: 'center' }} className="wb-referral-grid">
+            {/* LEFT — copy */}
+            <div>
+              <div style={{ fontSize: 10, letterSpacing: '3px', color: LIME, marginBottom: 14, fontWeight: 800 }}>THE MOVEMENT GROWS WHEN YOU SHARE IT</div>
+              <h2 style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900, fontSize: 'clamp(26px,4vw,42px)', lineHeight: 1.15, marginBottom: 16, color: CREAM }}>
+                Tag Your Acceptance Moment.<br />
+                <span style={{ color: LIME }}>Get 20% Off Your Next Order.</span>
+              </h2>
+              <p style={{ fontSize: 15, color: 'rgba(250,250,248,0.55)', lineHeight: 1.8, marginBottom: 28 }}>
+                Post a photo wearing your WeBearish gear. Tag <strong style={{ color: 'rgba(184,232,135,0.85)' }}>@webearish</strong> and use <strong style={{ color: 'rgba(184,232,135,0.85)' }}>#AcceptanceNotAwareness</strong>. We&apos;ll DM you a 20% discount code within 24 hours. Every post grows the movement. Every share tells another family they&apos;re not alone.
+              </p>
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 12, marginBottom: 32 }}>
+                {[
+                  { step: '01', text: 'Buy any WeBearish item from the store' },
+                  { step: '02', text: 'Post a photo on Instagram or TikTok' },
+                  { step: '03', text: 'Tag @webearish + #AcceptanceNotAwareness' },
+                  { step: '04', text: 'Get 20% off DM\'d to you within 24 hours' },
+                ].map(s => (
+                  <div key={s.step} style={{ display: 'flex', gap: 14, alignItems: 'flex-start' }}>
+                    <div style={{ flexShrink: 0, width: 28, height: 28, background: `${LIME}15`, border: `1px solid ${LIME}30`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 10, fontWeight: 900, color: LIME, letterSpacing: '0.5px' }}>{s.step}</div>
+                    <div style={{ fontSize: 14, color: 'rgba(250,250,248,0.65)', lineHeight: 1.6, paddingTop: 5 }}>{s.text}</div>
+                  </div>
+                ))}
+              </div>
+              <a href="/shop" style={{ background: LIME, color: FOREST, fontWeight: 900, fontSize: 14, padding: '14px 32px', textDecoration: 'none', letterSpacing: '0.5px', display: 'inline-block' }}>
+                SHOP + START SHARING →
+              </a>
+            </div>
+
+            {/* RIGHT — visual UGC mockup */}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+              {/* Mock "post" cards */}
+              {[
+                { handle: '@sarah_autism_mama', caption: 'My son wore this on his first day back at school. He said "Mom, people kept asking about my shirt." That\'s the point. 🐻', tag: '#AcceptanceNotAwareness', likes: '847' },
+                { handle: '@neurodivergent_dad', caption: 'Three years into this journey and WeBearish has become part of how we talk about it. Acceptance isn\'t a word anymore — it\'s a practice.', tag: '#AcceptanceNotAwareness', likes: '1.2k' },
+              ].map((post, i) => (
+                <div key={i} style={{ background: 'rgba(184,232,135,0.04)', border: `1px solid ${LIME}20`, padding: '18px 20px' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
+                    <div style={{ width: 32, height: 32, borderRadius: '50%', background: `${LIME}20`, border: `1px solid ${LIME}30`, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                      <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style={{ width: 18, opacity: 0.6 }}>
+                        <circle cx="28" cy="28" r="14" fill="#B8E887"/>
+                        <circle cx="72" cy="28" r="14" fill="#B8E887"/>
+                        <circle cx="50" cy="52" r="30" fill="#B8E887"/>
+                        <ellipse cx="50" cy="88" rx="22" ry="14" fill="#B8E887"/>
+                      </svg>
+                    </div>
+                    <div style={{ fontSize: 12, fontWeight: 700, color: LIME }}>{post.handle}</div>
+                    <div style={{ marginLeft: 'auto', background: `${LIME}15`, border: `1px solid ${LIME}25`, fontSize: 9, fontWeight: 800, color: LIME, padding: '3px 8px', letterSpacing: '1px' }}>VERIFIED BEAR</div>
+                  </div>
+                  <p style={{ fontSize: 13, color: 'rgba(250,250,248,0.6)', lineHeight: 1.7, marginBottom: 10 }}>{post.caption}</p>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <span style={{ fontSize: 11, color: `${LIME}99`, fontWeight: 700 }}>{post.tag}</span>
+                    <span style={{ fontSize: 11, color: 'rgba(250,250,248,0.3)' }}>♥ {post.likes}</span>
+                  </div>
+                </div>
+              ))}
+              <div style={{ background: `${LIME}08`, border: `2px dashed ${LIME}25`, padding: '20px', textAlign: 'center' }}>
+                <div style={{ fontSize: 11, color: `${LIME}70`, letterSpacing: '2px', fontWeight: 800, marginBottom: 6 }}>YOUR POST COULD BE HERE</div>
+                <div style={{ fontSize: 12, color: 'rgba(250,250,248,0.3)' }}>Tag us @webearish to join the movement</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <style>{`
+          @media (max-width: 768px) {
+            .wb-referral-grid { grid-template-columns: 1fr !important; }
+          }
+        `}</style>
+      </section>
+
       {/* RESOURCE HUB GRID — 2 rows of 6, modern SVG icons */}
       <section style={{ padding: 'clamp(60px,8vw,100px) 5vw', background: FOREST, borderTop: `1px solid ${LIME}22` }}>
         <div style={{ maxWidth: 1200, margin: '0 auto' }}>
