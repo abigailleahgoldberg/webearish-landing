@@ -9,7 +9,52 @@ export interface BlogPost {
 }
 
 
-export const blogPosts: BlogPost[] = [
+export const blogPosts: BlogPost[
+  {
+    slug: 'april-is-autism-acceptance-month-not-awareness',
+    title: 'April Is Autism Acceptance Month. Not Awareness Month. Here Is Why It Matters.',
+    description: 'The shift from awareness to acceptance is not just semantics. It changes what we are actually asking for.',
+    date: 'March 23, 2026',
+    readTime: '5 min read',
+    category: 'Advocacy',
+    content: \`April is Autism Acceptance Month.
+
+You may have seen it called Autism Awareness Month. You may have seen puzzle pieces and the color blue. You may have received emails from organizations asking you to light it up blue. This post is about why the words matter and why the WeBearish community has made a clear choice to center acceptance rather than awareness.
+
+Awareness is a starting point. It means knowing something exists. In 2026, awareness of autism is not the limiting factor. Most people know that autism exists. The science of autism is more developed than it has ever been. The diagnostic rates have increased because the criteria have been refined and because more people, including many adults, are being accurately identified. Awareness is not what autistic people and their families are most missing.
+
+Acceptance is what comes after awareness. It means that what you have become aware of is welcomed, included, and accommodated without needing to be changed or fixed. Acceptance means an autistic child in a classroom is taught in a way that works for their brain, not forced to perform neurotypicality as a condition of being educated. It means an autistic adult applying for a job is evaluated on their capacity to do the work, not on whether they can make comfortable eye contact during the interview. It means the sensory environment of public spaces is designed with the understanding that some people experience sound and light and texture differently.
+
+The puzzle piece symbol was created in 1963 by a parent advocacy organization. It was intended to represent the puzzling nature of autism. The autistic community has broadly rejected it. Not every autistic person objects to it, but the majority of autistic-led organizations have moved away from it because the image of a puzzle implies that autistic people are incomplete or mysterious problems to be solved. That is not what autistic people are.
+
+The color blue was associated with autism awareness because autism was believed to be primarily a condition of boys. That is not accurate. Autism presents differently across genders and autistic girls and women have historically been underdiagnosed because the criteria were developed primarily by studying autistic boys. The blue campaign centered a false assumption.
+
+WeBearish uses the infinity symbol, which the autistic community has adopted as a symbol of neurodiversity: infinite variety in how human brains work, with no type being inherently superior.
+
+This April, the question worth sitting with is not whether you are aware of autism. The question is: what does acceptance actually require from you?\`
+  },
+  {
+    slug: 'what-late-autism-diagnosis-actually-feels-like',
+    title: 'What Getting a Late Autism Diagnosis Actually Feels Like',
+    description: 'Thousands of adults are receiving autism diagnoses in their 30s, 40s, and beyond. Here is what that experience is really like.',
+    date: 'March 23, 2026',
+    readTime: '6 min read',
+    category: 'Personal',
+    content: \`The late autism diagnosis is becoming one of the defining experiences of our generation. It is happening in numbers that would have been hard to predict a decade ago: adults in their thirties, forties, fifties, and beyond are receiving autism diagnoses for the first time and encountering a specific kind of profound reorientation.
+
+The experience is not uniform. It ranges from profound relief to grief to anger to a kind of confused nothing-changes-and-everything-changes. But there are patterns that people who have been through it describe with enough consistency that they are worth naming.
+
+The first thing many people describe is the recognition. Not just intellectual understanding but something more physical, a sense of pieces clicking into place. The childhood experience of not quite fitting, of finding social situations exhausting while others seemed energized by them, of needing to decode rules that others seemed to absorb automatically, of sensory experiences that were overwhelming when they were not supposed to be. All of it suddenly has a framework. It did not mean there was something wrong with you in the way you had been told or had told yourself. It meant your brain was built differently.
+
+The second thing is grief. Not grief about being autistic, though that is part of the picture for some people. Grief about the years before the diagnosis. The therapy that was aimed at fixing something that did not need to be fixed. The relationships that failed because the tools for understanding them were wrong. The jobs that were lost or never pursued. The energy spent on masking, on performing neurotypicality, on making yourself small enough to fit a space that was not designed for you. The grief is not always loud but it is usually present.
+
+The third thing is the question of who to tell and what to expect when you do. The reaction from people who have known you for years is not always what you hope for. Some people say it makes sense, that they always knew there was something different about how you moved through the world. Some people say it explains a lot. Some people say they do not believe in it, or that you do not seem autistic, which tells you more about their assumptions than it tells you about yourself.
+
+The fourth thing, for many people, is a gradual permission to stop performing. To tell people that crowds are genuinely difficult for you without feeling like you are making an excuse. To ask for accommodations without the fear that you are being difficult. To organize your life around how your brain actually works rather than how you were told it should work.
+
+The diagnosis does not change who you are. It changes how you understand who you have always been. That is not a small thing.\`
+  },
+] = [
   {
     slug: 'awareness-is-not-acceptance',
     title: 'Awareness Is Not Acceptance — And the Difference Matters More Than You Think',
