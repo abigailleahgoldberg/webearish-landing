@@ -27,7 +27,7 @@ Disclosure is optional and carries risk. A neurodivergent employee who discloses
 Progressive companies are proactively creating cultures and policies that benefit neurodivergent employees alongside everyone else. Remote work, flexible schedules, clear communication norms, quiet space, written policies, direct feedback — these things help neurodivergent employees and improve outcomes for everyone.`,
     date: '2026-03-24',
     category: 'Workplace',
-    readTime: 6
+    readTime: '6 min read'
   },
   {
     slug: 'autism-acceptance-month-2026-what-it-actually-means',
@@ -44,7 +44,7 @@ For families, Acceptance Month is an opportunity to shift from a deficit-focused
 Autism Acceptance Month is April. Wear autism acceptance symbols if you do. Support actually autistic people and organizations. Listen to autistic voices and let them define what acceptance means.`,
     date: '2026-03-24',
     category: 'Advocacy',
-    readTime: 6
+    readTime: '6 min read'
   },
   {
     slug: 'april-is-autism-acceptance-month-not-awareness',
