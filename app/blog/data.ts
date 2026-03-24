@@ -46,7 +46,6 @@ Autism Acceptance Month is April. Wear autism acceptance symbols if you do. Supp
     category: 'Advocacy',
     readTime: 6
   },
-] = [
   {
     slug: 'april-is-autism-acceptance-month-not-awareness',
     title: 'April Is Autism Acceptance Month. Not Awareness Month. Here Is Why It Matters.',
