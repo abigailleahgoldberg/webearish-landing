@@ -9,7 +9,7 @@ export interface BlogPost {
 }
 
 
-export const blogPosts: BlogPost[
+export const blogPosts: BlogPost[] = [
   {
     slug: 'neurodiversity-workplace-accommodations-2026',
     title: 'Neurodiversity at Work 2026: Reasonable Accommodations and Rights',
