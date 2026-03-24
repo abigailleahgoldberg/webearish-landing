@@ -11,6 +11,43 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[
   {
+    slug: 'neurodiversity-workplace-accommodations-2026',
+    title: 'Neurodiversity at Work 2026: Reasonable Accommodations and Rights',
+    excerpt: 'What employees and employers need to know about accommodations, disclosure, and building inclusive workplaces.',
+    content: `The neurodivergent population now includes millions of diagnosed individuals plus millions more who are undiagnosed or self-diagnosed. Employers increasingly recognize that neurodivergent employees bring different skillsets and perspectives and that small accommodations can unlock significant value. But the conversation is still navigating questions of disclosure, rights, and actual implementation.
+
+The legal framework for workplace accommodations is the ADA in the US and equivalent disability laws in other countries. An employee can request reasonable accommodations if they have a disability — and neurodivergence can qualify as a disability if it significantly impairs major life activities. The employer is legally required to provide accommodations unless doing so causes undue hardship.
+
+What counts as reasonable accommodation is the question. For ADHD, it might be the ability to take movement breaks, use fidget tools, use white noise, or have flexible scheduling for focus time. For autism, it might be low-stimulation break spaces, written communication preferences, or flexibility around meetings and sensory environments. For dyslexia, it might be digital document access and screen reader software. For anxiety disorders, it might be flexibility around triggering situations or clear communication from management.
+
+The challenge is that many accommodations feel basic to neurodivergent employees but feel unusual or burdensome to neurotypical employers who have never encountered them. The training gap is real. Most managers have never been taught how to understand neurodiversity or think through accommodations.
+
+Disclosure is optional and carries risk. A neurodivergent employee who discloses might receive accommodations but might also face stigma or unconscious discrimination. A neurodivergent employee who does not disclose avoids those risks but also cannot access legal accommodations. The decision is deeply personal and context-dependent.
+
+Progressive companies are proactively creating cultures and policies that benefit neurodivergent employees alongside everyone else. Remote work, flexible schedules, clear communication norms, quiet space, written policies, direct feedback — these things help neurodivergent employees and improve outcomes for everyone.`,
+    date: '2026-03-24',
+    category: 'Workplace',
+    readTime: 6
+  },
+  {
+    slug: 'autism-acceptance-month-2026-what-it-actually-means',
+    title: 'Autism Acceptance Month 2026: What It Means and Why It Matters',
+    excerpt: 'April is Autism Acceptance Month in the US. Here is what that means and why the framing matters.',
+    content: `Autism Acceptance Month has replaced Autism Awareness Month in many autism advocacy spaces. The distinction is intentional and important. Awareness can be passive — people can be aware of autism and still hold negative stereotypes, still believe it needs to be cured, still treat autistic people poorly. Acceptance is the actual goal — understanding that autistic people are autistic, that being autistic is not a tragedy, and that the world should accommodate and include autistic people rather than expecting them to hide or change core aspects of how they are.
+
+The autistic community has spent decades clarifying that autism is not something that happened to autistic people, it is something that is intrinsic to who autistic people are. You cannot separate autism from an autistic person. The goal is not cure — it is acceptance and accommodation.
+
+Acceptance Month highlights autistic voices, particularly autistic adults who can speak from lived experience. It challenges harmful stereotypes. It discusses what actually helps autistic people thrive (acceptance, accommodation, understanding) versus what does not help (pressure to mask, pressure to seem neurotypical, pressure to change core traits).
+
+For families, Acceptance Month is an opportunity to shift from a deficit-focused narrative (what the autistic child cannot do) to a strengths-focused narrative (what the autistic child does well, what they need to thrive, how to accommodate). For employers, it is an opportunity to think about how to build workplaces that accommodate autistic employees. For society broadly, it is an opportunity to examine the ways autistic people are excluded and what actual inclusion would look like.
+
+Autism Acceptance Month is April. Wear autism acceptance symbols if you do. Support actually autistic people and organizations. Listen to autistic voices and let them define what acceptance means.`,
+    date: '2026-03-24',
+    category: 'Advocacy',
+    readTime: 6
+  },
+] = [
+  {
     slug: 'april-is-autism-acceptance-month-not-awareness',
     title: 'April Is Autism Acceptance Month. Not Awareness Month. Here Is Why It Matters.',
     description: 'The shift from awareness to acceptance is not just semantics. It changes what we are actually asking for.',
@@ -54,7 +91,6 @@ The fourth thing, for many people, is a gradual permission to stop performing. T
 
 The diagnosis does not change who you are. It changes how you understand who you have always been. That is not a small thing.\`
   },
-] = [
   {
     slug: 'awareness-is-not-acceptance',
     title: 'Awareness Is Not Acceptance — And the Difference Matters More Than You Think',
