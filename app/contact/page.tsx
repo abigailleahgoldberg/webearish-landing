@@ -38,7 +38,7 @@ export default function ContactPage() {
           <div>
             {sent ? (
               <div style={{ background:"var(--forest)", border:"4px solid var(--lime)", padding:"48px", textAlign:"center" }}>
-                <div style={{ fontSize:48, marginBottom:16 }}>🐻</div>
+                <div style={{ fontSize:48, marginBottom:16 }}></div>
                 <h2 style={{ fontSize:32, fontWeight:900, color:"#fff", letterSpacing:"-1.5px", marginBottom:12 }}>Got it. Thank you.</h2>
                 <p style={{ fontSize:16, color:"rgba(255,255,255,0.6)", fontWeight:700 }}>We'll be in touch soon.</p>
               </div>
