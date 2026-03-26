@@ -11,6 +11,121 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'spring-break-autistic-child-what-works',
+    title: 'Spring Break With an Autistic Child: What Works, What Doesn't, and What Nobody Tells You',
+    description: 'Spring break is hard for a specific reason most parenting content never names: it's not a break from school. It's a break from structure. Here's what actually works.',
+    date: '2026-03-26',
+    readTime: '8 min read',
+    category: 'Autism Acceptance & Advocacy',
+    content: `It starts around February.
+
+The school calendar goes home. You see it. Two words: **Spring Break.** And something in your chest tightens a little, because you know what it means. It doesn't mean vacation. It doesn't mean relaxation. It means a week of explaining why the schedule is different. A week of managing transitions that didn't need to happen. A week of keeping a child regulated in a world that refuses to stay still.
+
+If you are parenting an autistic child, you already know this feeling. You are not alone in it.
+
+Spring break is hard for a specific reason that most parenting content never names directly: it is not a break from school. It is a **break from structure.** And for autistic kids, structure is not a luxury. It is the architecture that holds their world together. Remove the architecture, and everything gets harder — for your child, and for you.
+
+This guide is not going to tell you to "just relax and go with the flow." That advice does not work here. What works is preparation, honesty, and knowing what you're actually dealing with.
+
+## Why Routine Disruption Hits So Hard
+
+Before we get to strategies, let's be clear about the mechanism. This isn't a parenting failure. It isn't a behavior problem. It's neurology.
+
+Autistic brains often rely more heavily on predictability than neurotypical brains. When the pattern is stable, the brain can allocate its energy elsewhere: learning, connecting, creating, playing. When the pattern breaks, a significant portion of cognitive and emotional energy gets redirected toward rebuilding a mental map of what is happening and what comes next.
+
+Think of it this way. Every day at school, your child wakes up, goes through a known sequence, arrives at a known place, sees known faces, follows a known schedule. The brain doesn't have to work hard to navigate that. It runs on a kind of autopilot that frees up bandwidth for everything else.
+
+Spring break removes the autopilot. Suddenly the brain has to work harder just to answer the most basic questions: What day is it? What comes next? Who will be there? How long will this last? What does "vacation" mean?
+
+That extra cognitive load doesn't disappear. It accumulates. And when it accumulates, regulation becomes harder. Meltdowns happen more easily. Sleep is disrupted. Appetite changes. The child who seemed to be managing well all semester suddenly looks like a different kid.
+
+None of that is a regression. It is a response to a genuinely harder environment.
+
+## The Mistakes Parents Make (With the Best Intentions)
+
+**Waiting Until the Week Before to Explain**
+
+Many parents mention spring break casually, a few days out, not realizing their child needs significantly more runway to process a major schedule change. Some autistic children need two to three weeks of gradual preparation — not lectures, just consistent exposure to the idea of what's coming.
+
+Start early. Use a visual calendar. Mark the last day of school before break. Mark when break starts. Mark when school resumes. Make the change visible, not abstract.
+
+**Overscheduling the Week**
+
+The temptation is understandable. You want to make it good. You book the theme park, the aquarium, the sleepover at Grandma's, the day trip to the beach, the birthday party for a cousin. You want your child to have memories.
+
+What you often get instead is a child who is exhausted and dysregulated by Wednesday and spending the second half of the week in recovery mode.
+
+Less is more. Pick two or three things your child genuinely enjoys. Leave space for nothing — unstructured, low-stimulation time at home. The "nothing" days are often the ones they remember most fondly.
+
+**Abandoning All Structure Entirely**
+
+For some families, spontaneity works beautifully. For others, it removes the one thing keeping things stable. Keep some anchors — a consistent wake time, a recognizable breakfast routine, a wind-down sequence before bed — and the week becomes manageable.
+
+Think of structure not as rigidity, but as handrails. You don't have to follow every rule. But when the path gets uncertain, the handrails are there.
+
+**Underestimating Sensory Load**
+
+Spring is a sensory gauntlet. Unpredictable weather, Easter decorations, crowded stores and playgrounds. If your child has sensory sensitivities, the spring break environment can be relentlessly demanding. Plan for this. Pack sensory tools. Build in decompression time after high-stimulation outings.
+
+## What Actually Works
+
+**Build a Spring Break Visual Schedule**
+
+A simple chart showing what each day looks like — morning, midday, afternoon, evening — gives your child something to reference. Update it with them when possible. Ownership over the schedule can make the disruption feel less like something happening to them.
+
+**Name the Change Explicitly**
+
+Spell it out: "For the next nine days, there is no school. You stay home with us. Then on Monday the 6th, school starts again." Simple. Concrete. Specific. Count the days together.
+
+**Create a "Home Base" Ritual**
+
+One consistent thing every day, at roughly the same time, in the same way. A specific breakfast. An afternoon walk on the same route. A movie night on Wednesday. This ritual becomes the anchor on chaotic days.
+
+**Plan for the Crash After**
+
+The return to school on the first Monday back is often harder than the break itself. Don't schedule anything extra that week. Communicate with the teacher. Extend yourself some grace.
+
+## A Note to the Parents Who Are Doing It Hard
+
+Some families reading this don't have the option of "taking it slow." You're working during spring break. Your child's other parent isn't in the picture. You're managing behaviors that are genuinely dangerous without adequate support. You're doing this on four hours of sleep and not enough money.
+
+The honest truth is that the system still fails autistic families on every level — in respite care, in family support services, in the cost of therapies, in the impossible math of work and caregiving.
+
+What I can say is this: the fact that you're reading guides at 7 AM trying to figure out how to make this week better for your kid — that's love in its most practical form. You are not failing. You are fighting an inadequately resourced battle, and most people around you don't understand what that looks like.
+
+## For the Siblings
+
+Neurotypical siblings need a direct conversation. Not a lecture — just an honest, age-appropriate explanation: "Your brother does better when we keep things calm and planned. That's how his brain works. We can still do fun things, but we do them in a way that works for our whole family."
+
+Siblings benefit from having their own special thing during break. Being seen matters to them too.
+
+## What Spring Break Can Be
+
+Spring break can also be genuinely good. Autistic kids often have deep interests that school doesn't have time for. Spring break creates space. The child who loves trains can spend an entire afternoon doing nothing but trains. That immersion is not wasted time. It's restoration. It's joy.
+
+Follow your child's lead when you can. Let the special interest be the entertainment. Some of the best spring breaks are the quiet ones that nobody ever posts about.
+
+## Before You Go
+
+- Start preparing two to three weeks out. Use a visual calendar.
+- Less is more with activities. Two or three things they love, plenty of downtime.
+- Keep some structure. Wake times, meal anchors, wind-down routines.
+- Pack sensory tools for every outing.
+- Plan for reentry difficulty. The first week back is usually harder than the break.
+- Let the special interest lead.
+- Take care of yourself.
+
+Spring break doesn't have to be perfect. It just has to be survivable, and ideally better than that.
+
+You know your child better than any guide does. Use what applies. Leave the rest.
+
+We're rooting for you.
+
+---
+
+*WeBearish is a community built around autism acceptance, honest advocacy, and practical support for neurodivergent families.*`,
+  },
+  {
     slug: 'neurodiversity-workplace-accommodations-2026',
     title: 'Neurodiversity at Work 2026: Reasonable Accommodations and Rights',
     excerpt: 'What employees and employers need to know about accommodations, disclosure, and building inclusive workplaces.',
@@ -3696,3 +3811,4 @@ For most autistic people, most of the time, that is "autistic person."
 - [The Autistic Self Advocacy Network](https://autisticadvocacy.org) — The largest autistic-run autism advocacy organization in the US`,
   },
 ];
+
