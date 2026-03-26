@@ -128,7 +128,7 @@ We're rooting for you.
   {
     slug: 'neurodiversity-workplace-accommodations-2026',
     title: 'Neurodiversity at Work 2026: Reasonable Accommodations and Rights',
-    excerpt: 'What employees and employers need to know about accommodations, disclosure, and building inclusive workplaces.',
+    description: 'What employees and employers need to know about accommodations, disclosure, and building inclusive workplaces.',
     content: `The neurodivergent population now includes millions of diagnosed individuals plus millions more who are undiagnosed or self-diagnosed. Employers increasingly recognize that neurodivergent employees bring different skillsets and perspectives and that small accommodations can unlock significant value. But the conversation is still navigating questions of disclosure, rights, and actual implementation.
 
 The legal framework for workplace accommodations is the ADA in the US and equivalent disability laws in other countries. An employee can request reasonable accommodations if they have a disability — and neurodivergence can qualify as a disability if it significantly impairs major life activities. The employer is legally required to provide accommodations unless doing so causes undue hardship.
@@ -147,7 +147,7 @@ Progressive companies are proactively creating cultures and policies that benefi
   {
     slug: 'autism-acceptance-month-2026-what-it-actually-means',
     title: 'Autism Acceptance Month 2026: What It Means and Why It Matters',
-    excerpt: 'April is Autism Acceptance Month in the US. Here is what that means and why the framing matters.',
+    description: 'April is Autism Acceptance Month in the US. Here is what that means and why the framing matters.',
     content: `Autism Acceptance Month has replaced Autism Awareness Month in many autism advocacy spaces. The distinction is intentional and important. Awareness can be passive — people can be aware of autism and still hold negative stereotypes, still believe it needs to be cured, still treat autistic people poorly. Acceptance is the actual goal — understanding that autistic people are autistic, that being autistic is not a tragedy, and that the world should accommodate and include autistic people rather than expecting them to hide or change core aspects of how they are.
 
 The autistic community has spent decades clarifying that autism is not something that happened to autistic people, it is something that is intrinsic to who autistic people are. You cannot separate autism from an autistic person. The goal is not cure — it is acceptance and accommodation.
