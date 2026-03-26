@@ -168,7 +168,7 @@ Autism Acceptance Month is April. Wear autism acceptance symbols if you do. Supp
     date: 'March 23, 2026',
     readTime: '5 min read',
     category: 'Advocacy',
-    content: \`April is Autism Acceptance Month.
+    content: `April is Autism Acceptance Month.
 
 You may have seen it called Autism Awareness Month. You may have seen puzzle pieces and the color blue. You may have received emails from organizations asking you to light it up blue. This post is about why the words matter and why the WeBearish community has made a clear choice to center acceptance rather than awareness.
 
@@ -182,7 +182,7 @@ The color blue was associated with autism awareness because autism was believed 
 
 WeBearish uses the infinity symbol, which the autistic community has adopted as a symbol of neurodiversity: infinite variety in how human brains work, with no type being inherently superior.
 
-This April, the question worth sitting with is not whether you are aware of autism. The question is: what does acceptance actually require from you?\`
+This April, the question worth sitting with is not whether you are aware of autism. The question is: what does acceptance actually require from you?`
   },
   {
     slug: 'what-late-autism-diagnosis-actually-feels-like',
@@ -191,7 +191,7 @@ This April, the question worth sitting with is not whether you are aware of auti
     date: 'March 23, 2026',
     readTime: '6 min read',
     category: 'Personal',
-    content: \`The late autism diagnosis is becoming one of the defining experiences of our generation. It is happening in numbers that would have been hard to predict a decade ago: adults in their thirties, forties, fifties, and beyond are receiving autism diagnoses for the first time and encountering a specific kind of profound reorientation.
+    content: `The late autism diagnosis is becoming one of the defining experiences of our generation. It is happening in numbers that would have been hard to predict a decade ago: adults in their thirties, forties, fifties, and beyond are receiving autism diagnoses for the first time and encountering a specific kind of profound reorientation.
 
 The experience is not uniform. It ranges from profound relief to grief to anger to a kind of confused nothing-changes-and-everything-changes. But there are patterns that people who have been through it describe with enough consistency that they are worth naming.
 
@@ -203,7 +203,7 @@ The third thing is the question of who to tell and what to expect when you do. T
 
 The fourth thing, for many people, is a gradual permission to stop performing. To tell people that crowds are genuinely difficult for you without feeling like you are making an excuse. To ask for accommodations without the fear that you are being difficult. To organize your life around how your brain actually works rather than how you were told it should work.
 
-The diagnosis does not change who you are. It changes how you understand who you have always been. That is not a small thing.\`
+The diagnosis does not change who you are. It changes how you understand who you have always been. That is not a small thing.`
   },
   {
     slug: 'awareness-is-not-acceptance',
