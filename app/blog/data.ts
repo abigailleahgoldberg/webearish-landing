@@ -12,8 +12,8 @@ export interface BlogPost {
 export const blogPosts: BlogPost[] = [
   {
     slug: 'spring-break-autistic-child-what-works',
-    title: 'Spring Break With an Autistic Child: What Works, What Doesn't, and What Nobody Tells You',
-    description: 'Spring break is hard for a specific reason most parenting content never names: it's not a break from school. It's a break from structure. Here's what actually works.',
+    title: 'Spring Break With an Autistic Child: What Works, What Doesn\'t, and What Nobody Tells You',
+    description: 'Spring break is hard for a specific reason most parenting content never names: it\'s not a break from school. It\'s a break from structure. Here\'s what actually works.',
     date: '2026-03-26',
     readTime: '8 min read',
     category: 'Autism Acceptance & Advocacy',
