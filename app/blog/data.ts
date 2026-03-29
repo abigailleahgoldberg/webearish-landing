@@ -3810,5 +3810,86 @@ For most autistic people, most of the time, that is "autistic person."
 - [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books centered on autistic identity rather than deficit
 - [The Autistic Self Advocacy Network](https://autisticadvocacy.org) — The largest autistic-run autism advocacy organization in the US`,
   },
+  {
+    slug: "autism-research-wars-waaw-2026",
+    title: "The Autism Research Wars: What Is Actually Happening and What Autistic People Need",
+    description: "Federal autism science is under political pressure. An independent research community is pushing back. As World Autism Acceptance Week begins, here is what the data actually says — and why acceptance, not cure, is the only defensible position.",
+    date: "March 30, 2026",
+    readTime: "8 min read",
+    category: "Advocacy",
+    content: `World Autism Acceptance Week begins today. And this year, it arrives in the middle of a genuine battle over what autism science is for.
+
+In early 2026, the federal Interagency Autism Coordinating Committee — the body that shapes federal autism research priorities — was reconstituted with members who bring vaccine skepticism and cure-focused frameworks to a field that has been moving, painstakingly, toward a neurodiversity-affirming evidence base. A meeting scheduled for March 19 was postponed. Independent researchers and autism community members responded by forming a rival committee to hold the line.
+
+This is not an abstract policy dispute. Federal committees shape research funding. Research funding shapes what gets studied. What gets studied shapes clinical practice. Clinical practice shapes what happens to autistic children in doctor's offices, schools, and homes.
+
+The stakes are real. So is the evidence.
+
+## What the Research Actually Says Right Now
+
+While the policy arguments run in Washington, peer-reviewed science has been moving in a consistent direction.
+
+A paper published in Nature Mental Health one week ago, from NYU researchers, stated plainly: "Incorporating a neurodiversity lens and embracing individual variability will be a necessary step to improve research, outcomes and lives." This is not advocacy language. It is the stated conclusion of published researchers in a major journal.
+
+A genetics study published earlier this year found that the same genes associated with autism are linked to the cognitive capacities that make humans uniquely adaptable. The framing the researchers used: not a disorder, but a trade-off embedded in the same genetic architecture that shaped human intelligence. You cannot separate the neurodiversity from the cognitive range that built civilization.
+
+Research on masking continues to accumulate and it all points the same direction. Greater camouflaging of autistic traits predicts higher anxiety, higher depression, higher rates of burnout, and — in autistic women — higher rates of suicidal ideation. The research is not suggesting that reducing masking is one tool among many. It is establishing that masking is a mechanism of harm.
+
+What does not appear in the peer-reviewed record: evidence that making autistic people appear less autistic improves their quality of life, mental health, or long-term outcomes. The evidence base for acceptance-oriented approaches is growing. The evidence base for normalization approaches is not.
+
+## What Autistic People Need That Science Cannot Give Them
+
+Research can tell us about mechanisms. It cannot tell us what autistic people deserve.
+
+Autistic people deserve schools that accommodate how they actually learn rather than demanding performance of neurotypicality as the price of education. They deserve healthcare providers who understand the double empathy problem and do not treat autistic communication differences as deficits. They deserve workplaces designed for a range of sensory and communication profiles rather than built entirely around neurotypical norms.
+
+They deserve to have their burnout recognized as a systemic outcome of a world not built for them, not as a personal failing. They deserve access to augmentative and alternative communication without having to fight for it. They deserve to stim without being corrected. They deserve to know, from the time they are children, that being autistic is part of who they are and not something to be fixed.
+
+None of this requires a political position. It requires taking the existing research seriously and following it to its conclusions.
+
+## The WeBearish Position
+
+WeBearish exists because the autism conversation in most public spaces is still dominated by fear, by cure narratives, and by organizations that speak about autistic people without meaningfully including them.
+
+We are not a research organization. We do not take positions on specific clinical interventions or treatments. What we do is read the research, listen to autistic adults, and refuse to publish content that frames autism as a tragedy or autistic people as burdens.
+
+That is not a political position. It is a commitment to the evidence.
+
+The evidence says: autistic brains are different, not broken. Masking causes harm. Acceptance supports wellbeing. Autistic community is protective. The world needs to change more than autistic people do.
+
+This World Autism Acceptance Week, that is what we are standing on.
+
+## What You Can Do This Week
+
+Read autistic writers. Not writers about autism. Writers who are autistic. Nick Walker. Devon Price. Amy Sequenzia. Lydia X. Z. Brown. Kieran Rose. The Autistic Self Advocacy Network's publications. What they say about their own experience is more informative than almost anything written about them.
+
+Use identity-first language. "Autistic person" rather than "person with autism." It reflects how most autistic adults prefer to be described, and why matters: autism is not something separate from the person. It is woven into how they think and experience the world.
+
+Push back on cure narratives when you encounter them. Not with contempt. With evidence. "The research on masking outcomes suggests that's not the direction that helps. Here is what the data actually shows."
+
+Support organizations led by autistic people. The Autistic Self Advocacy Network. Autistic Women and Nonbinary Network. The Autistic People of Color Fund. The organizations closest to the experience tend to have the clearest picture of what is needed.
+
+And if you have an autistic child: tell them this week that being autistic is part of who they are, and that who they are is okay. Not in spite of their autism. Not that you love them anyway. That being autistic is not a problem to be solved and they do not need to perform normalcy to deserve love.
+
+That message is not complicated. It is just rare enough that it still needs to be said.
+
+**More from WeBearish**
+
+- [Why Masking Harms Autistic Children](/blog/why-masking-harms-autistic-children)
+- [Autistic Burnout: What It Is and What Actually Helps](/blog/autistic-burnout-what-it-is-what-helps)
+- [Join the WeBearish Community](/community) — $3/month. No tragedy narratives.
+
+---
+
+**Helpful Resources**
+
+- [Autistic Self Advocacy Network](https://autisticadvocacy.org) — The largest autistic-led disability rights organization in the US
+- [Unmasking Autism — Devon Price](https://www.amazon.com/s?k=unmasking+autism+devon+price&tag=webearish-20) — The most readable introduction to autistic experience and identity
+- [Identity-First Books About Autism](https://www.amazon.com/s?k=autism+identity+first+books&tag=webearish-20) — Books centered on autistic voices
+- [Noise-Canceling Headphones for Kids](https://www.amazon.com/s?k=noise+canceling+headphones+kids+autism&tag=webearish-20) — One of the most impactful sensory tools for autistic children
+- [Weighted Blankets](https://www.amazon.com/s?k=weighted+blanket+autism+sensory&tag=webearish-20) — Deep pressure support for regulation
+
+*Some links above may be affiliate links. WeBearish earns a small commission at no extra cost to you.*`,
+  },
 ];
 
