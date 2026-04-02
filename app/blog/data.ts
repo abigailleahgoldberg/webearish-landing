@@ -3893,3 +3893,298 @@ That message is not complicated. It is just rare enough that it still needs to b
   },
 ];
 
+
+const aprilPosts2026: BlogPost[] = [
+  {
+    slug: 'autism-acceptance-vs-awareness-2026',
+    title: `Autism Acceptance vs. Autism Awareness: Why the Distinction Matters in 2026`,
+    description: `Autism Awareness vs. Autism Acceptance — these aren't just different words. They represent different philosophies about autistic people and what support actually means. Here's why it matters.`,
+    date: '2026-04-01',
+    category: `Autism Acceptance & Advocacy`,
+    readTime: '5 min read',
+    content: `April has historically been recognized as Autism Awareness Month. For decades, blue lightbulbs, puzzle pieces, and "light it up blue" campaigns have dominated the conversation — all built around the framework of awareness. Making the neurotypical world aware that autism exists. Aware that autistic people are among them. Aware of the challenges.
+
+But in 2026, a significant and sustained shift is underway. Many autistic people and their allies have moved away from "awareness" toward "acceptance" — and the distinction is not semantic. It represents a fundamentally different set of beliefs about what autistic people need, who gets to define those needs, and what "support" actually looks like.
+
+Here's why the distinction matters.
+
+## What "Awareness" Actually Communicates
+
+Awareness campaigns generally communicate:
+- Autism exists
+- It's more prevalent than you might think
+- Autistic people face challenges
+- You should be aware so you can understand (or accommodate, or cure)
+
+The framework of awareness positions autism primarily as a problem — something that needs to be disclosed, understood, managed, and in many cases, fixed. The most prominent "awareness" organization of the past few decades, Autism Speaks, spent the majority of its early years on research focused on finding a cure, and produced media (including the notorious "Ransom Notes" and "I Am Autism" campaigns) that described autism as something that destroys families and steals children.
+
+Autistic people largely hate these campaigns. Not because awareness is bad, but because the awareness being raised frames autism — and by extension, autistic people — as a burden, a tragedy, a problem to be solved.
+
+That framing does real harm.
+
+## What "Acceptance" Means Instead
+
+Acceptance is built on a different foundation. Its central commitments are:
+
+**Autism is a neurological difference, not a disease.** Autistic brains are wired differently. Different processing, different sensory experience, different social cognition. This is variation, not defect.
+
+**Autistic people are the authorities on their own experience.** "Nothing about us without us" is the disability rights principle that acceptance movements apply directly: autistic people should lead conversations about autism, define what support looks like, and determine what resources they need.
+
+**The goal is inclusion, not normalization.** Acceptance does not mean "trying to make autistic people seem less autistic." It means creating environments where autistic people can exist as they are — with appropriate supports, with accommodation, and without pressure to mask or perform neurotypicality.
+
+**Autistic people deserve celebration, not just accommodation.** The neurodiversity framework affirms that autistic strengths — attention to detail, pattern recognition, passionate focus, honesty — are genuine assets, not compensation prizes for deficits.
+
+## The Real-World Consequences of the Distinction
+
+This is not an abstract philosophical debate. The awareness-vs.-acceptance distinction has real consequences for:
+
+**Children receiving diagnoses:** Children who grow up in families that frame autism as tragedy — that mourn the child they "lost" — have measurably worse outcomes in terms of self-esteem, mental health, and life satisfaction. Children whose families frame autism as difference — "your brain works differently, and that's okay, here's how we'll support you" — do significantly better.
+
+**Therapeutic approaches:** The debate has direct implications for ABA (Applied Behavior Analysis) therapy, which remains controversial in the autistic community. Many autistic adults who underwent intensive ABA as children describe it as traumatizing — teaching them to mask pain and natural behaviors rather than helping them function. Modern, affirming therapeutic approaches focus on building genuine skills and providing authentic support rather than making children "indistinguishable from neurotypical peers" (an actual historical ABA goal).
+
+**Workplace and social inclusion:** Awareness tells people that autistic people exist and face challenges. Acceptance changes the question from "how do we tolerate this person" to "how do we design environments where everyone can contribute effectively." That's a different accommodation conversation.
+
+**Mental health:** Research consistently shows that autistic people who experience their autism as something to be ashamed of or hidden have significantly higher rates of anxiety, depression, and suicidal ideation. Autistic people who have community and self-acceptance have better outcomes.
+
+## What April Should Look Like in 2026
+
+The autistic community has largely moved toward red/gold as alternative colors (based on the iron (Fe) symbol and the neurodiversity infinity symbol), away from puzzle pieces (which many find dehumanizing), and toward the language and framework of acceptance.
+
+Autistic-led organizations like ASAN (Autistic Self Advocacy Network), the Autism Women & Nonbinary Network, and many others have produced resources, campaigns, and community spaces that center autistic people's own perspectives.
+
+What does genuine April recognition look like?
+
+- **Listen to autistic people.** Not just parents of autistic children. Not just researchers. Autistic people themselves, including those who are nonspeaking or otherwise communicate differently.
+- **Celebrate neurodiversity without papering over real challenges.** Autistic people often face genuine difficulties — with sensory processing, executive function, social exhaustion, and a world not designed for them. Acceptance doesn't pretend these don't exist. It advocates for the supports that actually help.
+- **Support autistic-led organizations.** Before donating to large autism charities, check: are autistic people on the leadership? Do they support autistic people's own stated priorities?
+- **Change the conversation in your immediate sphere.** When a kid rocks or stimms or covers their ears, the acceptance response is different from the awareness response. One says "that's odd, let me tell you about autism." The other says "how do I make sure they're comfortable and have what they need?"
+
+## The Bottom Line
+
+Awareness was a starting point. Acceptance is the destination. In 2026, the conversation has moved — and the quality of autistic people's lives often depends on which framework the people around them are working from.
+
+---
+
+*Read more about neurodiversity, sensory support, and inclusive communities at [Webearish](/community).*`,
+  },
+  {
+    slug: 'best-sensory-friendly-clothing',
+    title: `The Best Sensory-Friendly Clothing for Kids and Adults: What to Look For`,
+    description: `Sensory-friendly clothing isn't a niche product — it's a real need for millions of autistic and sensory-sensitive people. Here's exactly what to look for and the brands delivering on it.`,
+    date: '2026-04-01',
+    category: `Autism Acceptance & Advocacy`,
+    readTime: '5 min read',
+    content: `Getting dressed should be one of the least complicated parts of the day. For sensory-sensitive people — autistic individuals, people with sensory processing disorder, ADHD, or any condition that affects sensory integration — it can be genuinely distressing. The wrong tag, a seam in the wrong place, fabric that scratches or clings — these aren't minor irritations. They can make it impossible to focus on anything else.
+
+Sensory-friendly clothing has grown significantly as a market in the past five years, but it's still uneven. Some "sensory-friendly" products are thoughtfully designed. Others slap the label on standard clothing with one tagless label and call it done.
+
+This guide breaks down what actually matters in sensory-friendly clothing design, so you can evaluate any garment — branded or not — against real criteria.
+
+## What Makes Clothing Sensory-Unfriendly
+
+Before we talk about solutions, it helps to understand the specific problems. Sensory sensitivities vary significantly from person to person, but these are the most common clothing-related triggers:
+
+**Tags and labels.** Interior tags at the collar or waistband are the most common clothing complaint for sensory-sensitive people. Scratchy, stiff, or rough labels that press against skin create constant distraction and irritation.
+
+**Seams.** Seams at toes, heels, and wrists are common trouble spots. Flat-sewn seams are less problematic than raised seams; seam placement matters as much as seam quality.
+
+**Fabric texture.** Different people have opposite preferences — some find soft, smooth fabrics (like bamboo or micromodal) calming; others find them uncomfortably slippery. Some people can wear wool; others find it intolerable. Understanding the specific person's texture preferences is essential.
+
+**Elastic and waistbands.** Tight elastic can feel like sustained pressure that's impossible to ignore. Waistbands that roll, bunch, or dig in are a common source of distress.
+
+**Cuffs and closures.** Tight wrist cuffs, buttons that require fine motor coordination, and zippers with scratchy pull tabs are all common friction points.
+
+**Fit and compression.** Some sensory-sensitive people prefer close-fitting clothing (compression can be regulating). Others need looser fits to avoid the feeling of constriction. This preference is highly individual.
+
+**Weight and temperature.** Heavy fabrics can feel overwhelming; very light fabrics may feel "wrong" or insufficient. Temperature regulation matters — synthetic fabrics that trap heat can cause distress even for people who don't experience dramatic sensory sensitivities.
+
+## What to Look For: The Sensory-Friendly Checklist
+
+Use this checklist when evaluating clothing for sensory-sensitive kids or adults:
+
+### Tags and Labels
+- **Tagless printing** is the gold standard — size and care information printed directly on the fabric
+- If a tag exists, it should be flat, soft, and positioned away from the back of the neck
+- Watch out for multi-layer labels; they add stiffness even when soft
+
+### Seams
+- **Flatlock seams** (flattened against the fabric rather than raised) are significantly more comfortable
+- **Seamless construction** for socks is particularly valuable — sensory-sensitive children who struggle with socks often do well with seamless designs
+- Check toe seam placement specifically for socks and footie pajamas
+
+### Fabric
+- **Natural fibers** (cotton, bamboo, modal, merino wool) are generally better tolerated than synthetic blends, but this varies
+- **Bamboo and micromodal** are often recommended for extreme sensitivity — soft, smooth, and temperature-regulating
+- Avoid rough, scratchy, or stiff fabrics; "pre-washed" and "broken in" fabrics are often better than brand new
+- **Jersey knit** (t-shirt material) is generally more tolerable than woven fabrics
+
+### Waistbands and Elastic
+- Soft, wide elastic distributes pressure more evenly than narrow bands
+- **Adjustable waistbands** accommodate days when sensory tolerance is lower
+- Pull-on pants with no buttons or zippers reduce morning-routine complexity
+
+### Closures
+- **Pull-on waistbands** over buttons and zippers when possible
+- Velcro can work well for shoes but the sound and feel of closing can be aversive for some
+- Large, flat buttons are easier than small or raised buttons for people with fine motor differences
+
+### Overall Design
+- Minimal embellishment — raised appliques, scratchy embroidery, and decorative patches all add potential trigger points
+- Loose enough to move freely; tight enough not to bunch or twist
+- Long enough that shirts don't untuck (a common distraction)
+
+## Specific Categories
+
+### Socks
+
+Socks are disproportionately important. For many sensory-sensitive people, socks that don't fit right can derail an entire morning.
+
+What to look for: seamless toe construction, consistent band compression (not too tight at the top), fabric that stays in place without bunching. Gold Toe, Smartwool, and Bombas all make adult options that many sensory-sensitive users report tolerating well. For kids, Sensory Sock (a specialized brand) and Tommy Hilfiger's adaptive line are frequently recommended.
+
+### Pants and Shorts
+
+The waistband is everything. Look for flat internal elastic, no interior buttons, and tag-free waistbands. Joggers and sweatpants are often easier than structured pants for sensory-sensitive children. For adults, brands like Tommy Adaptive, Target's Cat & Jack Adaptive line, and Kozie Clothes have done meaningful work in this category.
+
+### Shirts
+
+The neck seam matters. Look for crew necks with flat stitching rather than ribbed or rough collar construction. V-necks can reduce the perception of collar tightness. Tagless construction is essential. 100% cotton or bamboo blends are preferred.
+
+### Shoes
+
+Shoes combine multiple potential sensory issues: laces (fine motor demand), compression at the toe box, sock-shoe interaction. Slip-on designs, wider toe boxes, and shoes with adjustable velcro or elastic lacing systems can significantly reduce shoe-related distress.
+
+## A Note on Individual Variation
+
+Every person's sensory profile is different. What works for one sensory-sensitive child may be intolerable for another. The checklist above covers the most common issues, but the only reliable approach is systematic experimentation guided by the individual's own feedback.
+
+For nonspeaking or minimally speaking autistic individuals, behavioral cues (removing clothing, pulling at specific spots, distress during dressing) are important signals about what's not working. Tracking which specific elements cause problems (this shirt is fine but that texture isn't; these pants are okay but that sock isn't) builds a profile over time.
+
+The goal is a wardrobe where getting dressed is not a daily battle — where the sensory environment of clothing is regulated rather than a source of distress.
+
+---
+
+*Find more sensory-friendly resources and community support at [Webearish](/resources).*`,
+  },
+  {
+    slug: 'neurodiverse-inclusive-workplace-guide',
+    title: `How to Build a Neurodiverse-Inclusive Workplace: A Practical Guide for Employers`,
+    description: `Building a neurodiverse-inclusive workplace goes beyond compliance. Here's the practical guide for employers who want to actually unlock the talent, not just check the box.`,
+    date: '2026-04-01',
+    category: `Autism Acceptance & Advocacy`,
+    readTime: '6 min read',
+    content: `The business case for neurodiversity in the workplace has been made and proven. Companies including SAP, Microsoft, Ernst & Young, and JPMorgan Chase have built formal neurodiversity hiring programs and documented the results: higher retention rates, lower absenteeism, and genuinely exceptional performance in roles that match neurodivergent employees' strengths.
+
+But the gap between "we want to hire neurodiverse talent" and "we have built an environment where neurodiverse people can actually succeed" is real and often underestimated.
+
+This guide is for employers who want to close that gap. Not the compliance-minimum version. The actual version.
+
+## Start With the Basics: What Neurodiversity Means at Work
+
+Neurodiversity encompasses a range of neurological differences — autism, ADHD, dyslexia, dyspraxia, Tourette syndrome, and more. These are not diseases or deficits, though they come with genuine challenges in environments not designed for them. They're different cognitive profiles — different ways of processing information, organizing work, communicating, and relating to others.
+
+The workplace challenges neurodivergent employees most commonly face:
+- Sensory overload in open offices
+- Difficulty with ambiguous or unstructured tasks
+- Communication norms that assume shared implicit understanding
+- Performance review and interview formats that disadvantage non-neurotypical presentation
+- Social dynamics that require reading unspoken rules
+- Schedule and time management demands that conflict with executive function differences
+
+The workplace strengths neurodivergent employees often bring:
+- Deep focus and expertise in areas of interest (common in autism, ADHD)
+- Pattern recognition and systematic thinking
+- Exceptional attention to detail
+- Creative problem-solving from genuinely different angles
+- High commitment and loyalty when conditions are right
+- Honesty and directness that cuts through organizational noise
+
+Building inclusion means designing for both realities — managing the genuine challenges while enabling the genuine strengths.
+
+## Hiring: Where Inclusion Begins and Usually Fails
+
+Traditional hiring processes actively filter out many neurodivergent candidates. Consider the standard interview:
+- Unstructured conversation requiring rapid interpretation of social cues
+- Questions about "how you work with others" that favor neurotypical social styles
+- Judging presentation, eye contact, and "fit" on criteria that disadvantage autistic candidates
+- Time pressure that conflicts with processing differences
+- Phone screening that's particularly difficult for people with auditory processing differences
+
+This isn't just unfair — it's inefficient. You're selecting for interview performance, not job performance.
+
+**Practical changes to hiring:**
+
+**Structured interviews with questions provided in advance.** This benefits all candidates and specifically helps neurodivergent applicants who may process better with preparation time. The quality of responses goes up. You assess actual knowledge, not improvisational interview skill.
+
+**Work sample tests over behavioral questions.** "Can you complete this sample analysis?" tells you far more than "Tell me about a time when you faced a challenge." This benefits everyone and removes the bias toward those who tell good stories about themselves.
+
+**Multiple interview formats.** Some candidates will do better in written formats than verbal. Some will do better with one-on-one than panel. Offering flexibility is both equitable and practical.
+
+**Clear, literal job descriptions.** "Strong communication skills required" is vague and implicitly neurotypical. What specifically do you need? Written communication? Presenting to groups? Client-facing calls? Being specific benefits all candidates and helps neurodivergent applicants self-select accurately.
+
+**Stated openness to accommodation in job postings.** This signals to neurodivergent candidates that they won't have to figure out on their own whether it's safe to ask.
+
+## Physical Environment
+
+The open office is a sensory nightmare for many neurodivergent people. Constant noise, unpredictable interruptions, bright overhead lighting, and no visual privacy are a recipe for sensory overload, concentration failures, and exhaustion.
+
+**Changes that help without requiring neurodivergent-only spaces:**
+
+**Quiet zones.** Designated low-noise areas where conversations happen in hushed tones or not at all. These benefit everyone trying to do deep work; they're essential for some neurodivergent employees.
+
+**Flexible lighting.** Harsh fluorescent overhead lighting is a common trigger. Access to natural light, adjustable desk lamps, or the option to work near windows makes a real difference.
+
+**Designated focus-work times.** Company norms around "do not interrupt" periods, whether formal or informal, reduce the constant unpredictable interruptions that break deep concentration.
+
+**Private space access.** Not a private office — access to a room where someone can close a door, make a call without being overheard, or decompress for 15 minutes when sensory input gets overwhelming.
+
+**Noise management tools.** If you're in an open office and can't change the architecture, at minimum ensure employees have access to quality noise-cancelling headphones as standard equipment.
+
+## Communication and Management
+
+Many neurodivergent employees do best with:
+
+**Explicit over implicit.** Don't hint at what you want. Say it directly. "I want you to take ownership of this project, which means sending me a weekly status update every Friday by noon" is infinitely more useful than "I'm hoping you'll take point on this."
+
+**Written over verbal for complex instructions.** Many people with ADHD and working memory differences retain written instructions far better than verbal ones. Make key instructions available in writing, even when they're also communicated verbally.
+
+**Clear priorities.** Many neurodivergent employees, particularly those with ADHD, struggle with "everything is important." When pressed, most managers can rank priorities. Doing so explicitly prevents the executive function paralysis that comes from trying to determine priority without clear guidance.
+
+**Structured check-ins.** Regular, predictable one-on-ones are better than ad hoc communication. Predictable structure reduces anxiety and ensures issues surface before they become problems.
+
+**Feedback that's direct and specific.** Sandwich feedback, softened criticism, and hints about performance are consistently misread by many autistic employees who process communication more literally. Direct, specific feedback — "this report needs more data in section two; here's an example of what I mean" — is helpful. "I'd love to see you really go for it in the analysis" is not.
+
+## Accommodations: The Legal and the Practical
+
+Under the ADA in the United States, employers are required to provide reasonable accommodations to employees with documented disabilities, which includes many neurodivergent conditions.
+
+But compliance-minimum is a low bar. The more useful framing: what accommodations enable this person to do their best work?
+
+Common effective accommodations:
+- Flexible start and end times for employees with morning-regulation challenges
+- Remote or hybrid work options for employees who do significantly better with sensory control over their environment
+- Written rather than verbal assignments for employees with auditory processing differences
+- Noise-cancelling headphones
+- Extra time for tasks that require processing under time pressure
+- Meeting agendas provided in advance
+- Private space for phone calls or decompression breaks
+
+Most of these cost little or nothing. Many of them improve conditions for neurotypical employees too.
+
+## Creating a Culture of Psychological Safety
+
+Neurodivergent employees are significantly less likely to disclose their condition when they don't feel psychologically safe. Disclosure enables accommodation. Accommodation enables performance. The loop starts with culture.
+
+What psychological safety looks like in practice:
+- Leadership visible modeling of openness about cognitive differences and mental health
+- No punishing of disclosure with reduced opportunities
+- Treating requests for accommodation as reasonable and professional, not as special pleading
+- Managers trained to respond to disclosure appropriately — with curiosity and practical problem-solving, not pity or concern
+
+The goal isn't a workplace that tolerates neurodivergent employees. It's a workplace that recognizes that cognitive diversity — including the neurodivergent variety — is a genuine competitive asset.
+
+---
+
+*More employment resources, community support, and practical guides at [Webearish](/resources).*`,
+  },
+];
+blogPosts.push(...aprilPosts2026);
